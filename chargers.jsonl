@@ -143,6 +143,54 @@
             "longitude": 32.624481,
             "address": "Tatlıcak Mah Ereğli Caddesi No: 83, Karatay, 42030 Konya / Türkiye",
             "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Ladik Kalkınma Kooperatif, Konya",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 90,
+            "latitude": 38.203144,
+            "longitude": 32.400986,
+            "address": "Ladik Mah. Yeni İstanbul Cad. No:713, Sarayönü, 42432 Konya / Türkiye",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Akbaşlar Tarım, Konya",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.374167,
+            "longitude": 32.784083,
+            "address": "Akbaşlar Ltd. Şti. Konya Karaman Yolu üzeri 60.km. Kuzucu Mahallesi, Çumra, 42500 Konya / Türkiye",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Masara Yöresel Köy Ürünleri, Karaman",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.2024,
+            "longitude": 33.099756,
+            "address": "Karaman Konya Yolu 8. km, Bölükyazı Köyü, Merkez, 70100 Karaman / Türkiye",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Grand Karaman Otel, Karaman",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.187758,
+            "longitude": 33.179047,
+            "address": "Ataturk Mah. 15 Temmuz, Şehitler Blv No:34, Merkez, 70110 Karaman / Türkiye",
+            "imageURL": ""
         }
     ]
 }

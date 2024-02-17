@@ -191,6 +191,54 @@
             "longitude": 33.179047,
             "address": "Ataturk Mah. 15 Temmuz, Şehitler Blv No:34, Merkez, 70110 Karaman / Türkiye",
             "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - İsa-Ufuk Otomotiv, Mersin",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 1,
+            "dcspeed": 30,
+            "latitude": 36.085444,
+            "longitude": 32.857778,
+            "address": "Bahçelievler Mah. Alparslantürkeş Bul. No:15/A Sanayi Sitesi Karşısı, Anamur, 33640 Mersin / Türkiye",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Otopratik (Hanedar 2), Antalya",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 36.545667,
+            "longitude": 32.024361,
+            "address": "Cikcilli, Merkez MH, 111. Sk. NO:7/D, Alanya, 07400 Antalya / Türkiye",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - White City Beach, Antalya",
+            "type": "ac",
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 0,
+            "dcspeed": 0,
+            "latitude": 36.567113,
+            "longitude": 31.917039,
+            "address": "Gerpelit Mevkii Konaklı, Alanya, 07491 Antalya / Türkiye",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - White City Resort, Antalya",
+            "type": "ac",
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 0,
+            "dcspeed": 0,
+            "latitude": 36.607655,
+            "longitude": 31.782714,
+            "address": "Türkler, Fuğla Mevkii, Alanya, 07407 Antalya / Türkiye",
+            "imageURL": ""
         }
     ]
 }

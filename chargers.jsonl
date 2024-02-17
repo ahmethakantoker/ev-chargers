@@ -1,28 +1,148 @@
 {
     "request": [
         {
-            "name": "E-Şarj M1 Konya",
-            "icon": "dc",
-            "latitude": 37.95175303985476,
-            "longitude": 32.49377511076969
+            "name": "E-Şarj - M1 Konya AVM",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.951728,
+            "longitude": 32.493701,
+            "address": "Yazır Mah. Doç. Dr. Halil Ürün Cad. No: 22 Selçuk, 42250 Konya / Türkiye",
+            "imageURL": ""
         },
         {
-            "name": "Trugo M1 Konya",
-            "icon": "dc",
+            "name": "Trugo - M1 AVM",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 180,
             "latitude": 37.95183160338106,
-            "longitude": 32.49627684766571
+            "longitude": 32.49627684766571,
+            "address": "Yazır Mah. Doç. Dr. Halil Ürün Cad. No: 22 Selçuk, 42250 Konya / Türkiye",
+            "imageURL": ""
         },
         {
-            "name": "ZES Novaland Konya",
-            "icon": "dc",
-            "latitude": 37.948203344579994,
-            "longitude": 32.525318303627174
+            "name": "E-Şarj - Özkaymak Otomotiv, Konya",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.925611,
+            "longitude": 32.508889,
+            "address": "Horozluhan Osb Mah. İstanbul Yolu Üzeri 1.Organize San Böl. No:38/A, Selçuklu, 42120 Konya / Türkiye",
+            "imageURL": ""
         },
         {
-            "name": "Trugo Shell Kule Site",
-            "icon": "dc",
-            "latitude": 37.890499762131306,
-            "longitude": 32.492029023961976
+            "name": "E-Şarj - Bayraktarlar Merkon Otomotiv, Konya",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.920953,
+            "longitude": 32.522056,
+            "address": "Horozluhan Mah., Çevreli Sk. No:2A, Horozluhan Osb, Selçuklu, 42120 Konya / Türkiye",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Konya Pratik Otomotiv, Konya",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.921672,
+            "longitude": 32.527039,
+            "address": "Fevziçakmak Mah. Çelik Caddesi, Bukas iş Merkezi, 2/E, Karatay, 42345 Konya / Türkiye",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Sekizli Mak. & Vinç Aş., Konya",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.914531,
+            "longitude": 32.550314,
+            "address": "Fevziçakmak, 10650. Sk. No:3, Karatay, 42050 Konya / Türkiye",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Köprülü Oto, Konya",
+            "type": "dc",
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 2,
+            "dcspeed": 50,
+            "latitude": 37.909012,
+            "longitude": 32.515434,
+            "address": "Ankara Cad. No:172 Karatay, 42050 Konya / Türkiye",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Özkaymak Konya Hotel, Konya",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.888281,
+            "longitude": 32.495606,
+            "address": "Musalla Bağları Mah. Ahmet Hilmi Nalçacı Cad. No:92, Selçuklu, 42060 Konya / Türkiye",
+            "imageURL": "" 
+        },
+        {
+            "name": "E-Şarj - Başak Mağazacılık Siemens, Konya",
+            "type": "ac",
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 0,
+            "dcspeed": 0,
+            "latitude": 37.873742,
+            "longitude": 32.484781,
+            "address": "İhsaniye Mah. Alsan Sitesi Vatan Cd. 19/A, Selçuklu, 42060 Konya / Türkiye",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Özkaymak Krom, Konya",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.826642,
+            "longitude": 32.409633,
+            "address": "Durunday Mah. Dutlu Cad. No:32, Meram, 42140 Konya / Türkiye",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Reva Nutrition, Konya",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.867506,
+            "longitude": 32.566978,
+            "address": "Tatlıcak Mah. Vatan Sanayi Sitesi Kavaf Sk. No:47, Karatay, 42030 Konya / Türkiye",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - RTM Tarım, Konya",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.858853,
+            "longitude": 32.624481,
+            "address": "Tatlıcak Mah Ereğli Caddesi No: 83, Karatay, 42030 Konya / Türkiye",
+            "imageURL": ""
         }
     ]
 }

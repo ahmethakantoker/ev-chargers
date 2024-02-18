@@ -10,18 +10,7 @@
             "latitude": 37.951728,
             "longitude": 32.493701,
             "address": "Yazır Mah. Doç. Dr. Halil Ürün Cad. No: 22 Selçuk, 42250 Konya / Türkiye",
-            "imageURL": ""
-        },
-        {
-            "name": "Trugo - M1 AVM",
-            "type": "dc",
-            "account": 0,
-            "acspeed": 0,
-            "dccount": 2,
-            "dcspeed": 180,
-            "latitude": 37.95183160338106,
-            "longitude": 32.49627684766571,
-            "address": "Yazır Mah. Doç. Dr. Halil Ürün Cad. No: 22 Selçuk, 42250 Konya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
             "imageURL": ""
         },
         {
@@ -34,6 +23,7 @@
             "latitude": 37.925611,
             "longitude": 32.508889,
             "address": "Horozluhan Osb Mah. İstanbul Yolu Üzeri 1.Organize San Böl. No:38/A, Selçuklu, 42120 Konya / Türkiye",
+            "opentime": "Pazartesi - Cumartesi : 09:00 - 00:00, Pazar : 12:00 - 17:00",
             "imageURL": ""
         },
         {
@@ -46,6 +36,7 @@
             "latitude": 37.920953,
             "longitude": 32.522056,
             "address": "Horozluhan Mah., Çevreli Sk. No:2A, Horozluhan Osb, Selçuklu, 42120 Konya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
             "imageURL": ""
         },
         {
@@ -58,6 +49,7 @@
             "latitude": 37.921672,
             "longitude": 32.527039,
             "address": "Fevziçakmak Mah. Çelik Caddesi, Bukas iş Merkezi, 2/E, Karatay, 42345 Konya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
             "imageURL": ""
         },
         {
@@ -70,6 +62,7 @@
             "latitude": 37.914531,
             "longitude": 32.550314,
             "address": "Fevziçakmak, 10650. Sk. No:3, Karatay, 42050 Konya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
             "imageURL": ""
         },
         {
@@ -82,6 +75,7 @@
             "latitude": 37.909012,
             "longitude": 32.515434,
             "address": "Ankara Cad. No:172 Karatay, 42050 Konya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
             "imageURL": ""
         },
         {
@@ -94,6 +88,7 @@
             "latitude": 37.888281,
             "longitude": 32.495606,
             "address": "Musalla Bağları Mah. Ahmet Hilmi Nalçacı Cad. No:92, Selçuklu, 42060 Konya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
             "imageURL": "" 
         },
         {
@@ -106,6 +101,7 @@
             "latitude": 37.873742,
             "longitude": 32.484781,
             "address": "İhsaniye Mah. Alsan Sitesi Vatan Cd. 19/A, Selçuklu, 42060 Konya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 10:00 - 19:00",
             "imageURL": ""
         },
         {
@@ -118,6 +114,7 @@
             "latitude": 37.826642,
             "longitude": 32.409633,
             "address": "Durunday Mah. Dutlu Cad. No:32, Meram, 42140 Konya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
             "imageURL": ""
         },
         {
@@ -130,6 +127,7 @@
             "latitude": 37.867506,
             "longitude": 32.566978,
             "address": "Tatlıcak Mah. Vatan Sanayi Sitesi Kavaf Sk. No:47, Karatay, 42030 Konya / Türkiye",
+            "opentime": "Pazartesi - Cuma : 08:00 - 18:00",
             "imageURL": ""
         },
         {
@@ -142,6 +140,7 @@
             "latitude": 37.858853,
             "longitude": 32.624481,
             "address": "Tatlıcak Mah Ereğli Caddesi No: 83, Karatay, 42030 Konya / Türkiye",
+            "opentime": "Pazartesi - Cumartesi : 08:00 - 17:30",
             "imageURL": ""
         },
         {
@@ -154,6 +153,7 @@
             "latitude": 38.203144,
             "longitude": 32.400986,
             "address": "Ladik Mah. Yeni İstanbul Cad. No:713, Sarayönü, 42432 Konya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
             "imageURL": ""
         },
         {
@@ -166,6 +166,7 @@
             "latitude": 37.374167,
             "longitude": 32.784083,
             "address": "Akbaşlar Ltd. Şti. Konya Karaman Yolu üzeri 60.km. Kuzucu Mahallesi, Çumra, 42500 Konya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
             "imageURL": ""
         },
         {
@@ -178,6 +179,7 @@
             "latitude": 37.2024,
             "longitude": 33.099756,
             "address": "Karaman Konya Yolu 8. km, Bölükyazı Köyü, Merkez, 70100 Karaman / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
             "imageURL": ""
         },
         {
@@ -190,18 +192,7 @@
             "latitude": 37.187758,
             "longitude": 33.179047,
             "address": "Ataturk Mah. 15 Temmuz, Şehitler Blv No:34, Merkez, 70110 Karaman / Türkiye",
-            "imageURL": ""
-        },
-        {
-            "name": "E-Şarj - İsa-Ufuk Otomotiv, Mersin",
-            "type": "dc",
-            "account": 0,
-            "acspeed": 0,
-            "dccount": 1,
-            "dcspeed": 30,
-            "latitude": 36.085444,
-            "longitude": 32.857778,
-            "address": "Bahçelievler Mah. Alparslantürkeş Bul. No:15/A Sanayi Sitesi Karşısı, Anamur, 33640 Mersin / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
             "imageURL": ""
         },
         {
@@ -214,6 +205,7 @@
             "latitude": 36.545667,
             "longitude": 32.024361,
             "address": "Cikcilli, Merkez MH, 111. Sk. NO:7/D, Alanya, 07400 Antalya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
             "imageURL": ""
         },
         {
@@ -226,19 +218,154 @@
             "latitude": 36.567113,
             "longitude": 31.917039,
             "address": "Gerpelit Mevkii Konaklı, Alanya, 07491 Antalya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
             "imageURL": ""
         },
         {
             "name": "E-Şarj - White City Resort, Antalya",
+            "type": "dc",
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 2,
+            "dcspeed": 150,
+            "latitude": 36.608,
+            "longitude": 31.782806,
+            "address": "Türkler, Fuğla Mevkii, Alanya, 07407 Antalya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - 7.Sense Nature Resort, Sakarya",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.677694,
+            "longitude": 30.305111,
+            "address": "Hacı Mercan Köyü, Orta Sk. No:29, Sapanca, 54600 Sakarya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 07:00 - 23:30",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - ABC Otomotiv, Ankara",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 6,
+            "dcspeed": 120,
+            "latitude": 39.946008,
+            "longitude": 32.718586,
+            "address": "İnönü Mah. Fatih Sultan Mehmet Blv. No:414, Yenimahalle, 6370 Ankara / Türkiye",
+            "opentime": "Pazartesi - Cumartesi : 08:30 - 18:00, Pazar : 11:00 - 18:00",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Acar Otomotiv, Denizli",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.788889,
+            "longitude": 29.092833,
+            "address": "Sümer, Ankara Bulv. 29/C, Merkez, Merkezefendi, 20020 Denizli / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Adana Zirai Üretim İşletmesi Tarımsal Yayım ve Hizmetiçi Eğitim Merkezi Müd.",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.011133,
+            "longitude": 35.338872,
+            "address": "Köprülü, Dr. Mithat Özsan Blv., Yüreğir, 1230 Adana / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Adım Otomotiv, Gaziantep",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.094506,
+            "longitude": 37.401131,
+            "address": "Aydınlar Mahallesi Şehit Ömer Halis Demir Bulvarı No:16, Şehitkamil, 27580 Gaziantep / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Ağaçlı Oto, Etimesgut",
             "type": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
             "dcspeed": 0,
-            "latitude": 36.607655,
-            "longitude": 31.782714,
-            "address": "Türkler, Fuğla Mevkii, Alanya, 07407 Antalya / Türkiye",
+            "latitude": 39.900158,
+            "longitude": 32.683587,
+            "address": "Eskişehir Yolu, Erler Mah. 2717 Sok. No:6/A, Etimesgut, 06800 Ankara / Türkiye",
+            "opentime": "Pazartesi - Cuma : 08:30 - 18:00, Cumartesi - Pazar : 10:00 - 16:00",
             "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - AHL Park AVM, Çorum",
+            "type": "ac",
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 0,
+            "dcspeed": 0,
+            "latitude": 40.544775,
+            "longitude": 34.947737,
+            "address": "Çepni Mah. 1. Cad No:7, Kerebigazi, 19040 Çorum / Türkiye",
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Ahsaray Otel, Aksaray",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 90,
+            "latitude": 38.364991,
+            "longitude": 34.008086,
+            "address": "Taşpazar Mah. E-90 Karayolu Cd. No:1, Merkez, 68100 Aksaray / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Ajlan Hotel Cunda, Balıkesir",
+            "type": "ac",
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 0,
+            "dcspeed": 0,
+            "latitude": 39.333194,
+            "longitude": 26.6565,
+            "address": "Namık Kemal, 15 Eylül Cd. 24. Sokak No:6, Cunda Adası, Ayvalık, 10400 Balıkesir / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Ajlan OİA, Balıkesir",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 1,
+            "dcspeed": 30,
+            "latitude": 39.337139,
+            "longitude": 26.660028,
+            "address": "Namık Kemal, 15 Eylül Cd. No:76, Ayvalık, 10405 Balıkesir / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - "
         }
     ]
 }

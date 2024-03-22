@@ -1989,6 +1989,32 @@
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "imageURL": ""
         }
+        {
+            "name": "E-Şarj - Brisa (Altınlas), Kocaeli",
+            "type": "dc",
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 4,
+            "dcspeed": 120,
+            "latitude": 40.805778,
+            "longitude": 29.484806,
+            "address": "Tavşanlı, Komürcüoğlu Cd., Gebze, 41400 Kocaeli / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        }
+        {
+            "name": "E-Şarj - BS Benim Datçam, Muğla",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 36.759694,
+            "longitude": 27.635611,
+            "address": "Karaköy Mah. Küme Evler, No:359, Datça, 48900 Muğla / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        }
         
         
     ]

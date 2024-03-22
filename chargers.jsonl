@@ -1950,6 +1950,45 @@
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "imageURL": ""
         }
+        {
+            "name": "E-Şarj - Boyner Bağdat Caddesi, İstanbul",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.965851,
+            "longitude": 29.070849,
+            "address": "Caddebostan Mah. Bağdat Cad. No:319-321A, Kadıköy, 34728 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 10:00 - 23:59",
+            "imageURL": ""
+        }
+        {
+            "name": "E-Şarj - Bozbey Dinlenme Tesisleri, Düzce",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 4,
+            "dcspeed": 180,
+            "latitude": 40.781072,
+            "longitude": 31.278403,
+            "address": "Şimşir, Kaynaşlı, 81900 Düzce / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        }
+        {
+            "name": "E-Şarj - Bridgestone, Doğan-Gü, Adana",
+            "type": "dc",
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 36.979253,
+            "longitude": 35.460444,
+            "address": "İncirlik Cumhuriyet, Ceyhan Karayolu 12. Km, Yüreğir, 01965 Adana / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        }
         
         
     ]

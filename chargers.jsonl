@@ -2209,6 +2209,84 @@
             "address": "Plevne Mah. 226 Sk. No:1/7, Altıeylül, 10050 Balıkesir / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Çekmeköy Şile Yolu, İstanbul",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 41.012556,
+            "longitude": 29.197,
+            "address": "Meclis, Cemal Gürsel Cd. No:107, Sancaktepe, 34785 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Çorlu",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 41.154167,
+            "longitude": 27.824167,
+            "address": "Kazimiye Mah. Salih Omurtak Cad. No:54/B, Çorlu, 59860 Tekirdağ / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Dragos",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 40.916861,
+            "longitude": 29.138222,
+            "address": "Yalı, Mareşal Fevzi Çakmak Cd. No:50, Maltepe, 34844 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Düzce",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 90,
+            "latitude": 40.836111,
+            "longitude": 31.167361,
+            "address": "Cedidiye Mah. Tayfun Sk. No:3, Merkez, 3010 Düzce / Türkiye",
+            "opentime": "Pazartesi - Pazar : 09:00 - 22:00",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Ereğli, Zonguldak",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 30,
+            "latitude": 41.268139,
+            "longitude": 31.456472,
+            "address": "Kavaklık, Kavaklık Mah. Devrek Yolu, Değirmen Yüzü Mevki, Ereğli, 67300 Zonguldak / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, İstinye",
+            "type": "ac",
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 0,
+            "dcspeed": 0,
+            "latitude": 41.117741,
+            "longitude": 29.049364,
+            "address": "İstinye Mah, Çayır Cd. No: 1, İstinye, Sarıyer, 34460 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
         }
         
         

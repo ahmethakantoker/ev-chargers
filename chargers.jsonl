@@ -2677,6 +2677,97 @@
             "address": "Önerler Mah. İstanbul Cad. No:55, Çorlu, 59850 Tekirdağ / Türkiye",
             "opentime": "Pazartesi - Cumartesi : 08:30 - 18:00",
             "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Çetaş Otomotiv, İzmir",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 38.456565,
+            "longitude": 27.253511,
+            "address": "Doğanlar Mahallesi, Ankara Cd. No:210/B, Bornova, 35050 İzmir / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Çetaş Otomotiv, İzmit",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 90,
+            "latitude": 40.748115,
+            "longitude": 29.957762,
+            "address": "Sanayi Mah. D-130 Karayolu Cad. No:159, İzmit, 41040 Kocaeli / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Çetaş Otomotiv, Silivri",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 41.074722,
+            "longitude": 28.260833,
+            "address": "Yeni Mah. General Ali İhsan Türkkan Cd. No:31, Silivri, 34570 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Çıldır Beton, Afyonkarahisar",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 39.059197,
+            "longitude": 31.164594,
+            "address": "Yeni Mah. Emidağ Blv. No:442, Emirdağ, 3600 Afyonkarahisar / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Çimenler Otomotiv, Gümüşhane",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.450219,
+            "longitude": 39.495619,
+            "address": "Yeni Mah. Kazım Karabekir Cad. No:4, Merkez, 29000 Gümüşhane / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Çimenler Otomotiv, Lalapaşa, Erzurum",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 1,
+            "dcspeed": 30,
+            "latitude": 39.910242,
+            "longitude": 41.258408,
+            "address": "Lalapaşa, Fuar Yolu Cd No:3, Yakutiye, 25000 Erzurum / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Çimenler Otomotiv, Şükrüpaşa, Erzurum",
+            "type": "dc",
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 1,
+            "dcspeed": 30,
+            "latitude": 39.957458,
+            "longitude": 41.294294,
+            "address": "Şükrüpaşa, Çevre Yolu Bulv No: 1, Yakutiye, 25200 Erzurum / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
         }
         
         

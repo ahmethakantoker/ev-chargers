@@ -2,7 +2,7 @@
     "request": [
         {
             "name": "E-Şarj - M1 Konya AVM",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -15,7 +15,7 @@
         },
         {
             "name": "E-Şarj - Özkaymak Otomotiv, Konya",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -28,7 +28,7 @@
         },
         {
             "name": "E-Şarj - Bayraktarlar Merkon Otomotiv, Konya",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -41,7 +41,7 @@
         },
         {
             "name": "E-Şarj - Konya Pratik Otomotiv, Konya",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -54,7 +54,7 @@
         },
         {
             "name": "E-Şarj - Sekizli Mak. & Vinç Aş., Konya",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -67,7 +67,7 @@
         },
         {
             "name": "E-Şarj - Köprülü Oto, Konya",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -80,7 +80,7 @@
         },
         {
             "name": "E-Şarj - Özkaymak Konya Hotel, Konya",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -93,7 +93,7 @@
         },
         {
             "name": "E-Şarj - Başak Mağazacılık Siemens, Konya",
-            "type": "ac",
+            "isdc": false,
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -106,7 +106,7 @@
         },
         {
             "name": "E-Şarj - Özkaymak Krom, Konya",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -119,7 +119,7 @@
         },
         {
             "name": "E-Şarj - Reva Nutrition, Konya",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -132,7 +132,7 @@
         },
         {
             "name": "E-Şarj - RTM Tarım, Konya",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -145,7 +145,7 @@
         },
         {
             "name": "E-Şarj - Ladik Kalkınma Kooperatif, Konya",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -158,7 +158,7 @@
         },
         {
             "name": "E-Şarj - Akbaşlar Tarım, Konya",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -171,7 +171,7 @@
         },
         {
             "name": "E-Şarj - Masara Yöresel Köy Ürünleri, Karaman",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -184,7 +184,7 @@
         },
         {
             "name": "E-Şarj - Grand Karaman Otel, Karaman",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -197,7 +197,7 @@
         },
         {
             "name": "E-Şarj - Otopratik (Hanedar 2), Antalya",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -210,7 +210,7 @@
         },
         {
             "name": "E-Şarj - White City Beach, Antalya",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -223,7 +223,7 @@
         },
         {
             "name": "E-Şarj - White City Resort, Antalya",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -236,7 +236,7 @@
         },
         {
             "name": "E-Şarj - 7.Sense Nature Resort, Sakarya",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -249,7 +249,7 @@
         },
         {
             "name": "E-Şarj - ABC Otomotiv, Ankara",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 6,
@@ -262,7 +262,7 @@
         },
         {
             "name": "E-Şarj - Acar Otomotiv, Denizli",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -275,7 +275,7 @@
         },
         {
             "name": "E-Şarj - Adana Zirai Üretim İşletmesi Tarımsal Yayım ve Hizmetiçi Eğitim Merkezi Müd.",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -288,7 +288,7 @@
         },
         {
             "name": "E-Şarj - Adım Otomotiv, Gaziantep",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -301,7 +301,7 @@
         },
         {
             "name": "E-Şarj - Ağaçlı Oto, Etimesgut",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -314,7 +314,7 @@
         },
         {
             "name": "E-Şarj - AHL Park AVM, Çorum",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -327,7 +327,7 @@
         },
         {
             "name": "E-Şarj - Ahsaray Otel, Aksaray",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -340,7 +340,7 @@
         },
         {
             "name": "E-Şarj - Ajlan Hotel Cunda, Balıkesir",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -353,7 +353,7 @@
         },
         {
             "name": "E-Şarj - Ajlan OİA, Balıkesir",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 1,
@@ -366,7 +366,7 @@
         },
         {
             "name": "E-Şarj - Akasya AVM, İstanbul",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -379,7 +379,7 @@
         },
         {
             "name": "E-Şarj - Akasya AVM, İstanbul",
-            "type": "dc",
+            "isdc": true,
             "account": 3,
             "acspeed": 22,
             "dccount": 2,
@@ -392,7 +392,7 @@
         },
         {
             "name": "E-Şarj - Akasya AVM, İstanbul",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 4,
@@ -405,7 +405,7 @@
         },
         {
             "name": "E-Şarj - BMW Türkiye, Akasya AVM",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -418,7 +418,7 @@
         },
         {
             "name": "E-Şarj - Akbatı AVM, Esenyurt",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -431,7 +431,7 @@
         },
         {
             "name": "E-Şarj - Akbatı AVM, Esenyurt",
-            "type": "ac",
+            "isdc": "ac",
             "account": 2,
             "acspeed": 22,
             "dccount": 0,
@@ -444,7 +444,7 @@
         },
         {
             "name": "E-Şarj - Akbatı AVM, Esenyurt",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -457,7 +457,7 @@
         },
         {
             "name": "E-Şarj - Akbatı AVM, Esenyurt",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 4,
@@ -470,7 +470,7 @@
         },
         {
             "name": "E-Şarj - Akgün Petrol, Gaziantep",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -483,7 +483,7 @@
         },
         {
             "name": "E-Şarj - Aksaray Organize Sanayi Bölge Müdürlüğü",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -496,7 +496,7 @@
         },
         {
             "name": "E-Şarj - Aktıp Hastanesi, Bartın",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -509,7 +509,7 @@
         },
         {
             "name": "E-Şarj - Akyüzler Otomotiv, Kartal",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -522,7 +522,7 @@
         },
         {
             "name": "E-Şarj - Alibaba Fidanlık, Çatalca",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -535,7 +535,7 @@
         },
         {
             "name": "E-Şarj - Altıbinaltı Motors, Eyüpsultan",
-            "type": "ac",
+            "isdc": "ac",
             "account": 2,
             "acspeed": 22,
             "dccount": 0,
@@ -548,7 +548,7 @@
         },
         {
             "name": "E-Şarj - Alva Donna Beach Resort, Antalya",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -561,7 +561,7 @@
         },
         {
             "name": "E-Şarj - Alva Donna Exclusive Hotel, Antalya",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -574,7 +574,7 @@
         },
         {
             "name": "E-Şarj - Alva Donna World Palace, Antalya",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -587,7 +587,7 @@
         },
         {
             "name": "E-Şarj - Amca Otomotiv, İzmir",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -600,7 +600,7 @@
         },
         {
             "name": "E-Şarj - Anemon Diyaliz, Manisa",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -613,7 +613,7 @@
         },
         {
             "name": "E-Şarj - Anıl Otomotiv, Hatay",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -626,7 +626,7 @@
         },
         {
             "name": "E-Şarj - ANKAmall AVM, Ankara",
-            "type": "ac",
+            "isdc": "ac",
             "account": 2,
             "acspeed": 22,
             "dccount": 0,
@@ -639,7 +639,7 @@
         },
         {
             "name": "E-Şarj - Ankara Çelik Kapı, Ankara",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -652,7 +652,7 @@
         },
         {
             "name": "E-Şarj - Aqua Fantasy Hotel & Spa, İzmir",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -665,7 +665,7 @@
         },
         {
             "name": "E-Şarj - Aqua Florya AVM, Florya",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -678,7 +678,7 @@
         },
         {
             "name": "E-Şarj - Aqua Florya AVM, Florya",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -691,7 +691,7 @@
         },
         {
             "name": "E-Şarj - Aqua Florya AVM, Florya",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -704,7 +704,7 @@
         },
         {
             "name": "E-Şarj - Aqua Florya AVM, Florya",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -717,7 +717,7 @@
         },
         {
             "name": "E-Şarj - Aqua Florya AVM, Florya",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -730,7 +730,7 @@
         },
         {
             "name": "E-Şarj - Arkas Otomotiv, Bursa",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -743,7 +743,7 @@
         },
         {
             "name": "E-Şarj - Arkas Otomotiv, Zeytinburnu",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -756,7 +756,7 @@
         },
         {
             "name": "E-Şarj - Armada AVM, Ankara",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -769,7 +769,7 @@
         },
         {
             "name": "E-Şarj - Armada AVM, Ankara",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -782,7 +782,7 @@
         },
         {
             "name": "E-Şarj - Armada AVM, Ankara",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -795,7 +795,7 @@
         },
         {
             "name": "E-Şarj - Armada AVM, Ankara",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -808,7 +808,7 @@
         },
         {
             "name": "E-Şarj - Armada AVM, Ankara",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -821,7 +821,7 @@
         },
         {
             "name": "E-Şarj - Armada AVM, Ankara",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 6,
@@ -834,7 +834,7 @@
         },
         {
             "name": "E-Şarj - Armada AVM, Ankara",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 6,
@@ -847,7 +847,7 @@
         },
         {
             "name": "E-Şarj - Arn Plaza, Çekmeköy",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -860,7 +860,7 @@
         },
         {
             "name": "E-Şarj - Artan Suites Tatil Evler, Aydın",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -873,7 +873,7 @@
         },
         {
             "name": "E-Şarj - ASF Otomotiv, Gebze",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -886,7 +886,7 @@
         },
         {
             "name": "E-Şarj - ASF Otomotiv, Kartal",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -899,7 +899,7 @@
         },
         {
             "name": "E-Şarj - Atako Kürk Petrol, Çeşmeli",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -912,7 +912,7 @@
         },
         {
             "name": "E-Şarj - Atako Kürk Petrol, Nusratiye",
-            "type": "ac",
+            "isdc": "ac",
             "account": 2,
             "acspeed": 22,
             "dccount": 0,
@@ -925,7 +925,7 @@
         },
         {
             "name": "E-Şarj - Atako Kürk Petrol, Yakaköy",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -938,7 +938,7 @@
         },
         {
             "name": "E-Şarj - ATS Sevindik İş Merkezi, Denizli",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -951,7 +951,7 @@
         },
         {
             "name": "E-Şarj - AU Otomotiv, Etimesgut",
-            "type": "ac",
+            "isdc": "ac",
             "account": 2,
             "acspeed": 22,
             "dccount": 0,
@@ -964,7 +964,7 @@
         },
         {
             "name": "E-Şarj - Auto Destek, Bahçelievler",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -977,7 +977,7 @@
         },
         {
             "name": "E-Şarj - Avec Hotel, Çanakkale",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -990,7 +990,7 @@
         },
         {
             "name": "E-Şarj - Ayatoure Otel, Giresun",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -1003,7 +1003,7 @@
         },
         {
             "name": "E-Şarj - Aydoğan Otomotiv, Çanakkale",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1016,7 +1016,7 @@
         },
         {
             "name": "E-Şarj - Ayedaş OM, Kartal",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1029,7 +1029,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz - İzmir Otoyolu, Bursa",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -1042,7 +1042,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz ,Yücesan Petrol, Kırşehir",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1055,7 +1055,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Assos Ay-toklar Petrol, Çanakkale",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1068,7 +1068,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Ballı, Tekirdağ",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 1,
@@ -1081,7 +1081,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Bozüyük Akaryakıt, Bilecik",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1094,7 +1094,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Cihan Petrol, Sakarya",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 4,
@@ -1107,7 +1107,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Çakıroğlu Tur., Trabzon",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1120,7 +1120,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Ercoş Enerji, Manisa",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 4,
@@ -1133,7 +1133,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Ertaş, Nevşehir",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1146,7 +1146,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Esit Petrol, Bozcaada",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 1,
@@ -1159,7 +1159,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Free Akaryakıt, Tekirdağ",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 1,
@@ -1172,7 +1172,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Gençerler, Kocaeli",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1185,7 +1185,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Hamamcıoğlu Petrol, Bolu",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1198,7 +1198,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Hizmet Petrol, Kadıköy",
-            "type": "ac",
+            "isdc": "ac",
             "account": 2,
             "acspeed": 22,
             "dccount": 0,
@@ -1211,7 +1211,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Koşuyolu",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -1224,7 +1224,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Özbekoğlu Petrol, Bayburt",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1237,7 +1237,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Özkan Tarım, Kayseri",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1250,7 +1250,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Polatcan, Keşan",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -1263,7 +1263,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Polatcan, Keşan",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 4,
@@ -1276,7 +1276,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Şar Petrol, Taşlıdere, Rize",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -1289,7 +1289,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Şişli",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -1302,7 +1302,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Tek Akaryakıt, Tekirdağ",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1315,7 +1315,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Tekpet, Kayseri",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1328,7 +1328,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Tuğut Petrol, Sivas",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1341,7 +1341,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, Vadim, Kozyatağı",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -1354,7 +1354,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz, YKD Akaryakıt, Yenimahalle",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -1367,7 +1367,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz,RMG Akaryakıt, Edirne",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1380,7 +1380,7 @@
         },
         {
             "name": "E-Şarj - Aytemiz,Taybe Akaryakıt, Samsun",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1393,7 +1393,7 @@
         },
         {
             "name": "E-Şarj - Azim Otomotiv, Bartın",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1406,7 +1406,7 @@
         },
         {
             "name": "E-Şarj - Azim Otomotiv, Karabük",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1419,7 +1419,7 @@
         },
         {
             "name": "E-Şarj - Bademli Motors, Bursa",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1432,7 +1432,7 @@
         },
         {
             "name": "E-Şarj - Balèze Boutique Hotel, Akyaka, Muğla",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1445,7 +1445,7 @@
         },
         {
             "name": "E-Şarj - Bandırma Basketbol Spor Salonu, Balıkesir",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1458,7 +1458,7 @@
         },
         {
             "name": "E-Şarj - Base Life Club, Ankara",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1471,7 +1471,7 @@
         },
         {
             "name": "E-Şarj - Base Life Club, Ankara",
-            "type": "ac",
+            "isdc": "ac",
             "account": 2,
             "acspeed": 22,
             "dccount": 0,
@@ -1484,7 +1484,7 @@
         },
         {
             "name": "E-Şarj - Baskent Edaş Bartın OM",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 4,
@@ -1497,7 +1497,7 @@
         },
         {
             "name": "E-Şarj - Başak Mağazacılık Siemens, Konya",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -1510,7 +1510,7 @@
         },
         {
             "name": "E-Şarj - Başkent Kule, Ankara",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 4,
@@ -1523,7 +1523,7 @@
         },
         {
             "name": "E-Şarj - Başkent, Beypazarı, Ankara",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1536,7 +1536,7 @@
         },
         {
             "name": "E-Şarj - Bayberd Hotel, Bayburt",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1549,7 +1549,7 @@
         },
         {
             "name": "E-Şarj - Bayburt Günpaş AVM",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1562,7 +1562,7 @@
         },
         {
             "name": "E-Şarj - Bayburt Otel Konaklama",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1575,7 +1575,7 @@
         },
         {
             "name": "E-Şarj - Baykar Motorlu Araçlar, Bursa",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1588,7 +1588,7 @@
         },
         {
             "name": "E-Şarj - Baykoçlar Otomotiv (Nissan), Ankara",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -1601,7 +1601,7 @@
         },
         {
             "name": "E-Şarj - Baykoçlar Otomotiv, Ankara",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1614,7 +1614,7 @@
         },
         {
             "name": "E-Şarj - Bayraktarlar Merkay Otomotiv 2, Kayseri",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1627,7 +1627,7 @@
         },
         {
             "name": "E-Şarj - Bayraktarlar Merkay Otomotiv, Kayseri",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1640,7 +1640,7 @@
         },
         {
             "name": "E-Şarj - Bayraktarlar Otomotiv, Aksaray",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1653,7 +1653,7 @@
         },
         {
             "name": "E-Şarj - Beceren Otel, Bursa",
-            "type": "ac",
+            "isdc": "ac",
             "account": 2,
             "acspeed": 22,
             "dccount": 0,
@@ -1666,7 +1666,7 @@
         },
         {
             "name": "E-Şarj - Bergama Doğa Koleji, İzmir",
-            "type": "dc",
+            "isdc": true,
             "account": 2,
             "acspeed": 22,
             "dccount": 2,
@@ -1679,7 +1679,7 @@
         },
         {
             "name": "E-Şarj - Best Garaj Eurorpar Car Servis, Trabzon",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1692,7 +1692,7 @@
         },
         {
             "name": "E-Şarj - Beyaz Filo Otomotiv, Balıkesir",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1705,7 +1705,7 @@
         },
         {
             "name": "E-Şarj - Beyazlı Otomotiv, Trabzon",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1718,7 +1718,7 @@
         },
         {
             "name": "E-Şarj - Bi Mola Çiftalan, Eyüpsultan",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1731,7 +1731,7 @@
         },
         {
             "name": "E-Şarj - Bi Mola Fenertepe, Eyüp",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1744,7 +1744,7 @@
         },
         {
             "name": "E-Şarj - Bi Mola Işıklar, Eyüp",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1757,7 +1757,7 @@
         },
         {
             "name": "E-Şarj - Bi Mola Ömerli, Çekmeköy",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1770,7 +1770,7 @@
         },
         {
             "name": "E-Şarj - Bi Mola Reşadiye, Çekmeköy",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1783,7 +1783,7 @@
         },
         {
             "name": "E-Şarj - Bilenler Un Fabrikası, Kayseri",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 4,
@@ -1796,7 +1796,7 @@
         },
         {
             "name": "E-Şarj - Bilkent Center, Ankara",
-            "type": "ac",
+            "isdc": "ac",
             "account": 2,
             "acspeed": 22,
             "dccount": 0,
@@ -1809,7 +1809,7 @@
         },
         {
             "name": "E-Şarj - Bilkent Cyberpark, Ankara",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 4,
@@ -1822,7 +1822,7 @@
         },
         {
             "name": "E-Şarj - Bilkent Cyberpark, Ankara",
-            "type": "ac",
+            "isdc": "ac",
             "account": 2,
             "acspeed": 22,
             "dccount": 0,
@@ -1835,7 +1835,7 @@
         },
         {
             "name": "E-Şarj - Bilkent Otel ve Konferans Merkezi, Çan",
-            "type": "dc",
+            "isdc": true,
             "account": 4,
             "acspeed": 22,
             "dccount": 4,
@@ -1848,7 +1848,7 @@
         },
         {
             "name": "E-Şarj - Binboğa Fıstık, Osmaniye",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 4,
@@ -1861,7 +1861,7 @@
         },
         {
             "name": "E-Şarj - Birlas, 4. Levent Sanayi Sitesi",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1874,7 +1874,7 @@
         },
         {
             "name": "E-Şarj - Birlik Organize Sanayi Bölgesi, Tuzla",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 4,
@@ -1887,7 +1887,7 @@
         },
         {
             "name": "E-Şarj - Birollar Oto, Eskişehir",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -1900,7 +1900,7 @@
         },
         {
             "name": "E-Şarj - BMW Borusan, Zekeriyaköy",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1913,7 +1913,7 @@
         },
         {
             "name": "E-Şarj - Bomonti Moda, Kadıköy",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1926,7 +1926,7 @@
         },
         {
             "name": "E-Şarj - Bomonti Moda, Kadıköy",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -1939,7 +1939,7 @@
         },
         {
             "name": "E-Şarj - Bostancıoğlu Motorlu Araçlar, Kartal",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1952,7 +1952,7 @@
         },
         {
             "name": "E-Şarj - Boyner Bağdat Caddesi, İstanbul",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -1965,7 +1965,7 @@
         },
         {
             "name": "E-Şarj - Bozbey Dinlenme Tesisleri, Düzce",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 4,
@@ -1978,7 +1978,7 @@
         },
         {
             "name": "E-Şarj - Bridgestone, Doğan-Gü, Adana",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -1991,7 +1991,7 @@
         },
         {
             "name": "E-Şarj - Brisa (Altınlas), Kocaeli",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 4,
@@ -2004,7 +2004,7 @@
         },
         {
             "name": "E-Şarj - BS Benim Datçam, Muğla",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2017,7 +2017,7 @@
         },
         {
             "name": "E-Şarj - Bulteks, Denizli",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2030,7 +2030,7 @@
         },
         {
             "name": "E-Şarj - Buyaka AVM, Ümraniye",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 6,
@@ -2043,7 +2043,7 @@
         },
         {
             "name": "E-Şarj - Bül Otomotiv, Sakarya",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2056,7 +2056,7 @@
         },
         {
             "name": "E-Şarj - Cadde Plus AVM, Çeşme",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2069,7 +2069,7 @@
         },
         {
             "name": "E-Şarj - Cadde Plus AVM, Çeşme",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 4,
@@ -2082,7 +2082,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa Bodrum, Muğla",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2095,7 +2095,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa Gaziemir, İzmir",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2108,7 +2108,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa Heredot, Muğla",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2121,7 +2121,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa Yalıkavak 2, Muğla",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2134,7 +2134,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa Yalıkavak, Muğla",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2147,7 +2147,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, Kurtköy",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2160,7 +2160,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, Anadoluhisarı",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -2173,7 +2173,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, Anadoluhisarı",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 4,
@@ -2186,7 +2186,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, Ataşehir",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2199,7 +2199,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, Balıkesir",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2212,7 +2212,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, Çekmeköy Şile Yolu, İstanbul",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2225,7 +2225,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, Çorlu",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2238,7 +2238,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, Dragos",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2251,7 +2251,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, Düzce",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2264,7 +2264,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, Ereğli, Zonguldak",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2277,7 +2277,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, İstinye",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -2290,7 +2290,7 @@
         },
         {
             "name": "E-Şarj Carrefoursa, İstinye",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -2303,7 +2303,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, Karabük",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 1,
@@ -2316,7 +2316,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, Kurtuluş, Şişli",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2329,7 +2329,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, Lara, Antalya",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2342,7 +2342,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, Marmara R., Pendik",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 1,
@@ -2355,7 +2355,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, Millenium, Kurtköy",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2368,7 +2368,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, Ömerli",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 1,
@@ -2381,7 +2381,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, Sapanca, Sakarya",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2394,7 +2394,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, Turgutreis 2, Muğla",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2407,7 +2407,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, Urla",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2420,7 +2420,7 @@
         },
         {
             "name": "E-Şarj - Carrefoursa, Zekeriyaköy",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -2433,7 +2433,7 @@
         },
         {
             "name": "E-Şarj - Cepa AVM, Ankara",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2446,7 +2446,7 @@
         },
         {
             "name": "E-Şarj - Cepa AVM, Ankara",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -2459,7 +2459,7 @@
         },
         {
             "name": "E-Şarj - Cepa Ofis, Çankaya",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -2472,7 +2472,7 @@
         },
         {
             "name": "E-Şarj - Citroen Başdaş, Diyarbakır",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2485,7 +2485,7 @@
         },
         {
             "name": "E-Şarj - Citroen Vardallar, Trabzon",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2498,7 +2498,7 @@
         },
         {
             "name": "E-Şarj - Civil Mağazacılık, Beylikdüzü",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 1,
@@ -2511,7 +2511,7 @@
         },
         {
             "name": "E-Şarj - Civil Mağazacılık, Etimesgut",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -2524,7 +2524,7 @@
         },
         {
             "name": "E-Şarj - Civil- Akdeniz, Mersin",
-            "type": "ac",
+            "isdc": "ac",
             "account": 2,
             "acspeed": 22,
             "dccount": 0,
@@ -2537,7 +2537,7 @@
         },
         {
             "name": "E-Şarj - Civil- Seyhan Cadde, Adana",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 1,
@@ -2550,7 +2550,7 @@
         },
         {
             "name": "E-Şarj - Cizre Motorlu Araçlar, Şırnak",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -2563,7 +2563,7 @@
         },
         {
             "name": "E-Şarj - Club Çapa, Kaş",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 1,
@@ -2576,7 +2576,7 @@
         },
         {
             "name": "E-Şarj - Çağdaş Otomotiv, Uşak",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2589,7 +2589,7 @@
         },
         {
             "name": "E-Şarj - Çağlayanlar Oto, Kırşehir",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2602,7 +2602,7 @@
         },
         {
             "name": "E-Şarj - Çakmak Market, Kocaeli",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 1,
@@ -2615,7 +2615,7 @@
         },
         {
             "name": "E-Şarj - Çavdar2 Otomotiv, Ankara",
-            "type": "dc",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
             "dccount": 2,
@@ -2628,7 +2628,7 @@
         },
         {
             "name": "E-Şarj - Çayan Otomotiv, Mersin",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2641,7 +2641,7 @@
         },
         {
             "name": "E-Şarj - Çeşmeliler Otomotiv, Denizli",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2654,7 +2654,7 @@
         },
         {
             "name": "E-Şarj - Çetaş Otomotiv, Büyükçekmece",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2667,7 +2667,7 @@
         },
         {
             "name": "E-Şarj - Çetaş Otomotiv, Çorlu",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2680,7 +2680,7 @@
         },
         {
             "name": "E-Şarj - Çetaş Otomotiv, İzmir",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2693,7 +2693,7 @@
         },
         {
             "name": "E-Şarj - Çetaş Otomotiv, İzmit",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2706,7 +2706,7 @@
         },
         {
             "name": "E-Şarj - Çetaş Otomotiv, Silivri",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2719,7 +2719,7 @@
         },
         {
             "name": "E-Şarj - Çıldır Beton, Afyonkarahisar",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2732,7 +2732,7 @@
         },
         {
             "name": "E-Şarj - Çimenler Otomotiv, Gümüşhane",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2745,7 +2745,7 @@
         },
         {
             "name": "E-Şarj - Çimenler Otomotiv, Lalapaşa, Erzurum",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 1,
@@ -2758,7 +2758,7 @@
         },
         {
             "name": "E-Şarj - Çimenler Otomotiv, Şükrüpaşa, Erzurum",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 1,
@@ -2771,7 +2771,7 @@
         },
         {
             "name": "E-Şarj - Çukurova Teknoloji Geliştirme Bölgesi, Adana",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2784,7 +2784,7 @@
         },
         {
             "name": "E-Şarj - Daysil Silikon, İzmir",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2797,7 +2797,7 @@
         },
         {
             "name": "E-Şarj - DB Garage, Ankara",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -2810,7 +2810,7 @@
         },
         {
             "name": "E-Şarj - Değirmenburnu Residence, Bodrum",
-            "type": "ac",
+            "isdc": "ac",
             "account": 1,
             "acspeed": 22,
             "dccount": 0,
@@ -2823,7 +2823,7 @@
         },
         {
             "name": "E-Şarj - Demir Makine, Arnavutköy",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2836,7 +2836,7 @@
         },
         {
             "name": "E-Şarj - Deniz Otomotiv, Kadıköy",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2849,7 +2849,7 @@
         },
         {
             "name": "E-Şarj - Denizli Honaz OSB",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2862,7 +2862,7 @@
         },
         {
             "name": "E-Şarj - Derya Drc Otomotiv Suzuki, Mersin",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2875,7 +2875,7 @@
         },
         {
             "name": "E-Şarj - Diplomat Otel, Muğla",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2888,7 +2888,7 @@
         },
         {
             "name": "E-Şarj - Divan Otel, Adana",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2901,7 +2901,7 @@
         },
         {
             "name": "E-Şarj - Domino Tekstil, Bolu",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2914,7 +2914,7 @@
         },
         {
             "name": "E-Şarj - DoubleTree by Hilton Bodrum Işıl Club Resorts",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2927,7 +2927,7 @@
         },
         {
             "name": "E-Şarj - DoubleTree by Hilton Bodrum Marina Vista",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2940,7 +2940,7 @@
         },
         {
             "name": "E-Şarj - E-Residence, Balıkesir",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
@@ -2953,7 +2953,7 @@
         },
         {
             "name": "E-Şarj - Ege Perla, Konak",
-            "type": "ac",
+            "isdc": "ac",
             "account": 2,
             "acspeed": 22,
             "dccount": 0,
@@ -2966,7 +2966,7 @@
         },
         {
             "name": "E-Şarj - Ekcan Park, Kocaeli",
-            "type": "dc",
+            "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 4,

@@ -3005,7 +3005,7 @@
         },
         {
             "name": "ZES - Ramada Resort By Wyndham Kızkalesi",
-            "isdc": "false",
+            "isdc": false,
             "account": 2,
             "acspeed": 22,
             "dccount": 0,

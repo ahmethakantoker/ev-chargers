@@ -2976,8 +2976,45 @@
             "address": "Ovacık Mah. D-100 Karayolu Cad. No:20, İzmit, 41140 Kocaeli / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "imageURL": ""
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Limonlu, Mersin",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 36.553472,
+            "longitude": 34.2415,
+            "address": "Limonlu, Limonlu Mah. Milli Egemenlik 3, Cad No:74, Erdemli, 33780 Mersin / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        },
+        {
+            "name": "ZES - Demosan Otel, Karaman",
+            "type": false,
+            "account": 2,
+            "acspeed": 22,
+            "dccount": 0,
+            "dcspeed": 0,
+            "latitude": 37.179040,
+            "longitude": 33.224929,
+            "address": "Yeşilada Mah., Mut Cad. No: 107 Merkez/Karaman",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
+        },
+        {
+            "name": "ZES - Ramada Resort By Wyndham Kızkalesi",
+            "type": "false",
+            "account": 2,
+            "acspeed": 22,
+            "dccount": 0,
+            "dcpseed": 0,
+            "latitude": 36.480316,
+            "longitude": 34.154585,
+            "address": "Kızkalesi mah. Kirazlı cad. 45/A Karaman",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "imageURL": ""
         }
-        
-        
     ]
 }

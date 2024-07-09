@@ -10,8 +10,7 @@
             "latitude": 37.951728,
             "longitude": 32.493701,
             "address": "Yazır Mah. Doç. Dr. Halil Ürün Cad. No: 22 Selçuk, 42250 Konya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": "https://github.com/ahmethakantoker/ev-chargers/blob/main/stationsimages/E-Şarj%20-%20M1%20Konya%20AVM.jpeg"
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Özkaymak Otomotiv, Konya",
@@ -24,7 +23,6 @@
             "longitude": 32.508889,
             "address": "Horozluhan Osb Mah. İstanbul Yolu Üzeri 1.Organize San Böl. No:38/A, Selçuklu, 42120 Konya / Türkiye",
             "opentime": "Pazartesi - Cumartesi : 09:00 - 00:00, Pazar : 12:00 - 17:00",
-            "imageURL": ""
         },
         {
             "name": "E-Şarj - Bayraktarlar Merkon Otomotiv, Konya",
@@ -36,8 +34,7 @@
             "latitude": 37.920953,
             "longitude": 32.522056,
             "address": "Horozluhan Mah., Çevreli Sk. No:2A, Horozluhan Osb, Selçuklu, 42120 Konya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Konya Pratik Otomotiv, Konya",
@@ -49,8 +46,7 @@
             "latitude": 37.921672,
             "longitude": 32.527039,
             "address": "Fevziçakmak Mah. Çelik Caddesi, Bukas iş Merkezi, 2/E, Karatay, 42345 Konya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Sekizli Mak. & Vinç Aş., Konya",
@@ -62,8 +58,7 @@
             "latitude": 37.914531,
             "longitude": 32.550314,
             "address": "Fevziçakmak, 10650. Sk. No:3, Karatay, 42050 Konya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Köprülü Oto, Konya",
@@ -75,8 +70,7 @@
             "latitude": 37.909012,
             "longitude": 32.515434,
             "address": "Ankara Cad. No:172 Karatay, 42050 Konya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Özkaymak Konya Hotel, Konya",
@@ -88,8 +82,7 @@
             "latitude": 37.888281,
             "longitude": 32.495606,
             "address": "Musalla Bağları Mah. Ahmet Hilmi Nalçacı Cad. No:92, Selçuklu, 42060 Konya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": "" 
+            "opentime": "Pazartesi - Pazar : 24 Saat" 
         },
         {
             "name": "E-Şarj - Başak Mağazacılık Siemens, Konya",
@@ -101,8 +94,7 @@
             "latitude": 37.873742,
             "longitude": 32.484781,
             "address": "İhsaniye Mah. Alsan Sitesi Vatan Cd. 19/A, Selçuklu, 42060 Konya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 10:00 - 19:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 10:00 - 19:00"
         },
         {
             "name": "E-Şarj - Özkaymak Krom, Konya",
@@ -114,8 +106,7 @@
             "latitude": 37.826642,
             "longitude": 32.409633,
             "address": "Durunday Mah. Dutlu Cad. No:32, Meram, 42140 Konya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Reva Nutrition, Konya",
@@ -127,8 +118,7 @@
             "latitude": 37.867506,
             "longitude": 32.566978,
             "address": "Tatlıcak Mah. Vatan Sanayi Sitesi Kavaf Sk. No:47, Karatay, 42030 Konya / Türkiye",
-            "opentime": "Pazartesi - Cuma : 08:00 - 18:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Cuma : 08:00 - 18:00"
         },
         {
             "name": "E-Şarj - RTM Tarım, Konya",
@@ -140,8 +130,7 @@
             "latitude": 37.858853,
             "longitude": 32.624481,
             "address": "Tatlıcak Mah Ereğli Caddesi No: 83, Karatay, 42030 Konya / Türkiye",
-            "opentime": "Pazartesi - Cumartesi : 08:00 - 17:30",
-            "imageURL": ""
+            "opentime": "Pazartesi - Cumartesi : 08:00 - 17:30"
         },
         {
             "name": "E-Şarj - Ladik Kalkınma Kooperatif, Konya",
@@ -153,8 +142,7 @@
             "latitude": 38.203144,
             "longitude": 32.400986,
             "address": "Ladik Mah. Yeni İstanbul Cad. No:713, Sarayönü, 42432 Konya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Akbaşlar Tarım, Konya",
@@ -166,8 +154,7 @@
             "latitude": 37.374167,
             "longitude": 32.784083,
             "address": "Akbaşlar Ltd. Şti. Konya Karaman Yolu üzeri 60.km. Kuzucu Mahallesi, Çumra, 42500 Konya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Masara Yöresel Köy Ürünleri, Karaman",
@@ -179,8 +166,7 @@
             "latitude": 37.2024,
             "longitude": 33.099756,
             "address": "Karaman Konya Yolu 8. km, Bölükyazı Köyü, Merkez, 70100 Karaman / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Grand Karaman Otel, Karaman",
@@ -192,8 +178,7 @@
             "latitude": 37.187758,
             "longitude": 33.179047,
             "address": "Ataturk Mah. 15 Temmuz, Şehitler Blv No:34, Merkez, 70110 Karaman / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Otopratik (Hanedar 2), Antalya",
@@ -205,8 +190,7 @@
             "latitude": 36.545667,
             "longitude": 32.024361,
             "address": "Cikcilli, Merkez MH, 111. Sk. NO:7/D, Alanya, 07400 Antalya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - White City Beach, Antalya",
@@ -218,8 +202,7 @@
             "latitude": 36.567113,
             "longitude": 31.917039,
             "address": "Gerpelit Mevkii Konaklı, Alanya, 07491 Antalya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - White City Resort, Antalya",
@@ -231,8 +214,7 @@
             "latitude": 36.608,
             "longitude": 31.782806,
             "address": "Türkler, Fuğla Mevkii, Alanya, 07407 Antalya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - 7.Sense Nature Resort, Sakarya",
@@ -244,8 +226,7 @@
             "latitude": 40.677694,
             "longitude": 30.305111,
             "address": "Hacı Mercan Köyü, Orta Sk. No:29, Sapanca, 54600 Sakarya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 07:00 - 23:30",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 07:00 - 23:30"
         },
         {
             "name": "E-Şarj - ABC Otomotiv, Ankara",
@@ -257,8 +238,7 @@
             "latitude": 39.946008,
             "longitude": 32.718586,
             "address": "İnönü Mah. Fatih Sultan Mehmet Blv. No:414, Yenimahalle, 6370 Ankara / Türkiye",
-            "opentime": "Pazartesi - Cumartesi : 08:30 - 18:00, Pazar : 11:00 - 18:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Cumartesi : 08:30 - 18:00, Pazar : 11:00 - 18:00"
         },
         {
             "name": "E-Şarj - Acar Otomotiv, Denizli",
@@ -270,8 +250,7 @@
             "latitude": 37.788889,
             "longitude": 29.092833,
             "address": "Sümer, Ankara Bulv. 29/C, Merkez, Merkezefendi, 20020 Denizli / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Adana Zirai Üretim İşletmesi Tarımsal Yayım ve Hizmetiçi Eğitim Merkezi Müd.",
@@ -283,8 +262,7 @@
             "latitude": 37.011133,
             "longitude": 35.338872,
             "address": "Köprülü, Dr. Mithat Özsan Blv., Yüreğir, 1230 Adana / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Adım Otomotiv, Gaziantep",
@@ -296,8 +274,7 @@
             "latitude": 37.094506,
             "longitude": 37.401131,
             "address": "Aydınlar Mahallesi Şehit Ömer Halis Demir Bulvarı No:16, Şehitkamil, 27580 Gaziantep / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Ağaçlı Oto, Etimesgut",
@@ -309,8 +286,7 @@
             "latitude": 39.900158,
             "longitude": 32.683587,
             "address": "Eskişehir Yolu, Erler Mah. 2717 Sok. No:6/A, Etimesgut, 06800 Ankara / Türkiye",
-            "opentime": "Pazartesi - Cuma : 08:30 - 18:00, Cumartesi - Pazar : 10:00 - 16:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Cuma : 08:30 - 18:00, Cumartesi - Pazar : 10:00 - 16:00"
         },
         {
             "name": "E-Şarj - AHL Park AVM, Çorum",
@@ -322,8 +298,7 @@
             "latitude": 40.544775,
             "longitude": 34.947737,
             "address": "Çepni Mah. 1. Cad No:7, Kerebigazi, 19040 Çorum / Türkiye",
-            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00"
         },
         {
             "name": "E-Şarj - Ahsaray Otel, Aksaray",
@@ -335,8 +310,7 @@
             "latitude": 38.364991,
             "longitude": 34.008086,
             "address": "Taşpazar Mah. E-90 Karayolu Cd. No:1, Merkez, 68100 Aksaray / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Ajlan Hotel Cunda, Balıkesir",
@@ -348,8 +322,7 @@
             "latitude": 39.333194,
             "longitude": 26.6565,
             "address": "Namık Kemal, 15 Eylül Cd. 24. Sokak No:6, Cunda Adası, Ayvalık, 10400 Balıkesir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Ajlan OİA, Balıkesir",
@@ -361,8 +334,7 @@
             "latitude": 39.337139,
             "longitude": 26.660028,
             "address": "Namık Kemal, 15 Eylül Cd. No:76, Ayvalık, 10405 Balıkesir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Akasya AVM, İstanbul",
@@ -374,8 +346,7 @@
             "latitude": 41.001397,
             "longitude": 29.054033,
             "address": "Ankara Devlet Yolu, Haydar Paşa Yönü, 4. km, Acıbadem Mah., Çeçen Sokak, Üsküdar, 34660 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Akasya AVM, İstanbul",
@@ -387,8 +358,7 @@
             "latitude": 41.001083,
             "longitude": 29.054726,
             "address": "Ankara Devlet Yolu, Haydar Paşa Yönü, 4. km, Acıbadem Mah., Çeçen Sokak, Üsküdar, 34660 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00"
         },
         {
             "name": "E-Şarj - Akasya AVM, İstanbul",
@@ -400,8 +370,7 @@
             "latitude": 41.001757,
             "longitude": 29.055156,
             "address": "Ankara Devlet Yolu, Haydar Paşa Yönü, 4. km, Acıbadem Mah., Çeçen Sokak, Üsküdar, 34660 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00"
         },
         {
             "name": "E-Şarj - BMW Türkiye, Akasya AVM",
@@ -413,8 +382,7 @@
             "latitude": 41.002216,
             "longitude": 29.054998,
             "address": "Ankara Devlet Yolu, Haydar Paşa Yönü, 4. km, Acıbadem Mh., Çeçen Sk., Üsküdar, 34660 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00"
         },
         {
             "name": "E-Şarj - Akbatı AVM, Esenyurt",
@@ -426,8 +394,7 @@
             "latitude": 41.055424,
             "longitude": 28.666748,
             "address": "Akbatı Alışveriş ve Yaşam Merkezi, Sanayi Mah. 1655 Sok. No:6, Esenyurt, 34535 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Akbatı AVM, Esenyurt",
@@ -439,8 +406,7 @@
             "latitude": 41.055674,
             "longitude": 28.667032,
             "address": "Akbatı Alışveriş ve Yaşam Merkezi, Sanayi Mah. 1655 Sok. No:6, Esenyurt, 34535 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00"
         },
         {
             "name": "E-Şarj - Akbatı AVM, Esenyurt",
@@ -452,8 +418,7 @@
             "latitude": 41.055917,
             "longitude": 28.66775,
             "address": "Akbatı Alışveriş ve Yaşam Merkezi, Sanayi Mah. 1655 Sok. No:6, Esenyurt, 34535 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00"
         },
         {
             "name": "E-Şarj - Akbatı AVM, Esenyurt",
@@ -465,8 +430,7 @@
             "latitude": 41.055417,
             "longitude": 28.667972,
             "address": "Akbatı Alışveriş ve Yaşam Merkezi, Sanayi Mah. 1655 Sok. No:6, Esenyurt, 34535 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Akgün Petrol, Gaziantep",
@@ -478,8 +442,7 @@
             "latitude": 36.986425,
             "longitude": 37.760522,
             "address": "İstasyon, İstasyon Cd., Nizip, 27700 Gaziantep / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aksaray Organize Sanayi Bölge Müdürlüğü",
@@ -491,8 +454,7 @@
             "latitude": 38.266161,
             "longitude": 33.998319,
             "address": "Sağlık/Aksaray Merkez, 68270 Aksaray / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aktıp Hastanesi, Bartın",
@@ -504,8 +466,7 @@
             "latitude": 41.622147,
             "longitude": 32.341381,
             "address": "Kemerköprü Mah. Kadıoğlu Sokak No:30, Merkez, 74100 Bartın / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Akyüzler Otomotiv, Kartal",
@@ -517,8 +478,7 @@
             "latitude": 40.892556,
             "longitude": 29.206611,
             "address": "Çavuşoğlu, Sanayi Cd. NO:19, Kartal, 34873 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Cuma : 08:00 - 18:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Cuma : 08:00 - 18:00"
         },
         {
             "name": "E-Şarj - Alibaba Fidanlık, Çatalca",
@@ -530,8 +490,7 @@
             "latitude": 41.161218,
             "longitude": 28.454423,
             "address": "Kaleiçi Mah. Gökçeali Cad. No:1, Çatalca, 34540 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Altıbinaltı Motors, Eyüpsultan",
@@ -543,8 +502,7 @@
             "latitude": 41.043864,
             "longitude": 28.93582,
             "address": "Nişancı Mah. Zalpaşa Cad. No:52/1, Eyüpsultan, 34130 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Alva Donna Beach Resort, Antalya",
@@ -556,8 +514,7 @@
             "latitude": 36.820361,
             "longitude": 31.291333,
             "address": "Gündoğdu Mah. 3. Sk. No:3, Manavgat, 07550 Antalya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Alva Donna Exclusive Hotel, Antalya",
@@ -569,8 +526,7 @@
             "latitude": 36.835583,
             "longitude": 31.144444,
             "address": "Boğazkent Mah, Mimar Sinan Cd. 5, Serik, 07400 Antalya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Alva Donna World Palace, Antalya",
@@ -582,8 +538,7 @@
             "latitude": 36.574083,
             "longitude": 30.579944,
             "address": "Kiriş Mah. Sahil Cad. No:5, Kemer, 07400 Antalya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Amca Otomotiv, İzmir",
@@ -595,8 +550,7 @@
             "latitude": 38.439792,
             "longitude": 27.268439,
             "address": "Kemalpaşa Mah., Çanakkale Cd. No:61, Bornova, 35060 İzmir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Anemon Diyaliz, Manisa",
@@ -608,8 +562,7 @@
             "latitude": 38.624917,
             "longitude": 27.363833,
             "address": "Güzelyurt, Merkez/Yunusemre, 45030 Manisa / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Anıl Otomotiv, Hatay",
@@ -621,8 +574,7 @@
             "latitude": 36.570333,
             "longitude": 36.157008,
             "address": "Mustafa Kemal Mah. 575. Sk. No:18, İskenderun, 31230 Hatay / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - ANKAmall AVM, Ankara",
@@ -634,8 +586,7 @@
             "latitude": 39.952287,
             "longitude": 32.830297,
             "address": "Gazi Mah., Mevlana Bulv., No: 2, Akköprü Mevkii, Yenimahalle, 06560 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00"
         },
         {
             "name": "E-Şarj - Ankara Çelik Kapı, Ankara",
@@ -647,8 +598,7 @@
             "latitude": 39.700433,
             "longitude": 32.268967,
             "address": "Yenidoğan, Polatlı, 6900 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aqua Fantasy Hotel & Spa, İzmir",
@@ -660,8 +610,7 @@
             "latitude": 37.920444,
             "longitude": 27.282,
             "address": "Pamucak Mah. Oteller Bölgesi, Selçuk, 35920 İzmir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aqua Florya AVM, Florya",
@@ -673,8 +622,7 @@
             "latitude": 40.966222,
             "longitude": 28.7975,
             "address": "Şenliköy Mahallesi Yeşilköy Halkalı Caddesi NO:93-93/1 Florya /Bakırköy / istanbul, 34000 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 07:00 - 00:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 07:00 - 00:00"
         },
         {
             "name": "E-Şarj - Aqua Florya AVM, Florya",
@@ -686,8 +634,7 @@
             "latitude": 40.965333,
             "longitude": 28.799,
             "address": "Şenliköy Mahallesi Yeşilköy Halkalı Caddesi NO:93-93/1 Florya /Bakırköy / istanbul, 34000 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 07:00 - 00:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 07:00 - 00:00"
         },
         {
             "name": "E-Şarj - Aqua Florya AVM, Florya",
@@ -699,8 +646,7 @@
             "latitude": 40.964278,
             "longitude": 28.800667,
             "address": "Şenliköy Mahallesi Yeşilköy Halkalı Caddesi NO:93-93/1 Florya /Bakırköy / istanbul, 34000 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 07:00 - 00:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 07:00 - 00:00"
         },
         {
             "name": "E-Şarj - Aqua Florya AVM, Florya",
@@ -712,8 +658,7 @@
             "latitude": 40.963944,
             "longitude": 28.800917,
             "address": "Şenliköy Mahallesi Yeşilköy Halkalı Caddesi NO:93-93/1 Florya /Bakırköy / istanbul, 34000 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 07:00 - 00:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 07:00 - 00:00"
         },
         {
             "name": "E-Şarj - Aqua Florya AVM, Florya",
@@ -725,8 +670,7 @@
             "latitude": 40.963383,
             "longitude": 28.800804,
             "address": "Şenliköy Mahallesi Yeşilköy Halkalı Caddesi NO:93-93/1 Florya /Bakırköy / istanbul, 34000 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 07:00 - 00:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 07:00 - 00:00"
         },
         {
             "name": "E-Şarj - Arkas Otomotiv, Bursa",
@@ -738,8 +682,7 @@
             "latitude": 40.235833,
             "longitude": 28.977889,
             "address": "Bağlarbaşı, Sanayi Cd. No:368 A-B, Osmangazi, 16160 Bursa / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Arkas Otomotiv, Zeytinburnu",
@@ -751,8 +694,7 @@
             "latitude": 40.988528,
             "longitude": 28.909028,
             "address": "Kazlıçeşme Mah. Abay Cad. No:62, Zeytinburnu, 34020 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Cuma : 09:00 - 18:00, Cumartesi - Tatil Günleri : 09:00 - 17:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Cuma : 09:00 - 18:00, Cumartesi - Tatil Günleri : 09:00 - 17:00"
         },
         {
             "name": "E-Şarj - Armada AVM, Ankara",
@@ -764,8 +706,7 @@
             "latitude": 39.913197,
             "longitude": 32.809489,
             "address": "Eskişehir Yolu No:6, Söğütözü, 06560 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00"
         },
         {
             "name": "E-Şarj - Armada AVM, Ankara",
@@ -777,8 +718,7 @@
             "latitude": 39.913028,
             "longitude": 32.808847,
             "address": "Eskişehir Yolu No:6, Söğütözü, 06560 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00"
         },
         {
             "name": "E-Şarj - Armada AVM, Ankara",
@@ -790,8 +730,7 @@
             "latitude": 39.912917,
             "longitude": 32.809242,
             "address": "Eskişehir Yolu No:6, Söğütözü, 06560 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00"
         },
         {
             "name": "E-Şarj - Armada AVM, Ankara",
@@ -803,8 +742,7 @@
             "latitude": 39.912127,
             "longitude": 32.810264,
             "address": "Eskişehir Yolu No:6, Söğütözü, 06560 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Armada AVM, Ankara",
@@ -816,8 +754,7 @@
             "latitude": 39.912408,
             "longitude": 32.809003,
             "address": "Eskişehir Yolu No:6, Söğütözü, 06560 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00"
         },
         {
             "name": "E-Şarj - Armada AVM, Ankara",
@@ -829,8 +766,7 @@
             "latitude": 39.912472,
             "longitude": 32.808594,
             "address": "Eskişehir Yolu No:6, Söğütözü, 06560 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Armada AVM, Ankara",
@@ -842,8 +778,7 @@
             "latitude": 39.912375,
             "longitude": 39.912375,
             "address": "Eskişehir Yolu No:6, Söğütözü, 06560 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Arn Plaza, Çekmeköy",
@@ -855,8 +790,7 @@
             "latitude": 41.026611,
             "longitude": 29.232528,
             "address": "Soğukpınar, Adnan Menderes Caddesi 40/A, Çekmeköy/İstanbul, 34788 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Artan Suites Tatil Evler, Aydın",
@@ -868,8 +802,7 @@
             "latitude": 37.7155,
             "longitude": 27.218222,
             "address": "Güzelçamlı Mah. Oteller Cad. No:13, Kuşadası, 9430 Aydın / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - ASF Otomotiv, Gebze",
@@ -881,8 +814,7 @@
             "latitude": 40.786926,
             "longitude": 29.417063,
             "address": "İstasyon, 1460. Sok. No: 1, Gebze, 41400 Kocaeli / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - ASF Otomotiv, Kartal",
@@ -894,8 +826,7 @@
             "latitude": 40.917294,
             "longitude": 29.17877,
             "address": "E-5 Yanyol Pamukkale Sok. No: 2, Soğanlık, Kartal, 34880 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Atako Kürk Petrol, Çeşmeli",
@@ -907,8 +838,7 @@
             "latitude": 36.683035,
             "longitude": 34.417158,
             "address": "Atatürk Mah. Mersin Cad. No:45/A Çeşmeli, 33875 Mersin / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Atako Kürk Petrol, Nusratiye",
@@ -920,8 +850,7 @@
             "latitude": 36.808091,
             "longitude": 34.622093,
             "address": "Nusratiye Mah. Kuvaliyi Milliye Cad. No:130 Akdeniz, 33050 Mersin / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Atako Kürk Petrol, Yakaköy",
@@ -933,8 +862,7 @@
             "latitude": 36.858917,
             "longitude": 34.759296,
             "address": "Anadolu Mah. Atatürk Blv. No:96A Yakaköy, Akdeniz, 33100 Mersin / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - ATS Sevindik İş Merkezi, Denizli",
@@ -946,8 +874,7 @@
             "latitude": 37.801583,
             "longitude": 29.10175,
             "address": "Sevindik, 26, 2331. Sk., Merkez, 20020 Denizli / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - AU Otomotiv, Etimesgut",
@@ -959,8 +886,7 @@
             "latitude": 39.941517,
             "longitude": 32.712494,
             "address": "Bahçekapı Mahallesi, 6. Cad. No: 9/A, Etimesgut, 06797 Ankara / Türkiye",
-            "opentime": "Pazartesi - Cumartesi : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Cumartesi : 24 Saat"
         },
         {
             "name": "E-Şarj - Auto Destek, Bahçelievler",
@@ -972,8 +898,7 @@
             "latitude": 41.012056,
             "longitude": 28.810083,
             "address": "Yenibosna Merkez mah. 1 Emlak Asena Sokak No:9, Bahçelievler, 34100 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Avec Hotel, Çanakkale",
@@ -985,8 +910,7 @@
             "latitude": 40.154357,
             "longitude": 26.457617,
             "address": "Karacaören Köyü Testicikırı Mah. 2. Sk. No:2/1, Merkez, 17100 Çanakkale / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Ayatoure Otel, Giresun",
@@ -998,8 +922,7 @@
             "latitude": 40.937587,
             "longitude": 38.197299,
             "address": "Aktepe Sokak no:2/3, 28000 Giresun / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aydoğan Otomotiv, Çanakkale",
@@ -1011,8 +934,7 @@
             "latitude": 40.080389,
             "longitude": 26.384611,
             "address": "Çınarlı Köyü, Armutlu Mevkii 12. Sk. No:16/1, Merkez, 17100 Çanakkale / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Ayedaş OM, Kartal",
@@ -1024,8 +946,7 @@
             "latitude": 40.915778,
             "longitude": 29.153889,
             "address": "Cevizli, Zuhal Cd. No:2, Maltepe, 34846 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz - İzmir Otoyolu, Bursa",
@@ -1037,8 +958,7 @@
             "latitude": 40.233219,
             "longitude": 28.781492,
             "address": "İzmir Otoyolu OHT-4 Aytemiz Akaryakıt İstasyonu İstanbul Yönü, Nilüfer, 16110 Bursa / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz ,Yücesan Petrol, Kırşehir",
@@ -1050,8 +970,7 @@
             "latitude": 39.066278,
             "longitude": 34.371,
             "address": "Solaklı, Fevzi Çakmak Cd. No:3, Mucur, 40500 Kırşehir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Assos Ay-toklar Petrol, Çanakkale",
@@ -1063,8 +982,7 @@
             "latitude": 39.508667,
             "longitude": 26.385278,
             "address": "Büyükhusun Köyü Sazak Mevkii No:27 ( Ada:123 , Pafta:İ16C23C , Parsel:62 ), Ayvacık , 17862 Çanakkale / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Ballı, Tekirdağ",
@@ -1076,8 +994,7 @@
             "latitude": 40.872889,
             "longitude": 26.993778,
             "address": "E-84 Karayolu Üzeri Alaybey Köyü, Malkara, 59300 Tekirdağ / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Bozüyük Akaryakıt, Bilecik",
@@ -1089,8 +1006,7 @@
             "latitude": 39.888222,
             "longitude": 29.938583,
             "address": "Bursa Eskişehir Yolu 94-51/2 Kizilcapinar Koyu Sokagi, D200, D:E90, Bozüyük, 11300 Bilecik / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Cihan Petrol, Sakarya",
@@ -1102,8 +1018,7 @@
             "latitude": 40.552833,
             "longitude": 30.314222,
             "address": "Bağlarbaşı Mahallesi Merkez Sokağı No:5, 54700 Sakarya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Çakıroğlu Tur., Trabzon",
@@ -1115,8 +1030,7 @@
             "latitude": 40.966278,
             "longitude": 40.3025,
             "address": "Kıyıcık, Sahil Küme Evleri No:2, Of, 61830 Trabzon / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Ercoş Enerji, Manisa",
@@ -1128,8 +1042,7 @@
             "latitude": 38.556667,
             "longitude": 27.564278,
             "address": "Kasaba, Aşağıçobanisa Mahallesi, 1 Caddesi No:40, Şehzadeler, 45000 Manisa / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Ertaş, Nevşehir",
@@ -1141,8 +1054,7 @@
             "latitude": 38.567925,
             "longitude": 34.701714,
             "address": "Kasapoğlu Mah. Sami Yüksel Blv. No:34, Göre, Merkez, 50170 Nevşehir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Esit Petrol, Bozcaada",
@@ -1154,8 +1066,7 @@
             "latitude": 39.830389,
             "longitude": 26.045806,
             "address": "Cumhuriyet Mah. Çaykır Mevkii, No:80, Bozcaada, 17680 Çanakkale / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Free Akaryakıt, Tekirdağ",
@@ -1167,8 +1078,7 @@
             "latitude": 41.191,
             "longitude": 27.820972,
             "address": "Silahtarağa Mah. Hacışeremet Cad. 2. SOK. No:1/A, Çorlu, 59850 Tekirdağ / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Gençerler, Kocaeli",
@@ -1180,8 +1090,7 @@
             "latitude": 40.705917,
             "longitude": 29.872222,
             "address": "Sanayi Mahallesi D-130 Karayolu Üzeri Yazlik, Gölcük, 41650 Kocaeli / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Hamamcıoğlu Petrol, Bolu",
@@ -1193,8 +1102,7 @@
             "latitude": 40.703167,
             "longitude": 31.618556,
             "address": "Merkez, Kaplıca Yolu Sk. Berk Köyü No:41, Berk/Bolu Merkez, 14100 Bolu / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Hizmet Petrol, Kadıköy",
@@ -1206,8 +1114,7 @@
             "latitude": 40.977543,
             "longitude": 29.09704,
             "address": "19 Mayıs Mah. İnönü cad. No: 101/1, Kadıköy , 34736 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Koşuyolu",
@@ -1219,8 +1126,7 @@
             "latitude": 41.004791,
             "longitude": 29.035521,
             "address": "Koşuyolu Mah. Ali Dede Sok. No:2, Kadıköy, 34718 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Özbekoğlu Petrol, Bayburt",
@@ -1232,8 +1138,7 @@
             "latitude": 40.268764,
             "longitude": 40.197261,
             "address": "Şingah Mah, Kayışkıran Mevkii, Turgut Özal Blv. No:22, MERKEZ, 69000 Bayburt / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Özkan Tarım, Kayseri",
@@ -1245,8 +1150,7 @@
             "latitude": 38.648083,
             "longitude": 35.451472,
             "address": "Aşağı, Kayseri Cd. NO:9, Hacılar, 38210 Kayseri / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Polatcan, Keşan",
@@ -1258,8 +1162,7 @@
             "latitude": 40.875047,
             "longitude": 26.64221,
             "address": "Keşan İspat Cami Mah. Kondra Cad. No: 80, Keşan, 22800 Edirne / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Polatcan, Keşan",
@@ -1271,8 +1174,7 @@
             "latitude": 40.874917,
             "longitude": 26.6415,
             "address": "Keşan İspat Cami Mah. Kondra Cad. No: 80, Keşan, 22800 Edirne / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Şar Petrol, Taşlıdere, Rize",
@@ -1284,8 +1186,7 @@
             "latitude": 41.044706,
             "longitude": 40.592161,
             "address": "Taşlıdere Mah. Eski Rize Hopa Yolu, Rize Merkez, 53020 Rize / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Şişli",
@@ -1297,8 +1198,7 @@
             "latitude": 41.058609,
             "longitude": 28.965727,
             "address": "Kaptanpaşa Mah. Darülcaze yanı No:274, Şişli, 34384 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Tek Akaryakıt, Tekirdağ",
@@ -1310,8 +1210,7 @@
             "latitude": 40.934917,
             "longitude": 27.297639,
             "address": "İnecik mahallesi 279, Süleymanpaşa, 59600 Tekirdağ / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Tekpet, Kayseri",
@@ -1323,8 +1222,7 @@
             "latitude": 38.931614,
             "longitude": 35.068094,
             "address": "Himmetdede, Ankara Bulvarı No:182, Kocasinan, 38090 Kayseri / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Tuğut Petrol, Sivas",
@@ -1336,8 +1234,7 @@
             "latitude": 39.737736,
             "longitude": 37.032044,
             "address": "Kardeşler, Sultan Şehir Blv No:32/1, Merkez, 58080 Sivas / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, Vadim, Kozyatağı",
@@ -1349,8 +1246,7 @@
             "latitude": 40.967503,
             "longitude": 29.102757,
             "address": "Kozyatağı Mah. Ankara Asfaltı E5 Yan Yol Üzeri Hüseyin Çelik Sok. No:2 Bostancı, Kadıköy, 34742 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz, YKD Akaryakıt, Yenimahalle",
@@ -1362,8 +1258,7 @@
             "latitude": 39.97113,
             "longitude": 32.771179,
             "address": "Mehmet Akif Ersoy Mah. Anadolu Bulvarı No:110/B, Yenimahalle, 06200 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz,RMG Akaryakıt, Edirne",
@@ -1375,8 +1270,7 @@
             "latitude": 41.864611,
             "longitude": 26.703694,
             "address": "Hanlıyenice Köyü, Hanlıyenice Küme Evleri, No:162, Lalapaşa, 22970 Edirne / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Aytemiz,Taybe Akaryakıt, Samsun",
@@ -1388,8 +1282,7 @@
             "latitude": 41.487244,
             "longitude": 36.090189,
             "address": "Engiz Mah. Atatürk Blv. No:88, 19 Mayıs, 55420 Samsun / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Azim Otomotiv, Bartın",
@@ -1401,8 +1294,7 @@
             "latitude": 41.624639,
             "longitude": 32.320444,
             "address": "Cumhuriyet, Cumhuriyet Cd. No:10, Bartın Merkez, 74200 Bartın / Türkiye",
-            "opentime": "Pazartesi - Cumartesi : 08:00 - 17:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Cumartesi : 08:00 - 17:00"
         },
         {
             "name": "E-Şarj - Azim Otomotiv, Karabük",
@@ -1414,8 +1306,7 @@
             "latitude": 41.217044,
             "longitude": 32.661506,
             "address": "Merkez Mahallesi 100. Yıl Sokak No:17, Merkez, 78050 Karabük / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bademli Motors, Bursa",
@@ -1427,8 +1318,7 @@
             "latitude": 40.284028,
             "longitude": 28.934111,
             "address": "Nilüfer Mah. Mudanya Yolu Cad. No: 21-23, Osmangazi, 16110 Bursa / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Balèze Boutique Hotel, Akyaka, Muğla",
@@ -1440,8 +1330,7 @@
             "latitude": 37.055417,
             "longitude": 28.331333,
             "address": "Akyaka, Koyuncu Sk. No:34, Ula, 48650 Muğla / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bandırma Basketbol Spor Salonu, Balıkesir",
@@ -1453,8 +1342,7 @@
             "latitude": 40.344306,
             "longitude": 27.952417,
             "address": "Paşakent, Şht. Cem Güçlü Cd., No:2, Bandırma, 10200 Balıkesir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Base Life Club, Ankara",
@@ -1466,8 +1354,7 @@
             "latitude": 39.877412,
             "longitude": 32.706465,
             "address": "Angora Cad., No:209/10, Beysupark, Çayyolu, 06680 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 06:00 - 23:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 06:00 - 23:00"
         },
         {
             "name": "E-Şarj - Base Life Club, Ankara",
@@ -1479,8 +1366,7 @@
             "latitude": 39.877493,
             "longitude": 32.705789,
             "address": "Angora Cad., No:209/10, Beysupark, Çayyolu, 06680 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 06:00 - 23:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 06:00 - 23:00"
         },
         {
             "name": "E-Şarj - Baskent Edaş Bartın OM",
@@ -1492,8 +1378,7 @@
             "latitude": 41.623017,
             "longitude": 32.325928,
             "address": "Kemer Köprü, Elmalık Sk. 60-76, Bartın Merkez, 74100 Bartın / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Başak Mağazacılık Siemens, Konya",
@@ -1505,8 +1390,7 @@
             "latitude": 37.873742,
             "longitude": 32.484781,
             "address": "İhsaniye Mah. Alsan Sitesi Vatan Cd. 19/A, Selçuklu, 42060 Konya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 10:00 - 19:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 10:00 - 19:00"
         },
         {
             "name": "E-Şarj - Başkent Kule, Ankara",
@@ -1518,8 +1402,7 @@
             "latitude": 39.909181,
             "longitude": 32.812397,
             "address": "Kızılırmak Mah., Ufuk Üniversitesi Cad., No:1, Başkent Kule, Çukurambar, Çankaya, 06510 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Başkent, Beypazarı, Ankara",
@@ -1531,8 +1414,7 @@
             "latitude": 40.162617,
             "longitude": 31.912858,
             "address": "Gazipaşa Mahallesi Hıdırlık Yolu Sokak No:7, Beypazarı, 06730 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bayberd Hotel, Bayburt",
@@ -1544,8 +1426,7 @@
             "latitude": 40.267208,
             "longitude": 40.200664,
             "address": "Şingah Mah. Turgut Özal Blv. No:44, Merkez, 69000 Bayburt / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bayburt Günpaş AVM",
@@ -1557,8 +1438,7 @@
             "latitude": 40.261194,
             "longitude": 40.213806,
             "address": "Bayburt Kuleleri Altı, Merkez, 69000 Bayburt / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bayburt Otel Konaklama",
@@ -1570,8 +1450,7 @@
             "latitude": 40.25925,
             "longitude": 40.213694,
             "address": "Şingah Mah., Turgut Özal Blv. No:17, Bayburt Merkez, 69000 Bayburt / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Baykar Motorlu Araçlar, Bursa",
@@ -1583,8 +1462,7 @@
             "latitude": 40.244942,
             "longitude": 29.063147,
             "address": "Panayır Mah. İstanbul Cd No:433 Osmangazi, 16255 Bursa / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Baykoçlar Otomotiv (Nissan), Ankara",
@@ -1596,8 +1474,7 @@
             "latitude": 39.899372,
             "longitude": 32.814422,
             "address": "Oğuzlar, Mevlana Blv. No:157, Çankaya, 06520 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Baykoçlar Otomotiv, Ankara",
@@ -1609,8 +1486,7 @@
             "latitude": 39.897703,
             "longitude": 32.682486,
             "address": "Erler Mah. 2715 Cad. No:12, Etimesgut, 6790 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bayraktarlar Merkay Otomotiv 2, Kayseri",
@@ -1622,8 +1498,7 @@
             "latitude": 38.7514,
             "longitude": 35.395114,
             "address": "Şeker Mah., Osman Kavuncu Bulvarı, 6161. Sk, D:No:3, Kocasinan, 38080 Kayseri / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bayraktarlar Merkay Otomotiv, Kayseri",
@@ -1635,8 +1510,7 @@
             "latitude": 38.738939,
             "longitude": 35.427447,
             "address": "Şeker Mah. Osman Kavuncu Blv. No:274, Kocasinan, 38060 Kayseri / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bayraktarlar Otomotiv, Aksaray",
@@ -1648,8 +1522,7 @@
             "latitude": 38.338708,
             "longitude": 33.974017,
             "address": "Aratol İstiklal Mah. 135. Necmettin Erbakan Blv. No:65, Merkez, 68100 Aksaray / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Beceren Otel, Bursa",
@@ -1661,8 +1534,7 @@
             "latitude": 40.104417,
             "longitude": 29.132361,
             "address": "Uludağ Oteller Bölgesi, , 16160 Bursa / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bergama Doğa Koleji, İzmir",
@@ -1674,8 +1546,7 @@
             "latitude": 39.077767,
             "longitude": 27.118296,
             "address": "Fatih mahallesi İzmir Çanakkale yolu üzeri no:1100/2, Bergama, 35700 İzmir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Best Garaj Eurorpar Car Servis, Trabzon",
@@ -1687,8 +1558,7 @@
             "latitude": 41.000778,
             "longitude": 39.756442,
             "address": "Sanayi Mah. Büyük Sanayi Sit. 302. Sk. No:20, Ortahisar, 61100 Trabzon / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Beyaz Filo Otomotiv, Balıkesir",
@@ -1700,8 +1570,7 @@
             "latitude": 39.569889,
             "longitude": 27.9002,
             "address": "Kesirven Mah. İsmail Akçay Sk. No:311, Altıeylül, 10185 Balıkesir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Beyazlı Otomotiv, Trabzon",
@@ -1713,8 +1582,7 @@
             "latitude": 40.989381,
             "longitude": 39.802211,
             "address": "Pelitli Mah. Rize Cad. No:50, Ortahisar , 41400 Trabzon / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bi Mola Çiftalan, Eyüpsultan",
@@ -1726,8 +1594,7 @@
             "latitude": 41.236139,
             "longitude": 28.908944,
             "address": "Çiftalan Köyü Mah. Çiftalan, Koy Yolu Sk. No:1, Eyüpsultan, 34076 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bi Mola Fenertepe, Eyüp",
@@ -1739,8 +1606,7 @@
             "latitude": 41.198417,
             "longitude": 28.822417,
             "address": "Bi Mola Fenertepe Dinlenme Tesisleri, Kuzey Marmara Otoyolu, Pirinççi Köyü, 34076, Eyüp, 34076 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bi Mola Işıklar, Eyüp",
@@ -1752,8 +1618,7 @@
             "latitude": 41.195806,
             "longitude": 28.825944,
             "address": "Bi Mola Işıklar Dinlenme Tesisleri, Kuzey Marmara Otoyolu, Pirinççi Köyü, 34076, Eyüp, 34076 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bi Mola Ömerli, Çekmeköy",
@@ -1765,8 +1630,7 @@
             "latitude": 41.089111,
             "longitude": 29.286417,
             "address": "Ömerli Mah. Ormanyolu Sok. , Çekmeköy, 34794 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bi Mola Reşadiye, Çekmeköy",
@@ -1778,8 +1642,7 @@
             "latitude": 41.103278,
             "longitude": 29.291,
             "address": "Ömerli Mh. Yavuz Sultan Selim 3. Boğaz Köprüsü, Taşeren Sk. , Çekmeköy, 34799 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bilenler Un Fabrikası, Kayseri",
@@ -1791,8 +1654,7 @@
             "latitude": 38.754139,
             "longitude": 35.383872,
             "address": "Anbar Mah. Osman Kavuncu Blv. No:412, Melikgazi, 38070 Kayseri / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bilkent Center, Ankara",
@@ -1804,8 +1666,7 @@
             "latitude": 39.88325,
             "longitude": 32.75755,
             "address": "Üniversiteler Mah., Bilkent Bulvarı, Bilkent, Çankaya, 06533 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00"
         },
         {
             "name": "E-Şarj - Bilkent Cyberpark, Ankara",
@@ -1817,8 +1678,7 @@
             "latitude": 39.869972,
             "longitude": 32.744222,
             "address": "Ankara Teknoloji Geliştirme Bölgesi, Üniversiteler Mah. 1606. Cad. No:11, CYBERPARK, Bilkent Bulvarı D:H Blok, , 6800 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bilkent Cyberpark, Ankara",
@@ -1830,8 +1690,7 @@
             "latitude": 39.869639,
             "longitude": 32.746056,
             "address": "Ankara Teknoloji Geliştirme Bölgesi, Üniversiteler Mah. 1606. Cad. No:11, CYBERPARK, Bilkent Bulvarı D:H Blok, , 6800 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bilkent Otel ve Konferans Merkezi, Çan",
@@ -1843,8 +1702,7 @@
             "latitude": 39.874306,
             "longitude": 32.763417,
             "address": "Üniversiteler, İhsan Doğramacı Blv No:6, Çankaya, 6800 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Binboğa Fıstık, Osmaniye",
@@ -1856,8 +1714,7 @@
             "latitude": 37.056381,
             "longitude": 36.176317,
             "address": "Kumarlı, Devlet Hastanesi Caddesi No:5/A, Akyar/Toprakkale, 80950 Osmaniye / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Birlas, 4. Levent Sanayi Sitesi",
@@ -1869,8 +1726,7 @@
             "latitude": 41.09875,
             "longitude": 29.006083,
             "address": "4. Levent Sanayi Sitesi, Huzur Mah. Çamlıklar Cad. No:2/2, Sarıyer, 34396 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Birlik Organize Sanayi Bölgesi, Tuzla",
@@ -1882,8 +1738,7 @@
             "latitude": 40.877472,
             "longitude": 29.394361,
             "address": "Aydınlı Birlik OSB Mah. 1 Nolu Cadde No:26, Tuzla, 34953 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Birollar Oto, Eskişehir",
@@ -1895,8 +1750,7 @@
             "latitude": 39.805466,
             "longitude": 30.417107,
             "address": "Yukarı Söğütönü Mah. Çevreyolu Sok. No:750 Tepebaşı, 26005 Eskişehir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - BMW Borusan, Zekeriyaköy",
@@ -1908,8 +1762,7 @@
             "latitude": 41.217648,
             "longitude": 29.03269,
             "address": "Uskumruköy 1. Cadde No:9/A, Sarıyer, 34450 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bomonti Moda, Kadıköy",
@@ -1921,8 +1774,7 @@
             "latitude": 40.9805,
             "longitude": 29.028972,
             "address": "Caferağa, Küçük, Moda Burnu Sokak No 4, Kadıköy, 34744 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bomonti Moda, Kadıköy",
@@ -1934,8 +1786,7 @@
             "latitude": 40.9805,
             "longitude": 29.028556,
             "address": "Caferağa, Küçük, Moda Burnu Sokak No 4, Kadıköy, 34744 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bostancıoğlu Motorlu Araçlar, Kartal",
@@ -1947,8 +1798,7 @@
             "latitude": 40.90271,
             "longitude": 29.215971,
             "address": "Topselvi Mah. D-100 Karayolu Güney Yan Yol No:10, Kartal, 34873 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Boyner Bağdat Caddesi, İstanbul",
@@ -1960,8 +1810,7 @@
             "latitude": 40.965851,
             "longitude": 29.070849,
             "address": "Caddebostan Mah. Bağdat Cad. No:319-321A, Kadıköy, 34728 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 10:00 - 23:59",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 10:00 - 23:59"
         },
         {
             "name": "E-Şarj - Bozbey Dinlenme Tesisleri, Düzce",
@@ -1973,8 +1822,7 @@
             "latitude": 40.781072,
             "longitude": 31.278403,
             "address": "Şimşir, Kaynaşlı, 81900 Düzce / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bridgestone, Doğan-Gü, Adana",
@@ -1986,8 +1834,7 @@
             "latitude": 36.979253,
             "longitude": 35.460444,
             "address": "İncirlik Cumhuriyet, Ceyhan Karayolu 12. Km, Yüreğir, 01965 Adana / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Brisa (Altınlas), Kocaeli",
@@ -1999,8 +1846,7 @@
             "latitude": 40.805778,
             "longitude": 29.484806,
             "address": "Tavşanlı, Komürcüoğlu Cd., Gebze, 41400 Kocaeli / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - BS Benim Datçam, Muğla",
@@ -2012,8 +1858,7 @@
             "latitude": 36.759694,
             "longitude": 27.635611,
             "address": "Karaköy Mah. Küme Evler, No:359, Datça, 48900 Muğla / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Bulteks, Denizli",
@@ -2025,8 +1870,7 @@
             "latitude": 38.037111,
             "longitude": 28.860833,
             "address": "Cumhuriyet, Sarayköy Asfaltı Cd., Buldan, 20410 Denizli / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Buyaka AVM, Ümraniye",
@@ -2038,8 +1882,7 @@
             "latitude": 41.026466,
             "longitude": 29.127403,
             "address": "Fatih Sultan Mehmet Mah. Balkan Cad. No:56, Ümraniye, 34771 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00"
         },
         {
             "name": "E-Şarj - Bül Otomotiv, Sakarya",
@@ -2051,8 +1894,7 @@
             "latitude": 40.760583,
             "longitude": 30.392722,
             "address": "Güllük Mah. Zübeyde Hanım Cd. No:87, Adapazarı, 54200 Sakarya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Cadde Plus AVM, Çeşme",
@@ -2064,8 +1906,7 @@
             "latitude": 38.328389,
             "longitude": 26.312667,
             "address": "Sakarya Mah. 2001 Sok. No: 119/S, Çeşme, 35930 İzmir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Cadde Plus AVM, Çeşme",
@@ -2077,8 +1918,7 @@
             "latitude": 38.328417,
             "longitude": 26.312306,
             "address": "Sakarya Mah. 2001 Sok. No: 119/S, Çeşme, 35930 İzmir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa Bodrum, Muğla",
@@ -2090,8 +1930,7 @@
             "latitude": 37.039444,
             "longitude": 27.415278,
             "address": "Yeniköy, Kıbrıs Şehitleri Cd. No:178, Bodrum, 48440 Muğla / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa Gaziemir, İzmir",
@@ -2103,8 +1942,7 @@
             "latitude": 38.311833,
             "longitude": 27.142028,
             "address": "Gazikent Mah Akçay Cd. No:330/A, Gaziemir, 35410 İzmir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 08:00 - 22:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 08:00 - 22:00"
         },
         {
             "name": "E-Şarj - Carrefoursa Heredot, Muğla",
@@ -2116,8 +1954,7 @@
             "latitude": 37.041833,
             "longitude": 27.436806,
             "address": "Yokuşbaşı Mah. Kocadere Sk. No:34, Bodrum, 48400 Muğla / Türkiye",
-            "opentime": "Pazartesi - Pazar : 08:00 - 22:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 08:00 - 22:00"
         },
         {
             "name": "E-Şarj - Carrefoursa Yalıkavak 2, Muğla",
@@ -2129,8 +1966,7 @@
             "latitude": 37.102028,
             "longitude": 27.31425,
             "address": "Yalıkavak, İnönü Cd. No:56, Bodrum, 48990 Muğla / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa Yalıkavak, Muğla",
@@ -2142,8 +1978,7 @@
             "latitude": 37.111722,
             "longitude": 27.322333,
             "address": "Turgutreis Mah. Gökçebel Kalabak Mevki, Bodrum, 48990 Muğla / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa, Kurtköy",
@@ -2155,8 +1990,7 @@
             "latitude": 40.912972,
             "longitude": 29.298111,
             "address": "Yenişehir, Eski, Kurtköy Mah, Ankara Cd. No:400, , 34912 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa, Anadoluhisarı",
@@ -2168,8 +2002,7 @@
             "latitude": 41.080211,
             "longitude": 29.078853,
             "address": "Anadolu hisarı mah. Göksu cad. No:1 Çavuşpaşa, Beykoz, 34815 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa, Anadoluhisarı",
@@ -2181,8 +2014,7 @@
             "latitude": 41.080111,
             "longitude": 29.079361,
             "address": "Anadolu hisarı mah. Göksu cad. No:1 Çavuşpaşa, Beykoz, 34815 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa, Ataşehir",
@@ -2194,8 +2026,7 @@
             "latitude": 40.991778,
             "longitude": 29.152083,
             "address": "Yeni Çamlıca, Bostancı Yolu Cad No:13,Ataşehir, 34888 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 08:30 - 23:59",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 08:30 - 23:59"
         },
         {
             "name": "E-Şarj - Carrefoursa, Balıkesir",
@@ -2207,8 +2038,7 @@
             "latitude": 39.615306,
             "longitude": 27.894028,
             "address": "Plevne Mah. 226 Sk. No:1/7, Altıeylül, 10050 Balıkesir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa, Çekmeköy Şile Yolu, İstanbul",
@@ -2220,8 +2050,7 @@
             "latitude": 41.012556,
             "longitude": 29.197,
             "address": "Meclis, Cemal Gürsel Cd. No:107, Sancaktepe, 34785 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa, Çorlu",
@@ -2233,8 +2062,7 @@
             "latitude": 41.154167,
             "longitude": 27.824167,
             "address": "Kazimiye Mah. Salih Omurtak Cad. No:54/B, Çorlu, 59860 Tekirdağ / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa, Dragos",
@@ -2246,8 +2074,7 @@
             "latitude": 40.916861,
             "longitude": 29.138222,
             "address": "Yalı, Mareşal Fevzi Çakmak Cd. No:50, Maltepe, 34844 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa, Düzce",
@@ -2259,8 +2086,7 @@
             "latitude": 40.836111,
             "longitude": 31.167361,
             "address": "Cedidiye Mah. Tayfun Sk. No:3, Merkez, 3010 Düzce / Türkiye",
-            "opentime": "Pazartesi - Pazar : 09:00 - 22:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 09:00 - 22:00"
         },
         {
             "name": "E-Şarj - Carrefoursa, Ereğli, Zonguldak",
@@ -2272,8 +2098,7 @@
             "latitude": 41.268139,
             "longitude": 31.456472,
             "address": "Kavaklık, Kavaklık Mah. Devrek Yolu, Değirmen Yüzü Mevki, Ereğli, 67300 Zonguldak / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa, İstinye",
@@ -2285,8 +2110,7 @@
             "latitude": 41.117741,
             "longitude": 29.049364,
             "address": "İstinye Mah, Çayır Cd. No: 1, İstinye, Sarıyer, 34460 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj Carrefoursa, İstinye",
@@ -2298,8 +2122,7 @@
             "latitude": 41.117741,
             "longitude": 29.049364,
             "address": "İstinye Mah, Çayır Cd. No: 1, İstinye, Sarıyer, 34460 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa, Karabük",
@@ -2311,8 +2134,7 @@
             "latitude": 41.197861,
             "longitude": 32.626611,
             "address": "Yeşil, Atatürk Blv. No:78, Merkez, 78200 Karabük / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa, Kurtuluş, Şişli",
@@ -2324,8 +2146,7 @@
             "latitude": 41.046,
             "longitude": 28.978167,
             "address": "Feriköy Mah. Kurtuluş Cad. Açıkyol Sok, No:3-5, Şişli, 34277 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa, Lara, Antalya",
@@ -2337,8 +2158,7 @@
             "latitude": 36.857556,
             "longitude": 30.737167,
             "address": "Şirinyalı, Lara Cd. No:127, Muratpaşa, 07230 Antalya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa, Marmara R., Pendik",
@@ -2350,8 +2170,7 @@
             "latitude": 40.891611,
             "longitude": 29.263028,
             "address": "Esenler, Mimar Sinan Cd. No:11, Pendik, 34899 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa, Millenium, Kurtköy",
@@ -2363,8 +2182,7 @@
             "latitude": 40.936472,
             "longitude": 29.367472,
             "address": "Tepeören Mah. Fırat Cad. No:7 Millenium Bazaar AVM, Tuzla, 34959 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa, Ömerli",
@@ -2376,8 +2194,7 @@
             "latitude": 41.083843,
             "longitude": 29.329546,
             "address": "Ömerli, Kadirova Cd. No:1/1, Çekmeköy, 34794 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa, Sapanca, Sakarya",
@@ -2389,8 +2206,7 @@
             "latitude": 40.689556,
             "longitude": 30.235167,
             "address": "Hasanpaşa, Şht. Cevdet Koç Cd. No:10, Sapanca, 54600 Sakarya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa, Turgutreis 2, Muğla",
@@ -2402,8 +2218,7 @@
             "latitude": 37.008389,
             "longitude": 27.26325,
             "address": "Turgutreis, Mehmet Hilmi Cd. No:60, Bodrum, 48960 Muğla / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa, Urla",
@@ -2415,8 +2230,7 @@
             "latitude": 38.320361,
             "longitude": 26.754361,
             "address": "Altıntaş Mah. A.Besim Uyal Cad. No:75/77,Urla, 35260 İzmir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa, Zekeriyaköy",
@@ -2428,8 +2242,7 @@
             "latitude": 41.217348,
             "longitude": 29.03239,
             "address": "Uskumruköy 1. Cadde No:9/A, Sarıyer, 34450 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Cepa AVM, Ankara",
@@ -2441,8 +2254,7 @@
             "latitude": 39.909861,
             "longitude": 32.777611,
             "address": "Mustafa Kemal Mah. 2123. Sok. No: 2 K: 4 No: 401 Çankaya Ankara, 06530 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Cepa AVM, Ankara",
@@ -2454,8 +2266,7 @@
             "latitude": 39.910806,
             "longitude": 32.778917,
             "address": "Mustafa Kemal Mah. 2123. Sok. No: 2 K: 4 No: 401 Çankaya Ankara, 06530 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Cepa Ofis, Çankaya",
@@ -2467,8 +2278,7 @@
             "latitude": 39.912722,
             "longitude": 32.778,
             "address": "Mustafa Kemal Mah. 2123. Sok. No: 2 K: 4 No: 401, Çankaya, 06530 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 08:30 - 22:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 08:30 - 22:00"
         },
         {
             "name": "E-Şarj - Citroen Başdaş, Diyarbakır",
@@ -2480,8 +2290,7 @@
             "latitude": 37.911833,
             "longitude": 40.092444,
             "address": "Çölgüzeli, Diyarbakır-Şanlıurfa Yolu 12. Km No:302, Bağlar, 21070 Diyarbakır / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Citroen Vardallar, Trabzon",
@@ -2493,8 +2302,7 @@
             "latitude": 40.975419,
             "longitude": 39.748253,
             "address": "Kaymaklı, Anadolu Blv. Erzurum Yolu Üzeri No:163 Kat:1 D:1, Ortahisar, 61100 Trabzon / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Civil Mağazacılık, Beylikdüzü",
@@ -2506,8 +2314,7 @@
             "latitude": 41.020028,
             "longitude": 28.630944,
             "address": "Gökevler Mah, 2312 Sk. No:12, Esenyurt, 34522 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Civil Mağazacılık, Etimesgut",
@@ -2519,8 +2326,7 @@
             "latitude": 39.9465,
             "longitude": 32.707333,
             "address": "Bahçekapı, İstanbul Yolu , Etimesgut, 06797 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Civil- Akdeniz, Mersin",
@@ -2532,8 +2338,7 @@
             "latitude": 36.804317,
             "longitude": 34.622019,
             "address": "İhsaniye, Profit İş Merkezi, Zeytinlibahçe Cd., Akdeniz, 33060 Mersin / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Civil- Seyhan Cadde, Adana",
@@ -2545,8 +2350,7 @@
             "latitude": 37.015386,
             "longitude": 35.24155,
             "address": "Anemon Otel Altı, Yeni Mah. 87071 Sok. Bozkurtlar Rezidans No:52/A, Seyhan, 01200 Adana / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Cizre Motorlu Araçlar, Şırnak",
@@ -2558,8 +2362,7 @@
             "latitude": 37.330556,
             "longitude": 42.2075,
             "address": "Konak Mah. Silopi Blv. No:83/A, Cizre, 73200 Şırnak / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Club Çapa, Kaş",
@@ -2571,8 +2374,7 @@
             "latitude": 36.193861,
             "longitude": 29.596528,
             "address": "Andifli, Sait Esen Sokak, Kaş, 07580 Antalya / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Çağdaş Otomotiv, Uşak",
@@ -2584,8 +2386,7 @@
             "latitude": 38.6735,
             "longitude": 29.428389,
             "address": "Fevzi Çakmak Mah. Gazi Blv. 1. Sok. No:84/A, Merkez, 64200 Uşak / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Çağlayanlar Oto, Kırşehir",
@@ -2597,8 +2398,7 @@
             "latitude": 39.120247,
             "longitude": 34.196106,
             "address": "Kındam Mah. Ankara Kayseri Cad. No:8, Merkez, 40100 Kırşehir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Çakmak Market, Kocaeli",
@@ -2610,8 +2410,7 @@
             "latitude": 40.720889,
             "longitude": 29.948333,
             "address": "Yeşilyurt, Çuhadar Cd. No:11, Başiskele, 41190 Kocaeli / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Çavdar2 Otomotiv, Ankara",
@@ -2623,8 +2422,7 @@
             "latitude": 40.108164,
             "longitude": 32.628262,
             "address": "Selpa Ata sanayi sitesi 4/6-2, Kahramankazan, 06980 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Çayan Otomotiv, Mersin",
@@ -2636,8 +2434,7 @@
             "latitude": 36.903758,
             "longitude": 34.873581,
             "address": "Yunusemre Mah. Nato Yolu Kavşağı, No:74, Yeni Hal Karşısı, Tarsus, 33440 Mersin / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Çeşmeliler Otomotiv, Denizli",
@@ -2649,8 +2446,7 @@
             "latitude": 37.807444,
             "longitude": 29.071,
             "address": "Akçeşme Mah. Menderes Blv. No:146, Merkezefendi, 20085 Denizli / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Çetaş Otomotiv, Büyükçekmece",
@@ -2662,8 +2458,7 @@
             "latitude": 41.015057,
             "longitude": 28.552345,
             "address": "Mimarsinan Merkez Mh. E5 Londra Asfaltı Cd. No:55/A, Büyükçekmece, 34535 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Çetaş Otomotiv, Çorlu",
@@ -2675,8 +2470,7 @@
             "latitude": 41.140663,
             "longitude": 27.86775,
             "address": "Önerler Mah. İstanbul Cad. No:55, Çorlu, 59850 Tekirdağ / Türkiye",
-            "opentime": "Pazartesi - Cumartesi : 08:30 - 18:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Cumartesi : 08:30 - 18:00"
         },
         {
             "name": "E-Şarj - Çetaş Otomotiv, İzmir",
@@ -2688,8 +2482,7 @@
             "latitude": 38.456565,
             "longitude": 27.253511,
             "address": "Doğanlar Mahallesi, Ankara Cd. No:210/B, Bornova, 35050 İzmir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Çetaş Otomotiv, İzmit",
@@ -2701,8 +2494,7 @@
             "latitude": 40.748115,
             "longitude": 29.957762,
             "address": "Sanayi Mah. D-130 Karayolu Cad. No:159, İzmit, 41040 Kocaeli / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Çetaş Otomotiv, Silivri",
@@ -2714,8 +2506,7 @@
             "latitude": 41.074722,
             "longitude": 28.260833,
             "address": "Yeni Mah. General Ali İhsan Türkkan Cd. No:31, Silivri, 34570 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Çıldır Beton, Afyonkarahisar",
@@ -2727,8 +2518,7 @@
             "latitude": 39.059197,
             "longitude": 31.164594,
             "address": "Yeni Mah. Emidağ Blv. No:442, Emirdağ, 3600 Afyonkarahisar / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Çimenler Otomotiv, Gümüşhane",
@@ -2740,8 +2530,7 @@
             "latitude": 40.450219,
             "longitude": 39.495619,
             "address": "Yeni Mah. Kazım Karabekir Cad. No:4, Merkez, 29000 Gümüşhane / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Çimenler Otomotiv, Lalapaşa, Erzurum",
@@ -2753,8 +2542,7 @@
             "latitude": 39.910242,
             "longitude": 41.258408,
             "address": "Lalapaşa, Fuar Yolu Cd No:3, Yakutiye, 25000 Erzurum / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Çimenler Otomotiv, Şükrüpaşa, Erzurum",
@@ -2766,8 +2554,7 @@
             "latitude": 39.957458,
             "longitude": 41.294294,
             "address": "Şükrüpaşa, Çevre Yolu Bulv No: 1, Yakutiye, 25200 Erzurum / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Çukurova Teknoloji Geliştirme Bölgesi, Adana",
@@ -2779,8 +2566,7 @@
             "latitude": 37.04245,
             "longitude": 35.361156,
             "address": "Balcalı Mah. Güney Kampüs Bulv. Teknokent Sitesi Yönetim ve Kuluçka Merkezi, Sarıçam, 1330 Adana / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Daysil Silikon, İzmir",
@@ -2792,8 +2578,7 @@
             "latitude": 38.472889,
             "longitude": 27.360139,
             "address": "Cumhuriyet Mah. 9081 Sk. No:55, Ulucak, Kemalpaşa, 35735 İzmir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - DB Garage, Ankara",
@@ -2805,8 +2590,7 @@
             "latitude": 39.949004,
             "longitude": 32.713458,
             "address": "İnönü Mah Başkent San Sit, 1763/3. Sk. No:15, Yenimahalle, 6351 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Değirmenburnu Residence, Bodrum",
@@ -2818,8 +2602,7 @@
             "latitude": 37.031483,
             "longitude": 27.416269,
             "address": "Eskiçeşme Mah. Osman Nuri Bilgin Cad. No: 48, Bodrum, 48400 Muğla / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Demir Makine, Arnavutköy",
@@ -2831,8 +2614,7 @@
             "latitude": 41.19425,
             "longitude": 28.760306,
             "address": "Atatürk, Atatürk Mahallesi Yıldırım Beyazıt Caddesi, Mahir Sk. No: 18, Arnavutköy, 34285 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Deniz Otomotiv, Kadıköy",
@@ -2844,8 +2626,7 @@
             "latitude": 40.988444,
             "longitude": 29.083111,
             "address": "Sahrayıcedit Mah. Batman Sokak 30/20, Kadıköy, 34734 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Cumartesi : 08:30 - 18:00, Pazar : 11:00 - 17:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Cumartesi : 08:30 - 18:00, Pazar : 11:00 - 17:00"
         },
         {
             "name": "E-Şarj - Denizli Honaz OSB",
@@ -2857,8 +2638,7 @@
             "latitude": 37.806361,
             "longitude": 29.241556,
             "address": "Yaşar Öncan Cd. No:1, 20330, Yaşar Özcan Cd. No:1, Denizli Osb/Honaz, 20330 Denizli / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Derya Drc Otomotiv Suzuki, Mersin",
@@ -2870,8 +2650,7 @@
             "latitude": 36.758152,
             "longitude": 34.544933,
             "address": "Fatih, Gazi Mustafa Kemal Blv. Oktay Öner Sitesi D:A1 Blok No:1, Mezitli, 33200 Mersin / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Diplomat Otel, Muğla",
@@ -2883,8 +2662,7 @@
             "latitude": 36.774861,
             "longitude": 28.247083,
             "address": "Turunuç Mah. Cumhuriyet Cad. No:5, Marmaris, 48740 Muğla / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Divan Otel, Adana",
@@ -2896,8 +2674,7 @@
             "latitude": 36.991739,
             "longitude": 35.324233,
             "address": "Çınarlı Mah. Turhan Cemal Beriker Blv. No:33, Seyhan, 1250 Adana / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Domino Tekstil, Bolu",
@@ -2909,8 +2686,7 @@
             "latitude": 40.739028,
             "longitude": 31.660194,
             "address": "Karaağaç Mah. Karalar Sk. No:3/A,Merkez, 14752 Bolu / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - DoubleTree by Hilton Bodrum Işıl Club Resorts",
@@ -2922,8 +2698,7 @@
             "latitude": 37.084611,
             "longitude": 27.477806,
             "address": "Torba Mah. Kaynar Caddesi, No:11, Bodrum, 48400 Muğla / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - DoubleTree by Hilton Bodrum Marina Vista",
@@ -2935,8 +2710,7 @@
             "latitude": 37.035,
             "longitude": 27.421083,
             "address": "Eskiçeşme, Neyzen Tevfik Cd. No:168, Bodrum, 48400 Muğla / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - E-Residence, Balıkesir",
@@ -2948,8 +2722,7 @@
             "latitude": 39.660167,
             "longitude": 27.90775,
             "address": "Yaşamkent, Paşaalanı mahallesi, A. Gaffar Okkan Cd. 28/1, Karesi, 10100 Balıkesir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Ege Perla, Konak",
@@ -2961,8 +2734,7 @@
             "latitude": 38.44684,
             "longitude": 27.175578,
             "address": "Çınarlı Mah. Ozan Abay Cad. No: 8, Konak, 35170 İzmir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00"
         },
         {
             "name": "E-Şarj - Ekcan Park, Kocaeli",
@@ -2974,8 +2746,7 @@
             "latitude": 40.760111,
             "longitude": 29.974667,
             "address": "Ovacık Mah. D-100 Karayolu Cad. No:20, İzmit, 41140 Kocaeli / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "E-Şarj - Carrefoursa, Limonlu, Mersin",
@@ -2987,8 +2758,7 @@
             "latitude": 36.553472,
             "longitude": 34.2415,
             "address": "Limonlu, Limonlu Mah. Milli Egemenlik 3, Cad No:74, Erdemli, 33780 Mersin / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "ZES - Demosan Otel, Karaman",
@@ -3000,8 +2770,7 @@
             "latitude": 37.179040,
             "longitude": 33.224929,
             "address": "Yeşilada Mah., Mut Cad. No: 107 Merkez/Karaman",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         },
         {
             "name": "ZES - Ramada Resort By Wyndham Kızkalesi",
@@ -3013,8 +2782,7 @@
             "latitude": 36.480316,
             "longitude": 34.154585,
             "address": "Kızkalesi mah. Kirazlı cad. 45/A Karaman",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "imageURL": ""
+            "opentime": "Pazartesi - Pazar : 24 Saat"
         }
     ]
 }

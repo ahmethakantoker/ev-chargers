@@ -1,0 +1,298 @@
+[
+    {
+        "name": "Tesla Model Y",
+        "image": "teslamodely",
+        "submodels":
+        [
+            {
+                "name": "Tesla Model Y Standart Range",
+                "brand": "Tesla",
+                "model": "Model Y",
+                "submodel": "Standart Range AWD",
+                "image": "teslamodely",
+                "range": 380
+            },
+            {
+                "name": "Tesla Model Y Long Range",
+                "brand": "Tesla",
+                "model": "Model Y",
+                "submodel": "Long Range RWD",
+                "image": "teslamodely",
+                "range": 490
+            },
+            {
+                "name": "Tesla Model Y Long Range",
+                "brand": "Tesla",
+                "model": "Model Y",
+                "submodel": "Long Range AWD",
+                "image": "teslamodely",
+                "range": 460
+            },
+            {
+                "name": "Tesla Model Y Performance",
+                "brand": "Tesla",
+                "model": "Model Y",
+                "submodel": "Performance AWD",
+                "image": "teslamodely",
+                "range": 430
+            }
+        ]
+    },
+    {
+        "name": "Kia EV6",
+        "image": "kiaev6",
+        "submodels":
+        [
+            {
+                "name": "Kia EV6 Standart Range",
+                "brand": "Kia",
+                "model": "EV6",
+                "submodel": "Standart Range RWD",
+                "image": "kiaev6",
+                "range": 360
+            },
+            {
+                "name": "Kia EV6 Prestige",
+                "brand": "Kia",
+                "model": "EV6",
+                "submodel": "Prestige RWD",
+                "image": "kiaev6",
+                "range": 490
+            },
+            {
+                "name": "Kia EV6 Prestige",
+                "brand": "Kia",
+                "model": "EV6",
+                "submodel": "Prestige AWD",
+                "image": "kiaev6",
+                "range": 460
+            },
+            {
+                "name": "Kia EV6 GT",
+                "brand": "Kia",
+                "model": "EV6",
+                "submodel": "GT AWD",
+                "image": "kiaev6",
+                "range": 440
+            }
+        ]
+    },
+    {
+        "name": "Rivian R1T",
+        "image": "rivianr1t",
+        "submodels":
+        [
+            {
+                "name": "Rivian R1T Adventure",
+                "brand": "Rivian",
+                "model": "R1T",
+                "submodel": "Adventure Dual Standart AWD",
+                "image": "rivianr1t",
+                "range": 430
+            },
+            {
+                "name": "Rivian R1T Adventure",
+                "brand": "Rivian",
+                "model": "R1T",
+                "submodel": "Adventure Dual Large AWD",
+                "image": "rivianr1t",
+                "range": 530
+            },
+            {
+                "name": "Rivian R1T Adventure",
+                "brand": "Rivian",
+                "model": "R1T",
+                "submodel": "Adventure Dual Max AWD",
+                "image": "rivianr1t",
+                "range": 675
+            },
+            {
+                "name": "Rivian R1T Ascend",
+                "brand": "Rivian",
+                "model": "R1T",
+                "submodel": "Ascend Tri Max AWD",
+                "image": "rivianr1t",
+                "range": 590
+            }
+        ]
+    },
+    {
+        "name": "Hyundai IONIQ 5",
+        "image": "hyundaiioniq5",
+        "submodels":
+        [
+            {
+                "name": "Hyundai IONIQ 5 Standart Range",
+                "brand": "Hyundai",
+                "model": "IONIQ 5",
+                "submodel": "Standart Range RWD",
+                "image": "hyundaiioniq5",
+                "range": 380
+            },
+            {
+                "name": "Hyundai IONIQ 5 Standart Range",
+                "brand": "Hyundai",
+                "model": "IONIQ 5",
+                "submodel": "Standart Range AWD",
+                "image": "hyundaiioniq5",
+                "range": 360
+            },
+            {
+                "name": "Hyundai IONIQ 5 Long Range",
+                "brand": "Hyundai",
+                "model": "IONIQ 5",
+                "submodel": "Long Range RWD",
+                "image": "hyundaiioniq5",
+                "range": 450
+            },
+            {
+                "name": "Hyundai IONIQ 5 Long Range",
+                "brand": "Hyundai",
+                "model": "IONIQ 5",
+                "submodel": "Long Range AWD",
+                "image": "hyundaiioniq5",
+                "range": 430
+            },
+            {
+                "name": "Hyundai IONIQ 5 N",
+                "brand": "Hyundai",
+                "model": "IONIQ 5",
+                "submodel": "N AWD",
+                "image": "hyundaiioniq5",
+                "range": 400
+            }
+        ]
+    },
+    {
+        "name": "Mercedes EQS",
+        "image": "mercedeseqs",
+        "submodels":
+        [
+            {
+                "name": "Mercedes EQS 450 4MATIC",
+                "brand": "Mercedes",
+                "model": "EQS",
+                "submodel": "450 AWD",
+                "image": "mercedeseqs",
+                "range": 580
+            },
+            {
+                "name": "Mercedes EQS 450+",
+                "brand": "Mercedes",
+                "model": "EQS",
+                "submodel": "450+ RWD",
+                "image": "mercedeseqs",
+                "range": 630
+            },
+            {
+                "name": "Mercedes EQS 580 4MATIC",
+                "brand": "Mercedes",
+                "model": "EQS",
+                "submodel": "580 AWD",
+                "image": "mercedeseqs",
+                "range": 590
+            },
+            {
+                "name": "Mercedes EQS 53 4MATIC",
+                "brand": "Mercedes",
+                "model": "EQS",
+                "submodel": "53 AWD",
+                "image": "mercedeseqs",
+                "range": 530
+            }
+        ]
+    },
+    {
+        "name": "BMW iX",
+        "image": "bmwix",
+        "submodels":
+        [
+            {
+                "name": "BMW iX xDrive40",
+                "brand": "BMW",
+                "model": "iX",
+                "submodel": "xDrive40 AWD",
+                "image": "bmwix",
+                "range": 370
+            },
+            {
+                "name": "BMW iX xDrive50",
+                "brand": "BMW",
+                "model": "iX",
+                "submodel": "xDrive50 AWD",
+                "image": "bmwix",
+                "range": 550
+            },
+            {
+                "name": "BMW iX M60",
+                "brand": "BMW",
+                "model": "iX",
+                "submodel": "M60 AWD",
+                "image": "bmwix",
+                "range": 500
+            }
+        ]
+    },
+    {
+        "name": "Audi Q4 E-Tron",
+        "image": "audiq4etron",
+        "submodels":
+        [
+            {
+                "name": "Audi Q4 E-Tron 35",
+                "brand": "Audi",
+                "model": "Q4 E-Tron",
+                "submodel": "35 RWD",
+                "image": "audiq4etron",
+                "range": 315
+            },
+            {
+                "name": "Audi Q4 E-Tron 45",
+                "brand": "Audi",
+                "model": "Q4 E-Tron",
+                "submodel": "45 RWD",
+                "image": "audiq4etron",
+                "range": 455
+            },
+            {
+                "name": "Audi Q4 E-Tron 45 quattro",
+                "brand": "Audi",
+                "model": "Q4 E-Tron",
+                "submodel": "45 AWD",
+                "image": "audiq4etron",
+                "range": 440
+            },
+            {
+                "name": "Audi Q4 E-Tron 55 quattro",
+                "brand": "Audi",
+                "model": "Q4 E-Tron",
+                "submodel": "55 AWD",
+                "image": "audiq4etron",
+                "range": 450
+            }
+        ]
+    },
+    {
+        "name": "Porsche Taycan",
+        "image": "porschetaycan",
+        "submodels":
+        [
+            {
+                "name": "Porsche Taycan 4S",
+                "brand": "Porsche",
+                "model": "Taycan",
+                "submodel": "4S AWD",
+                "image": "porschetaycan",
+                "range": 550
+            },
+            {
+                "name": "Porsche Taycan Turbo S",
+                "brand": "Porsche",
+                "model": "Taycan",
+                "submodel": "Turbo S AWD",
+                "image": "porschetaycan",
+                "range": 520
+            }
+        ]
+    }
+]

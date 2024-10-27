@@ -11,6 +11,24 @@
             "price1": "9.49",
             "price2": "10.99",
             "price3": "10.99"
+        },
+        {
+            "name": "Trugo",
+            "price1": "6.96",
+            "price2": "9.60",
+            "price3": "9.60"
+        },
+        {
+            "name": "Tesla Supercharger",
+            "price1": "8.80",
+            "price2": "8.80",
+            "price3": "8.80"
+        },
+        {
+            "name": "EnYakıt",
+            "price1": "9.80",
+            "price2": "9.80",
+            "price3": "9.80"
         }
     ]
 }

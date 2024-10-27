@@ -1,205 +1,432 @@
 {
     "request": [
         {
-            "name": "Tesla Model Y",
-            "image": "teslamodely",
+            "name": "Alfa Romeo Junior Elettrica",
+            "image": "alfaromeojunioreletttrica",
             "submodels":
             [
                 {
-                    "name": "Tesla Model Y Standart Range",
-                    "brand": "Tesla",
-                    "model": "Model Y",
-                    "submodel": "Standart Range AWD",
-                    "image": "teslamodely",
-                    "range": 380
-                },
-                {
-                    "name": "Tesla Model Y Long Range",
-                    "brand": "Tesla",
-                    "model": "Model Y",
-                    "submodel": "Long Range RWD",
-                    "image": "teslamodely",
-                    "range": 490
-                },
-                {
-                    "name": "Tesla Model Y Long Range",
-                    "brand": "Tesla",
-                    "model": "Model Y",
-                    "submodel": "Long Range AWD",
-                    "image": "teslamodely",
-                    "range": 460
-                },
-                {
-                    "name": "Tesla Model Y Performance",
-                    "brand": "Tesla",
-                    "model": "Model Y",
-                    "submodel": "Performance AWD",
-                    "image": "teslamodely",
-                    "range": 430
+                    "name": "Alfa Romeo Junior Elettrica",
+                    "submodel": "Junior Elettrica",
+                    "image": "alfaromeojunioreletttrica",
+                    "range": 398,
+                    "consum": "156 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "54 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "100 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "150 km/h",
+                    "time": "9.0 saniye",
+                    "drive": "Ön"
                 }
             ]
         },
         {
-            "name": "Kia EV6",
-            "image": "kiaev6",
+            "name": "Audi Q4 e-tron",
+            "image": "audiq4etron",
             "submodels":
             [
                 {
-                    "name": "Kia EV6 Standart Range",
-                    "brand": "Kia",
-                    "model": "EV6",
-                    "submodel": "Standart Range RWD",
-                    "image": "kiaev6",
-                    "range": 360
+                    "name": "Audi Q4 e-tron",
+                    "submodel": "35",
+                    "image": "audiq4etron",
+                    "range": 315,
+                    "consum": "192 Wh/km",
+                    "heatpump": "Opsiyonel",
+                    "capacity": "55 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "145 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "160 km/h",
+                    "time": "9.0 saniye",
+                    "drive": "Arka"
                 },
                 {
-                    "name": "Kia EV6 Prestige",
-                    "brand": "Kia",
-                    "model": "EV6",
-                    "submodel": "Prestige RWD",
-                    "image": "kiaev6",
-                    "range": 490
+                    "name": "Audi Q4 e-tron",
+                    "submodel": "45",
+                    "image": "audiq4etron",
+                    "range": 456,
+                    "consum": "192 Wh/km",
+                    "heatpump": "Opsiyonel",
+                    "capacity": "82 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "175 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "6.7 saniye",
+                    "drive": "Arka"
                 },
                 {
-                    "name": "Kia EV6 Prestige",
-                    "brand": "Kia",
-                    "model": "EV6",
-                    "submodel": "Prestige AWD",
-                    "image": "kiaev6",
-                    "range": 460
+                    "name": "Audi Q4 e-tron",
+                    "submodel": "45 quattro",
+                    "image": "audiq4etron",
+                    "range": 450,
+                    "consum": "194 Wh/km",
+                    "heatpump": "Opsiyonel",
+                    "capacity": "82 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "175 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "6.6 saniye",
+                    "drive": "4 Çeker"
                 },
                 {
-                    "name": "Kia EV6 GT",
-                    "brand": "Kia",
-                    "model": "EV6",
-                    "submodel": "GT AWD",
-                    "image": "kiaev6",
-                    "range": 440
+                    "name": "Audi Q4 e-tron",
+                    "submodel": "55 quattro",
+                    "image": "audiq4etron",
+                    "range": 450,
+                    "consum": "194 Wh/km",
+                    "heatpump": "Opsiyonel",
+                    "capacity": "82 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "175 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "5.4 saniye",
+                    "drive": "4 Çeker"
                 }
             ]
         },
         {
-            "name": "Rivian R1T",
-            "image": "rivianr1t",
+            "name": "Audi Q8 e-tron",
+            "image": "audiq8etron",
             "submodels":
             [
                 {
-                    "name": "Rivian R1T Adventure",
-                    "brand": "Rivian",
-                    "model": "R1T",
-                    "submodel": "Adventure Dual Standart AWD",
-                    "image": "rivianr1t",
-                    "range": 430
+                    "name": "Audi Q8 e-tron",
+                    "submodel": "50 quattro",
+                    "image": "audiq8etron",
+                    "range": 410,
+                    "consum": "240 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "95 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "155 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "200 km/h",
+                    "time": "6.0 saniye",
+                    "drive": "4 Çeker"
                 },
                 {
-                    "name": "Rivian R1T Adventure",
-                    "brand": "Rivian",
-                    "model": "R1T",
-                    "submodel": "Adventure Dual Large AWD",
-                    "image": "rivianr1t",
-                    "range": 530
-                },
-                {
-                    "name": "Rivian R1T Adventure",
-                    "brand": "Rivian",
-                    "model": "R1T",
-                    "submodel": "Adventure Dual Max AWD",
-                    "image": "rivianr1t",
-                    "range": 675
-                },
-                {
-                    "name": "Rivian R1T Ascend",
-                    "brand": "Rivian",
-                    "model": "R1T",
-                    "submodel": "Ascend Tri Max AWD",
-                    "image": "rivianr1t",
-                    "range": 590
+                    "name": "Audi Q8 e-tron",
+                    "submodel": "55 quattro",
+                    "image": "audiq8etron",
+                    "range": 481,
+                    "consum": "244 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "114 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "168 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "200 km/h",
+                    "time": "5.6 saniye",
+                    "drive": "4 Çeker"
                 }
             ]
         },
         {
-            "name": "Hyundai IONIQ 5",
-            "image": "hyundaiioniq5",
+            "name": "Audi e-tron GT",
+            "image": "audietrongt",
             "submodels":
             [
                 {
-                    "name": "Hyundai IONIQ 5 Standart Range",
-                    "brand": "Hyundai",
-                    "model": "IONIQ 5",
-                    "submodel": "Standart Range RWD",
-                    "image": "hyundaiioniq5",
-                    "range": 380
+                    "name": "Audi e-tron GT",
+                    "submodel": "S",
+                    "image": "audietrongt",
+                    "range": 565,
+                    "consum": "172 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "105 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "320 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "245 km/h",
+                    "time": "3.4 saniye",
+                    "drive": "4 Çeker"
                 },
                 {
-                    "name": "Hyundai IONIQ 5 Standart Range",
-                    "brand": "Hyundai",
-                    "model": "IONIQ 5",
-                    "submodel": "Standart Range AWD",
-                    "image": "hyundaiioniq5",
-                    "range": 360
-                },
-                {
-                    "name": "Hyundai IONIQ 5 Long Range",
-                    "brand": "Hyundai",
-                    "model": "IONIQ 5",
-                    "submodel": "Long Range RWD",
-                    "image": "hyundaiioniq5",
-                    "range": 450
-                },
-                {
-                    "name": "Hyundai IONIQ 5 Long Range",
-                    "brand": "Hyundai",
-                    "model": "IONIQ 5",
-                    "submodel": "Long Range AWD",
-                    "image": "hyundaiioniq5",
-                    "range": 430
-                },
-                {
-                    "name": "Hyundai IONIQ 5 N",
-                    "brand": "Hyundai",
-                    "model": "IONIQ 5",
-                    "submodel": "N AWD",
-                    "image": "hyundaiioniq5",
-                    "range": 400
+                    "name": "Audi e-tron GT",
+                    "submodel": "RS",
+                    "image": "audietrongt",
+                    "range": 527,
+                    "consum": "211 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "105 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "320 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "250 km/h",
+                    "time": "2.8 saniye",
+                    "drive": "4 Çeker"
                 }
             ]
         },
         {
-            "name": "Mercedes EQS",
-            "image": "mercedeseqs",
+            "name": "BMW i4",
+            "image": "bmwi4",
+            "submodels": 
+            [
+                {
+                    "name": "BMW i4",
+                    "submodel": "eDrive35",
+                    "image": "bmwi4",
+                    "range": 386,
+                    "consum": "174 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "70.3 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "180 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "190 km/h",
+                    "time": "6.0 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "BMW i4",
+                    "submodel": "eDrive40",
+                    "image": "bmwi4",
+                    "range": 468,
+                    "consum": "194 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "83.9 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "207 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "190 km/h",
+                    "time": "5.6 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "BMW i4",
+                    "submodel": "xDrive40",
+                    "image": "bmwi4",
+                    "range": 444,
+                    "consum": "205 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "83.9 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "207 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "200 km/h",
+                    "time": "5.1 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "BMW i4",
+                    "submodel": "M50",
+                    "image": "bmwi4",
+                    "range": 413,
+                    "consum": "220 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "83.9 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "207 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "225 km/h",
+                    "time": "3.9 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "BMW i5",
+            "image": "bmwi5",
+            "submodels": 
+            [
+                {
+                    "name": "BMW i5",
+                    "submodel": "eDrive40",
+                    "image": "bmwi5",
+                    "range": 497,
+                    "consum": "189 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "84.4 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "206 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "193 km/h",
+                    "time": "6.0 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "BMW i5",
+                    "submodel": "xDrive40",
+                    "image": "bmwi5",
+                    "range": 463,
+                    "consum": "200 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "84.4 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "206 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "215 km/h",
+                    "time": "5.4 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "BMW i5",
+                    "submodel": "M60",
+                    "image": "bmwi5",
+                    "range": 455,
+                    "consum": "206 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "84.4 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "206 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "230 km/h",
+                    "time": "3.8 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "BMW i7",
+            "image": "bmwi7",
+            "submodels": 
+            [
+                {
+                    "name": "BMW i7",
+                    "submodel": "eDrive50",
+                    "image": "bmwi7",
+                    "range": 575,
+                    "consum": "203 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "105.7 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "200 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "205 km/h",
+                    "time": "5.5 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "BMW i7",
+                    "submodel": "xDrive60",
+                    "image": "bmwi7",
+                    "range": 590,
+                    "consum": "196 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "105.7 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "200 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "240 km/h",
+                    "time": "4.7 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "BMW i7",
+                    "submodel": "M70",
+                    "image": "bmwi7",
+                    "range": 488,
+                    "consum": "238 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "105.7 kWh",
+                    "maxac": "22 kW",
+                    "maxdc": "200 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "250 km/h",
+                    "time": "3.7 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "BMW iX1",
+            "image": "bmwix1",
+            "submodels": 
+            [
+                {
+                    "name": "BMW iX1",
+                    "submodel": "eDrive20",
+                    "image": "bmwix1",
+                    "range": 430,
+                    "consum": "172 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "66.5 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "128 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "170 km/h",
+                    "time": "8.3 saniye",
+                    "drive": "Ön"
+                },
+                {
+                    "name": "BMW iX1",
+                    "submodel": "xDrive30",
+                    "image": "bmwix1",
+                    "range": 417,
+                    "consum": "181 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "66.5 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "128 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "5.6 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "BMW iX2",
+            "image": "bmwix2",
             "submodels":
             [
                 {
-                    "name": "Mercedes EQS 450 4MATIC",
-                    "brand": "Mercedes",
-                    "model": "EQS",
-                    "submodel": "450 AWD",
-                    "image": "mercedeseqs",
-                    "range": 580
+                    "name": "BMW iX2",
+                    "submodel": "eDrive20",
+                    "image": "bmwix2",
+                    "range": 439,
+                    "consum": "169 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "66.5 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "128 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "170 km/h",
+                    "time": "8.6 saniye",
+                    "drive": "Ön"
                 },
                 {
-                    "name": "Mercedes EQS 450+",
-                    "brand": "Mercedes",
-                    "model": "EQS",
-                    "submodel": "450+ RWD",
-                    "image": "mercedeseqs",
-                    "range": 630
-                },
+                    "name": "BMW iX2",
+                    "submodel": "xDrive30",
+                    "image": "bmwix2",
+                    "range": 417,
+                    "consum": "171 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "66.5 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "128 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "5.6 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "BMW iX3",
+            "image": "bmwix3",
+            "submodels":
+            [
                 {
-                    "name": "Mercedes EQS 580 4MATIC",
-                    "brand": "Mercedes",
-                    "model": "EQS",
-                    "submodel": "580 AWD",
-                    "image": "mercedeseqs",
-                    "range": 590
-                },
-                {
-                    "name": "Mercedes EQS 53 4MATIC",
-                    "brand": "Mercedes",
-                    "model": "EQS",
-                    "submodel": "53 AWD",
-                    "image": "mercedeseqs",
-                    "range": 530
+                    "name": "BMW iX3",
+                    "submodel": "80 kWh",
+                    "image": "bmwix3",
+                    "range": 453,
+                    "consum": "195 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "80 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "155 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "6.8 saniye",
+                    "drive": "Arka"
                 }
             ]
         },
@@ -209,67 +436,1812 @@
             "submodels":
             [
                 {
-                    "name": "BMW iX xDrive40",
-                    "brand": "BMW",
-                    "model": "iX",
-                    "submodel": "xDrive40 AWD",
+                    "name": "BMW iX",
+                    "submodel": "xDrive40",
                     "image": "bmwix",
-                    "range": 370
+                    "range": 372,
+                    "consum": "225 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "76.6 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "148 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "200 km/h",
+                    "time": "6.1 saniye",
+                    "drive": "4 Çeker"
                 },
                 {
-                    "name": "BMW iX xDrive50",
-                    "brand": "BMW",
-                    "model": "iX",
-                    "submodel": "xDrive50 AWD",
+                    "name": "BMW iX",
+                    "submodel": "xDrive50",
                     "image": "bmwix",
-                    "range": 550
+                    "range": 549,
+                    "consum": "230 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "111.5 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "195 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "200 km/h",
+                    "time": "4.6 saniye",
+                    "drive": "4 Çeker"
                 },
                 {
-                    "name": "BMW iX M60",
-                    "brand": "BMW",
-                    "model": "iX",
-                    "submodel": "M60 AWD",
+                    "name": "BMW iX",
+                    "submodel": "M60",
                     "image": "bmwix",
-                    "range": 500
+                    "range": 499,
+                    "consum": "247 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "111.5 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "195 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "250 km/h",
+                    "time": "3.8 saniye",
+                    "drive": "4 Çeker"
                 }
             ]
         },
         {
-            "name": "Audi Q4 E-Tron",
-            "image": "audiq4etron",
+            "name": "BYD ATTO 3",
+            "image": "bydatto3",
             "submodels":
             [
                 {
-                    "name": "Audi Q4 E-Tron 35",
-                    "brand": "Audi",
-                    "model": "Q4 E-Tron",
-                    "submodel": "35 RWD",
-                    "image": "audiq4etron",
-                    "range": 315
+                    "name": "BYD ATTO 3",
+                    "submodel": "62 kWh",
+                    "image": "bydatto3",
+                    "range": 420,
+                    "consum": "156 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "62 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "89 kW",
+                    "v2l": "Var",
+                    "maxspeed": "160 km/h",
+                    "time": "7.3 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "BYD SEAL U",
+            "image": "bydsealu",
+            "submodels":
+            [
+                {
+                    "name": "BYD SEAL U",
+                    "submodel": "71.8 kWh Comfort",
+                    "image": "bydsealu",
+                    "range": 420,
+                    "consum": "199 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "73 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "115 kW",
+                    "v2l": "Var",
+                    "maxspeed": "175 km/h",
+                    "time": "9.3 saniye",
+                    "drive": "Ön"
                 },
                 {
-                    "name": "Audi Q4 E-Tron 45",
-                    "brand": "Audi",
-                    "model": "Q4 E-Tron",
-                    "submodel": "45 RWD",
-                    "image": "audiq4etron",
-                    "range": 455
+                    "name": "BYD SEAL U",
+                    "submodel": "87 kWh Design",
+                    "image": "bydsealu",
+                    "range": 500,
+                    "consum": "205 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "89 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "140 kW",
+                    "v2l": "Var",
+                    "maxspeed": "175 km/h",
+                    "time": "9.6 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Citroen e-C4",
+            "image": "citroenec4",
+            "submodels":
+            [
+                {
+                    "name": "Citroen e-C4",
+                    "submodel": "46.3 kWh",
+                    "image": "citroenec4",
+                    "range": 342,
+                    "consum": "155 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "50 kWh",
+                    "maxac": "7.4 kW",
+                    "maxdc": "100 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "150 km/h",
+                    "time": "10.8 saniye",
+                    "drive": "Ön"
                 },
                 {
-                    "name": "Audi Q4 E-Tron 45 quattro",
-                    "brand": "Audi",
-                    "model": "Q4 E-Tron",
-                    "submodel": "45 AWD",
-                    "image": "audiq4etron",
-                    "range": 440
+                    "name": "Citroen e-C4",
+                    "submodel": "54 kWh",
+                    "image": "citroenec4",
+                    "range": 418,
+                    "consum": "148 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "54 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "100 kW",
+                    "v2l": "Var",
+                    "maxspeed": "150 km/h",
+                    "time": "10 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Citroen e-C4 X",
+            "image": "citroenec4x",
+            "submodels":
+            [
+                {
+                    "name": "Citroen e-C4 X",
+                    "submodel": "46.3 kWh",
+                    "image": "citroenec4x",
+                    "range": 352,
+                    "consum": "150 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "50 kWh",
+                    "maxac": "7.4 kW",
+                    "maxdc": "100 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "150 km/h",
+                    "time": "10.8 saniye",
+                    "drive": "Ön"
                 },
                 {
-                    "name": "Audi Q4 E-Tron 55 quattro",
-                    "brand": "Audi",
-                    "model": "Q4 E-Tron",
-                    "submodel": "55 AWD",
-                    "image": "audiq4etron",
-                    "range": 450
+                    "name": "Citroen e-C4 X",
+                    "submodel": "54 kWh",
+                    "image": "citroenec4x",
+                    "range": 427,
+                    "consum": "145 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "54 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "100 kW",
+                    "v2l": "Var",
+                    "maxspeed": "150 km/h",
+                    "time": "10.1 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Fiat 500e",
+            "image": "fiat500e",
+            "submodels":
+            [
+                {
+                    "name": "Fiat 500e",
+                    "submodel": "24 kWh",
+                    "image": "fiat500e",
+                    "range": 190,
+                    "consum": "130 Wh/km",
+                    "heatpump": "Yok",
+                    "capacity": "23.8 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "50 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "135 km/h",
+                    "time": "9.0 saniye",
+                    "drive": "Ön"
+                },
+                {
+                    "name": "Fiat 500e",
+                    "submodel": "42 kWh",
+                    "image": "fiat500e",
+                    "range": 305,
+                    "consum": "147 Wh/km",
+                    "heatpump": "Yok",
+                    "capacity": "42 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "85 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "150 km/h",
+                    "time": "9.0 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Fiat 600e",
+            "image": "fiat600e",
+            "submodels":
+            [
+                {
+                    "name": "Fiat 600e",
+                    "submodel": "54 kWh",
+                    "image": "fiat600e",
+                    "range": 409,
+                    "consum": "151 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "54 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "100 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "150 km/h",
+                    "time": "9.0 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Ford Mustang Mach-E",
+            "image": "fordmustangmache",
+            "submodels":
+            [
+                {
+                    "name": "Ford Mustang Mach-E",
+                    "submodel": "SR RWD",
+                    "image": "fordmustangmache",
+                    "range": 470,
+                    "consum": "178 Wh/km",
+                    "heatpump": "Yok",
+                    "capacity": "75 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "150 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "5.9 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Ford Mustang Mach-E",
+                    "submodel": "SR AWD",
+                    "image": "fordmustangmache",
+                    "range": 470,
+                    "consum": "179 Wh/km",
+                    "heatpump": "Yok",
+                    "capacity": "75 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "150 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "6.2 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Ford Mustang Mach-E",
+                    "submodel": "ER RWD",
+                    "image": "fordmustangmache",
+                    "range": 600,
+                    "consum": "172 Wh/km",
+                    "heatpump": "Yok",
+                    "capacity": "98.7 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "150 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "5.6 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Ford Mustang Mach-E",
+                    "submodel": "ER AWD",
+                    "image": "fordmustangmache",
+                    "range": 550,
+                    "consum": "188 Wh/km",
+                    "heatpump": "Yok",
+                    "capacity": "98.7 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "150 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "4.3 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Ford Mustang Mach-E",
+                    "submodel": "GT",
+                    "image": "fordmustangmache",
+                    "range": 515,
+                    "consum": "210 Wh/km",
+                    "heatpump": "Yok",
+                    "capacity": "98.7 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "150 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "200 km/h",
+                    "time": "3.5 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Hongqi E-HS9",
+            "image": "hongqiehs9",
+            "submodels":
+            [
+                {
+                    "name": "Hongqi E-HS9",
+                    "submodel": "84 kWh",
+                    "image": "hongqiehs9",
+                    "range": 396,
+                    "consum": "216 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "84 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "140 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "200 km/h",
+                    "time": "6.5 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Hongqi E-HS9",
+                    "submodel": "99 kWh",
+                    "image": "hongqiehs9",
+                    "range": 465,
+                    "consum": "220 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "99 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "140 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "200 km/h",
+                    "time": "4.9 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Hongqi E-HS9",
+                    "submodel": "120 kWh",
+                    "image": "hongqiehs9",
+                    "range": 515,
+                    "consum": "220 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "120 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "130 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "200 km/h",
+                    "time": "4.9 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Hyundai Kona Electric",
+            "image": "hyundaikonaelectric",
+            "submodels":
+            [
+                {
+                    "name": "Hyundai Kona Electric",
+                    "submodel": "48 kWh",
+                    "image": "hyundaikonaelectric",
+                    "range": 377,
+                    "consum": "146 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "51 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "75 kW",
+                    "v2l": "Var",
+                    "maxspeed": "160 km/h",
+                    "time": "8.8 saniye",
+                    "drive": "Ön"
+                },
+                {
+                    "name": "Hyundai Kona Electric",
+                    "submodel": "65 kWh",
+                    "image": "hyundaikonaelectric",
+                    "range": 454,
+                    "consum": "166 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "68.5 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "105 kW",
+                    "v2l": "Var",
+                    "maxspeed": "170 km/h",
+                    "time": "7.8 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Hyundai IONIQ 5",
+            "image": "hyundaiioniq5",
+            "submodels":
+            [
+                {
+                    "name": "Hyundai IONIQ 5",
+                    "submodel": "63 kWh",
+                    "image": "hyundaiioniq5",
+                    "range": 440,
+                    "consum": "156 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "63 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "195 kW",
+                    "v2l": "Var",
+                    "maxspeed": "185 km/h",
+                    "time": "8.5 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Hyundai IONIQ 5",
+                    "submodel": "84 kWh RWD",
+                    "image": "hyundaiioniq5",
+                    "range": 515,
+                    "consum": "172 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "84 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "263 kW",
+                    "v2l": "Var",
+                    "maxspeed": "185 km/h",
+                    "time": "7.5 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Hyundai IONIQ 5",
+                    "submodel": "84 kWh AWD",
+                    "image": "hyundaiioniq5",
+                    "range": 495,
+                    "consum": "182 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "84 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "263 kW",
+                    "v2l": "Var",
+                    "maxspeed": "185 km/h",
+                    "time": "5.3 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Hyundai IONIQ 5",
+                    "submodel": "N",
+                    "image": "hyundaiioniq5",
+                    "range": 448,
+                    "consum": "224 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "84 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "263 kW",
+                    "v2l": "Var",
+                    "maxspeed": "260 km/h",
+                    "time": "3.4 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Hyundai IONIQ 6",
+            "image": "hyundaiioniq6",
+            "submodels":
+            [
+                {
+                    "name": "Hyundai IONIQ 6",
+                    "submodel": "Standart Range",
+                    "image": "hyundaiioniq6",
+                    "range": 429,
+                    "consum": "139 Wh/km",
+                    "heatpump": "Opsiyonel",
+                    "capacity": "53 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "150 kW",
+                    "v2l": "Var",
+                    "maxspeed": "185 km/h",
+                    "time": "8.8 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Hyundai IONIQ 6",
+                    "submodel": "Long Range 2WD",
+                    "image": "hyundaiioniq6",
+                    "range": 545,
+                    "consum": "160 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "77.4 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "233 kW",
+                    "v2l": "Var",
+                    "maxspeed": "185 km/h",
+                    "time": "7.4 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Hyundai IONIQ 6",
+                    "submodel": "Long Range AWD",
+                    "image": "hyundaiioniq6",
+                    "range": 519,
+                    "consum": "169 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "77.4 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "233 kW",
+                    "v2l": "Var",
+                    "maxspeed": "185 km/h",
+                    "time": "5.1 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Jaguar I-Pace",
+            "image": "jaguaripace",
+            "submodels":
+            [
+                {
+                    "name": "Jaguar I-Pace",
+                    "submodel": "EV400",
+                    "image": "jaguaripace",
+                    "range": 408,
+                    "consum": "252 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "90 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "104 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "200 km/h",
+                    "time": "4.8 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Jeep Avenger Electric",
+            "image": "jeepavengerelectric",
+            "submodels":
+            [
+                {
+                    "name": "Jeep Avenger Electric",
+                    "submodel": "54 kWh",
+                    "image": "jeepavengerelectric",
+                    "range": 385,
+                    "consum": "159 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "54 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "100 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "150 km/h",
+                    "time": "9.0 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "KGM Torres EVX",
+            "image": "kgmtorresevx",
+            "submodels":
+            [
+                {
+                    "name": "KGM Torres EVX",
+                    "submodel": "73.4 kWh",
+                    "image": "kgmtorresevx",
+                    "range": 462,
+                    "consum": "187 Wh/km",
+                    "heatpump": "Opsiyonel",
+                    "capacity": "73.4 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "120 kW",
+                    "v2l": "Var",
+                    "maxspeed": "175 km/h",
+                    "time": "8.1 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Kia Niro EV",
+            "image": "kianiroev",
+            "submodels":
+            [
+                {
+                    "name": "Kia Niro EV",
+                    "submodel": "68 kWh",
+                    "image": "kianiroev",
+                    "range": 463,
+                    "consum": "164 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "68 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "80 kW",
+                    "v2l": "Var",
+                    "maxspeed": "167 km/h",
+                    "time": "7.8 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Kia EV3",
+            "image": "kiaev3",
+            "submodels":
+            [
+                {
+                    "name": "Kia EV3",
+                    "submodel": "Standart Range",
+                    "image": "kiaev3",
+                    "range": 414,
+                    "consum": "158 Wh/km",
+                    "heatpump": "Opsiyonel",
+                    "capacity": "58.3 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "100 kW",
+                    "v2l": "Var",
+                    "maxspeed": "170 km/h",
+                    "time": "7.5 saniye",
+                    "drive": "Ön"
+                },
+                {
+                    "name": "Kia EV3",
+                    "submodel": "Long Range",
+                    "image": "kiaev3",
+                    "range": 563,
+                    "consum": "162 Wh/km",
+                    "heatpump": "Opsiyonel",
+                    "capacity": "81.4 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "135 kW",
+                    "v2l": "Var",
+                    "maxspeed": "170 km/h",
+                    "time": "7.7 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Kia EV6",
+            "image": "kiaev6",
+            "submodels":
+            [
+                {
+                    "name": "Kia EV6",
+                    "submodel": "Standart Range",
+                    "image": "kiaev6",
+                    "range": 394,
+                    "consum": "166 Wh/km",
+                    "heatpump": "Opsiyonel",
+                    "capacity": "58 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "175 kW",
+                    "v2l": "Var",
+                    "maxspeed": "185 km/h",
+                    "time": "8.5 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Kia EV6",
+                    "submodel": "Long Range RWD",
+                    "image": "kiaev6",
+                    "range": 504,
+                    "consum": "172 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "77.4 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "233 kW",
+                    "v2l": "Var",
+                    "maxspeed": "185 km/h",
+                    "time": "7.3 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Kia EV6",
+                    "submodel": "Long Range AWD",
+                    "image": "kiaev6",
+                    "range": 484,
+                    "consum": "180 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "77.4 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "233 kW",
+                    "v2l": "Var",
+                    "maxspeed": "185 km/h",
+                    "time": "5.2 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Kia EV6",
+                    "submodel": "GT",
+                    "image": "kiaev6",
+                    "range": 424,
+                    "consum": "206 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "77.4 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "233 kW",
+                    "v2l": "Var",
+                    "maxspeed": "260 km/h",
+                    "time": "3.5 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Kia EV9",
+            "image": "kiaev9",
+            "submodels":
+            [
+                {
+                    "name": "Kia EV9",
+                    "submodel": "76.1 kWh",
+                    "image": "kiaev9",
+                    "range": 443,
+                    "consum": "195 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "76.1 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "210 kW",
+                    "v2l": "Var",
+                    "maxspeed": "190 km/h",
+                    "time": "8.5 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Kia EV9",
+                    "submodel": "99.8 kWh RWD",
+                    "image": "kiaev9",
+                    "range": 563,
+                    "consum": "202 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "99.8 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "210 kW",
+                    "v2l": "Var",
+                    "maxspeed": "185 km/h",
+                    "time": "9.4 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Kia EV9",
+                    "submodel": "99.8 kWh AWD",
+                    "image": "kiaev9",
+                    "range": 505,
+                    "consum": "215 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "99.8 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "210 kW",
+                    "v2l": "Var",
+                    "maxspeed": "200 km/h",
+                    "time": "6.0 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Kia EV9",
+                    "submodel": "GT-Line",
+                    "image": "kiaev9",
+                    "range": 505,
+                    "consum": "228 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "99.8 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "210 kW",
+                    "v2l": "Var",
+                    "maxspeed": "200 km/h",
+                    "time": "5.3 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Leapmotor T03",
+            "image": "leapmotort03",
+            "submodels":
+            [
+                {
+                    "name": "Leapmotor T03",
+                    "submodel": "41.3 kWh",
+                    "image": "leapmotort03",
+                    "range": 265,
+                    "consum": "163 Wh/km",
+                    "heatpump": "Yok",
+                    "capacity": "41.3 kWh",
+                    "maxac": "6.6 kW",
+                    "maxdc": "48 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "130 km/h",
+                    "time": "12.7 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Lexus RZ",
+            "image": "lexusrz",
+            "submodels":
+            [
+                {
+                    "name": "Lexus RZ",
+                    "submodel": "300e",
+                    "image": "lexusrz",
+                    "range": 430,
+                    "consum": "166 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "71.4 kWh",
+                    "maxac": "6.6 kW",
+                    "maxdc": "147 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "160 km/h",
+                    "time": "8.0 saniye",
+                    "drive": "Ön"
+                },
+                {
+                    "name": "Lexus RZ",
+                    "submodel": "450e",
+                    "image": "lexusrz",
+                    "range": 404,
+                    "consum": "184 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "71.4 kWh",
+                    "maxac": "6.6 kW",
+                    "maxdc": "147 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "160 km/h",
+                    "time": "5.6 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Lucid Air",
+            "image": "lucidair",
+            "submodels":
+            [
+                {
+                    "name": "Lucid Air",
+                    "submodel": "Pure",
+                    "image": "lucidair",
+                    "range": 708,
+                    "consum": "150 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "94 kWh",
+                    "maxac": "22 kW",
+                    "maxdc": "200 kW",
+                    "v2l": "Var",
+                    "maxspeed": "200 km/h",
+                    "time": "4.7 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Lucid Air",
+                    "submodel": "Touring",
+                    "image": "lucidair",
+                    "range": 648,
+                    "consum": "160 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "94 kWh",
+                    "maxac": "22 kW",
+                    "maxdc": "200 kW",
+                    "v2l": "Var",
+                    "maxspeed": "250 km/h",
+                    "time": "3.2 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Lucid Air",
+                    "submodel": "Grand Touring",
+                    "image": "lucidair",
+                    "range": 783,
+                    "consum": "161 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "114 kWh",
+                    "maxac": "22 kW",
+                    "maxdc": "253 kW",
+                    "v2l": "Var",
+                    "maxspeed": "270 km/h",
+                    "time": "3.0 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Mercedes-Benz EQA",
+            "image": "mercedeseqa",
+            "submodels":
+            [
+                {
+                    "name": "Mercedes-Benz EQA",
+                    "submodel": "250+",
+                    "image": "mercedeseqa",
+                    "range": 496,
+                    "consum": "164 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "73.9 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "102 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "160 km/h",
+                    "time": "8.6 saniye",
+                    "drive": "Ön"
+                },
+                {
+                    "name": "Mercedes-Benz EQA",
+                    "submodel": "350 4MATIC",
+                    "image": "mercedeseqa",
+                    "range": 411,
+                    "consum": "186 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "69.7 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "112 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "160 km/h",
+                    "time": "6.0 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Mercedes-Benz EQB",
+            "image": "mercedeseqb",
+            "submodels":
+            [
+                {
+                    "name": "Mercedes-Benz EQB",
+                    "submodel": "250+",
+                    "image": "mercedeseqb",
+                    "range": 463,
+                    "consum": "175 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "73.9 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "102 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "160 km/h",
+                    "time": "8.9 saniye",
+                    "drive": "Ön"
+                },
+                {
+                    "name": "Mercedes-Benz EQB",
+                    "submodel": "350 4MATIC",
+                    "image": "mercedeseqb",
+                    "range": 396,
+                    "consum": "192 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "69.7 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "112 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "160 km/h",
+                    "time": "6.2 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Mercedes-Benz EQC",
+            "image": "mercedeseqc",
+            "submodels":
+            [
+                {
+                    "name": "Mercedes-Benz EQC",
+                    "submodel": "400 4MATIC",
+                    "image": "mercedeseqc",
+                    "range": 411,
+                    "consum": "223 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "85 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "112 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "5.1 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Mercedes-Benz EQE",
+            "image": "mercedeseqe",
+            "submodels":
+            [
+                {
+                    "name": "Mercedes-Benz EQE",
+                    "submodel": "350+",
+                    "image": "mercedeseqe",
+                    "range": 586,
+                    "consum": "191 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "105 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "173 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "210 km/h",
+                    "time": "6.5 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Mercedes-Benz EQE",
+                    "submodel": "350 4MATIC",
+                    "image": "mercedeseqe",
+                    "range": 523,
+                    "consum": "202 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "100 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "173 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "210 km/h",
+                    "time": "6.3 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Mercedes-Benz EQE",
+                    "submodel": "500 4MATIC",
+                    "image": "mercedeseqe",
+                    "range": 523,
+                    "consum": "202 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "100 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "173 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "210 km/h",
+                    "time": "4.7 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Mercedes-Benz EQE",
+                    "submodel": "AMG 53 4MATIC+",
+                    "image": "mercedeseqe",
+                    "range": 435,
+                    "consum": "242 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "100 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "173 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "220 km/h",
+                    "time": "3.5 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Mercedes-Benz EQE SUV",
+            "image": "mercedeseqesuv",
+            "submodels":
+            [
+                {
+                    "name": "Mercedes-Benz EQE SUV",
+                    "submodel": "350+",
+                    "image": "mercedeseqesuv",
+                    "range": 587,
+                    "consum": "208 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "105 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "173 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "210 km/h",
+                    "time": "6.9 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Mercedes-Benz EQE SUV",
+                    "submodel": "350 4MATIC",
+                    "image": "mercedeseqesuv",
+                    "range": 479,
+                    "consum": "218 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "100 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "173 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "210 km/h",
+                    "time": "6.6 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Mercedes-Benz EQE SUV",
+                    "submodel": "AMG 53 4MATIC+",
+                    "image": "mercedeseqesuv",
+                    "range": 375,
+                    "consum": "278 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "100 kWh",
+                    "maxac": "22 kW",
+                    "maxdc": "173 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "240 km/h",
+                    "time": "3.5 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Mercedes-Benz EQS",
+            "image": "mercedeseqs",
+            "submodels":
+            [
+                {
+                    "name": "Mercedes-Benz EQS",
+                    "submodel": "450+",
+                    "image": "mercedeseqs",
+                    "range": 683,
+                    "consum": "199 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "125 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "200 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "210 km/h",
+                    "time": "6.2 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Mercedes-Benz EQS",
+                    "submodel": "450 4MATIC",
+                    "image": "mercedeseqs",
+                    "range": 654,
+                    "consum": "209 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "125 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "200 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "210 km/h",
+                    "time": "5.7 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Mercedes-Benz EQS",
+                    "submodel": "580 4MATIC",
+                    "image": "mercedeseqs",
+                    "range": 654,
+                    "consum": "209 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "125 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "200 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "210 km/h",
+                    "time": "4.4 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Mercedes-Benz EQS",
+                    "submodel": "AMG 53 4MATIC+",
+                    "image": "mercedeseqs",
+                    "range": 532,
+                    "consum": "243 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "125 kWh",
+                    "maxac": "22 kW",
+                    "maxdc": "200 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "250 km/h",
+                    "time": "3.4 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Mercedes-Benz EQS SUV",
+            "image": "mercedeseqssuv",
+            "submodels":
+            [
+                {
+                    "name": "Mercedes-Benz EQS SUV",
+                    "submodel": "450+",
+                    "image": "mercedeseqssuv",
+                    "range": 605,
+                    "consum": "225 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "125 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "200 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "210 km/h",
+                    "time": "6.8 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Mercedes-Benz EQS SUV",
+                    "submodel": "450 4MATIC",
+                    "image": "mercedeseqssuv",
+                    "range": 594,
+                    "consum": "228 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "125 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "200 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "210 km/h",
+                    "time": "6.1 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Mercedes-Benz EQS SUV",
+                    "submodel": "580 4MATIC",
+                    "image": "mercedeseqssuv",
+                    "range": 594,
+                    "consum": "228 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "125 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "200 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "210 km/h",
+                    "time": "4.7 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Mercedes-Benz EQS SUV",
+                    "submodel": "Maybach 680",
+                    "image": "mercedeseqssuv",
+                    "range": 560,
+                    "consum": "241 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "125 kWh",
+                    "maxac": "22 kW",
+                    "maxdc": "200 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "210 km/h",
+                    "time": "4.4 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Mercedes-Benz G",
+            "image": "mercedesg",
+            "submodels":
+            [
+                {
+                    "name": "Mercedes-Benz G",
+                    "submodel": "580",
+                    "image": "mercedesg",
+                    "range": 434,
+                    "consum": "303 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "124 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "200 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "4.7 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "MG ZS EV",
+            "image": "mgzsev",
+            "submodels":
+            [
+                {
+                    "name": "MG ZS EV",
+                    "submodel": "Standart Range",
+                    "image": "mgzsev",
+                    "range": 320,
+                    "consum": "173 Wh/km",
+                    "heatpump": "Yok",
+                    "capacity": "51.1 kWh",
+                    "maxac": "6.6 kW",
+                    "maxdc": "75 kW",
+                    "v2l": "Var",
+                    "maxspeed": "175 km/h",
+                    "time": "8.6 saniye",
+                    "drive": "Ön"
+                },
+                {
+                    "name": "MG ZS EV",
+                    "submodel": "Long Range",
+                    "image": "mgzsev",
+                    "range": 440,
+                    "consum": "178 Wh/km",
+                    "heatpump": "Yok",
+                    "capacity": "72.6 kWh",
+                    "maxac": "7.4 kW",
+                    "maxdc": "94 kW",
+                    "v2l": "Var",
+                    "maxspeed": "175 km/h",
+                    "time": "8.4 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "MG MG4 Electric",
+            "image": "mgmg4electric",
+            "submodels":
+            [
+                {
+                    "name": "MG MG4 Electric",
+                    "submodel": "51 kWh",
+                    "image": "mgmg4electric",
+                    "range": 350,
+                    "consum": "170 Wh/km",
+                    "heatpump": "Yok",
+                    "capacity": "51 kWh",
+                    "maxac": "6.6 kW",
+                    "maxdc": "87 kW",
+                    "v2l": "Var",
+                    "maxspeed": "160 km/h",
+                    "time": "7.7 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "MG MG4 Electric",
+                    "submodel": "64 kWh",
+                    "image": "mgmg4electric",
+                    "range": 435,
+                    "consum": "166 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "64 kWh",
+                    "maxac": "6.6 kW",
+                    "maxdc": "142 kW",
+                    "v2l": "Var",
+                    "maxspeed": "160 km/h",
+                    "time": "7.9 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "MG MG4 Electric",
+                    "submodel": "77 kWh",
+                    "image": "mgmg4electric",
+                    "range": 520,
+                    "consum": "165 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "77 kWh",
+                    "maxac": "6.6 kW",
+                    "maxdc": "144 kW",
+                    "v2l": "Var",
+                    "maxspeed": "180 km/h",
+                    "time": "6.5 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "MG MG4 Electric",
+                    "submodel": "XPOWER",
+                    "image": "mgmg4electric",
+                    "range": 385,
+                    "consum": "187 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "64 kWh",
+                    "maxac": "6.6 kW",
+                    "maxdc": "142 kW",
+                    "v2l": "Var",
+                    "maxspeed": "200 km/h",
+                    "time": "3.8 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "MG Marvel R",
+            "image": "mgmarvelr",
+            "submodels":
+            [
+                {
+                    "name": "MG Marvel R",
+                    "submodel": "Performance",
+                    "image": "mgmarvelr",
+                    "range": 370,
+                    "consum": "209 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "75 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "94 kW",
+                    "v2l": "Var",
+                    "maxspeed": "200 km/h",
+                    "time": "4.9 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Mini Countryman E",
+            "image": "minicountrymane",
+            "submodels":
+            [
+                {
+                    "name": "Mini Countryman E",
+                    "submodel": "E 66.5 kWh",
+                    "image": "minicountrymane",
+                    "range": 462,
+                    "consum": "160 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "66.5 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "128 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "170 km/h",
+                    "time": "8.6 saniye",
+                    "drive": "Ön"
+                },
+                {
+                    "name": "Mini Countryman E",
+                    "submodel": "SE ALL4",
+                    "image": "minicountrymane",
+                    "range": 433,
+                    "consum": "170 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "66.5 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "128 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "5.6 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Opel Corsa Electric",
+            "image": "opelcorsaelectric",
+            "submodels":
+            [
+                {
+                    "name": "Opel Corsa Electric",
+                    "submodel": "51 kWh",
+                    "image": "opelcorsaelectric",
+                    "range": 402,
+                    "consum": "146 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "51 kWh",
+                    "maxac": "7.4 kW",
+                    "maxdc": "100 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "150 km/h",
+                    "time": "8.1 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Opel Astra Electric",
+            "image": "opelastraelectric",
+            "submodels":
+            [
+                {
+                    "name": "Opel Astra Electric",
+                    "submodel": "54 kWh",
+                    "image": "opelastraelectric",
+                    "range": 398,
+                    "consum": "159 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "54 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "100 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "170 km/h",
+                    "time": "9.2 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Opel Mokka Electric",
+            "image": "opelmokkaelectric",
+            "submodels":
+            [
+                {
+                    "name": "Opel Mokka Electric",
+                    "submodel": "54 kWh",
+                    "image": "opelmokkaelectric",
+                    "range": 403,
+                    "consum": "156 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "54 kWh",
+                    "maxac": "7.4 kW",
+                    "maxdc": "100 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "150 km/h",
+                    "time": "9.0 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Peugeot e-208",
+            "image": "peugeote208",
+            "submodels":
+            [
+                {
+                    "name": "Peugeot e-208",
+                    "submodel": "51 kWh",
+                    "image": "peugeote208",
+                    "range": 400,
+                    "consum": "155 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "51 kWh",
+                    "maxac": "7.4 kW",
+                    "maxdc": "100 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "150 km/h",
+                    "time": "8.2 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Peugeot e-308",
+            "image": "peugeote308",
+            "submodels":
+            [
+                {
+                    "name": "Peugeot e-308",
+                    "submodel": "54 kWh",
+                    "image": "peugeote308",
+                    "range": 410,
+                    "consum": "169 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "54 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "100 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "170 km/h",
+                    "time": "9.8 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Peugeot e-2008",
+            "image": "peugeote2008",
+            "submodels":
+            [
+                {
+                    "name": "Peugeot e-2008",
+                    "submodel": "54 kWh",
+                    "image": "peugeote2008",
+                    "range": 406,
+                    "consum": "152 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "54 kWh",
+                    "maxac": "7.4 kW",
+                    "maxdc": "100 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "150 km/h",
+                    "time": "9.1 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Peugeot e-3008",
+            "image": "peugeote3008",
+            "submodels":
+            [
+                {
+                    "name": "Peugeot e-3008",
+                    "submodel": "73 kWh",
+                    "image": "peugeote3008",
+                    "range": 512,
+                    "consum": "174 Wh/km",
+                    "heatpump": "Opsiyonel",
+                    "capacity": "77 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "160 kW",
+                    "v2l": "Var",
+                    "maxspeed": "170 km/h",
+                    "time": "8.8 saniye",
+                    "drive": "Ön"
+                },
+                {
+                    "name": "Peugeot e-3008",
+                    "submodel": "97 kWh Long Range",
+                    "image": "peugeote3008",
+                    "range": 669,
+                    "consum": "181 Wh/km",
+                    "heatpump": "Opsiyonel",
+                    "capacity": "101 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "160 kW",
+                    "v2l": "Var",
+                    "maxspeed": "170 km/h",
+                    "time": "8.7 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Polestar 2",
+            "image": "polestar2",
+            "submodels":
+            [
+                {
+                    "name": "Polestar 2",
+                    "submodel": "Standard Range Single Motor",
+                    "image": "polestar2",
+                    "range": 520,
+                    "consum": "158 Wh/km",
+                    "heatpump": "Opsiyonel",
+                    "capacity": "70 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "180 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "205 km/h",
+                    "time": "6.4 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Polestar 2",
+                    "submodel": "Long Range Single Motor",
+                    "image": "polestar2",
+                    "range": 610,
+                    "consum": "158 Wh/km",
+                    "heatpump": "Opsiyonel",
+                    "capacity": "82 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "205 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "205 km/h",
+                    "time": "6.2 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Polestar 2",
+                    "submodel": "Long Range Dual Motor",
+                    "image": "polestar2",
+                    "range": 555,
+                    "consum": "172 Wh/km",
+                    "heatpump": "Opsiyonel",
+                    "capacity": "82 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "205 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "205 km/h",
+                    "time": "4.5 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Polestar 2",
+                    "submodel": "Long Range Performance",
+                    "image": "polestar2",
+                    "range": 555,
+                    "consum": "172 Wh/km",
+                    "heatpump": "Opsiyonel",
+                    "capacity": "82 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "205 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "205 km/h",
+                    "time": "4.2 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Polestar 3",
+            "image": "polestar3",
+            "submodels":
+            [
+                {
+                    "name": "Polestar 3",
+                    "submodel": "Long Range Single motor",
+                    "image": "polestar3",
+                    "range": 650,
+                    "consum": "189 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "111 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "250 kW",
+                    "v2l": "Var",
+                    "maxspeed": "180 km/h",
+                    "time": "7.8 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Polestar 3",
+                    "submodel": "Long Range Dual motor",
+                    "image": "polestar3",
+                    "range": 584,
+                    "consum": "218 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "111 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "250 kW",
+                    "v2l": "Var",
+                    "maxspeed": "210 km/h",
+                    "time": "5.0 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Polestar 3",
+                    "submodel": "Long Range Performance",
+                    "image": "polestar3",
+                    "range": 552,
+                    "consum": "231 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "111 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "250 kW",
+                    "v2l": "Var",
+                    "maxspeed": "210 km/h",
+                    "time": "4.7 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Polestar 4",
+            "image": "polestar4",
+            "submodels":
+            [
+                {
+                    "name": "Polestar 4",
+                    "submodel": "Long Range Single Motor",
+                    "image": "polestar4",
+                    "range": 610,
+                    "consum": "177 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "100 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "200 kW",
+                    "v2l": "Var",
+                    "maxspeed": "180 km/h",
+                    "time": "7.4 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Polestar 4",
+                    "submodel": "Long Range Dual Motor",
+                    "image": "polestar4",
+                    "range": 580,
+                    "consum": "186 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "100 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "200 kW",
+                    "v2l": "Var",
+                    "maxspeed": "200 km/h",
+                    "time": "3.8 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Porsche Macan Electric",
+            "image": "porschemacanelectric",
+            "submodels":
+            [
+                {
+                    "name": "Porsche Macan Electric",
+                    "submodel": "4",
+                    "image": "porschemacanelectric",
+                    "range": 516,
+                    "consum": "211 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "100 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "270 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "220 km/h",
+                    "time": "5.2 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Porsche Macan Electric",
+                    "submodel": "4S",
+                    "image": "porschemacanelectric",
+                    "range": 512,
+                    "consum": "207 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "100 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "270 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "240 km/h",
+                    "time": "4.1 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Porsche Macan Electric",
+                    "submodel": "Turbo",
+                    "image": "porschemacanelectric",
+                    "range": 518,
+                    "consum": "207 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "100 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "270 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "260 km/h",
+                    "time": "3.3 saniye",
+                    "drive": "4 Çeker"
                 }
             ]
         },
@@ -279,20 +2251,805 @@
             "submodels":
             [
                 {
-                    "name": "Porsche Taycan 4S",
-                    "brand": "Porsche",
-                    "model": "Taycan",
-                    "submodel": "4S AWD",
+                    "name": "Porsche Taycan",
+                    "submodel": "4S",
                     "image": "porschetaycan",
-                    "range": 550
+                    "range": 474,
+                    "consum": "207 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "89 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "270 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "250 km/h",
+                    "time": "3.7 saniye",
+                    "drive": "4 Çeker"
                 },
                 {
-                    "name": "Porsche Taycan Turbo S",
-                    "brand": "Porsche",
-                    "model": "Taycan",
-                    "submodel": "Turbo S AWD",
+                    "name": "Porsche Taycan",
+                    "submodel": "4S Plus",
                     "image": "porschetaycan",
-                    "range": 520
+                    "range": 549,
+                    "consum": "209 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "105 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "320 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "250 km/h",
+                    "time": "3.7 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Porsche Taycan",
+                    "submodel": "Turbo S",
+                    "image": "porschetaycan",
+                    "range": 558,
+                    "consum": "205 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "105 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "320 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "260 km/h",
+                    "time": "2.4 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Renault Kangoo E-Tech",
+            "image": "renaultkangooetech",
+            "submodels":
+            [
+                {
+                    "name": "Renault Kangoo E-Tech",
+                    "submodel": "45 kWh",
+                    "image": "renaultkangooetech",
+                    "range": 285,
+                    "consum": "192 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "48 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "80 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "132 km/h",
+                    "time": "12.6 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Renault Zoe",
+            "image": "renaultzoe",
+            "submodels":
+            [
+                {
+                    "name": "Renault Zoe",
+                    "submodel": "ZE50 R110",
+                    "image": "renaultzoe",
+                    "range": 395,
+                    "consum": "174 Wh/km",
+                    "heatpump": "Yok",
+                    "capacity": "54.7 kWh",
+                    "maxac": "22 kW",
+                    "maxdc": "46 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "135 km/h",
+                    "time": "11.4 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Renault 5 E-Tech",
+            "image": "renault5etech",
+            "submodels":
+            [
+                {
+                    "name": "Renault 5 E-Tech",
+                    "submodel": "52 kWh",
+                    "image": "renault5etech",
+                    "range": 410,
+                    "consum": "149 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "55 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "100 kW",
+                    "v2l": "Var",
+                    "maxspeed": "150 km/h",
+                    "time": "8.0 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Renault Megane E-Tech",
+            "image": "renaultmeganeetech",
+            "submodels":
+            [
+                {
+                    "name": "Renault Megane E-Tech",
+                    "submodel": "EV40",
+                    "image": "renaultmeganeetech",
+                    "range": 292,
+                    "consum": "160 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "43.3 kWh",
+                    "maxac": "22 kW",
+                    "maxdc": "85 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "150 km/h",
+                    "time": "10.0 saniye",
+                    "drive": "Ön"
+                },
+                {
+                    "name": "Renault Megane E-Tech",
+                    "submodel": "EV60 130hp",
+                    "image": "renaultmeganeetech",
+                    "range": 448,
+                    "consum": "165 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "65 kWh",
+                    "maxac": "22 kW",
+                    "maxdc": "129 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "150 km/h",
+                    "time": "10.5 saniye",
+                    "drive": "Ön"
+                },
+                {
+                    "name": "Renault Megane E-Tech",
+                    "submodel": "EV60 220hp",
+                    "image": "renaultmeganeetech",
+                    "range": 429,
+                    "consum": "170 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "65 kWh",
+                    "maxac": "22 kW",
+                    "maxdc": "129 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "160 km/h",
+                    "time": "7.4 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Renault Scenic E-Tech",
+            "image": "renaultscenicetech",
+            "submodels":
+            [
+                {
+                    "name": "Renault Scenic E-Tech",
+                    "submodel": "EV60",
+                    "image": "renaultscenicetech",
+                    "range": 418,
+                    "consum": "167 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "65 kWh",
+                    "maxac": "22 kW",
+                    "maxdc": "130 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "150 km/h",
+                    "time": "8.6 saniye",
+                    "drive": "Ön"
+                },
+                {
+                    "name": "Renault Scenic E-Tech",
+                    "submodel": "EV87",
+                    "image": "renaultscenicetech",
+                    "range": 610,
+                    "consum": "172 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "92 kWh",
+                    "maxac": "22 kW",
+                    "maxdc": "150 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "170 km/h",
+                    "time": "7.9 saniye",
+                    "drive": "Ön"
+                }
+            ]
+        },
+        {
+            "name": "Rivian R1T",
+            "image": "rivianr1t",
+            "submodels":
+            [
+                {
+                    "name": "Rivian R1T",
+                    "submodel": "Adventure Dual Standart",
+                    "image": "rivianr1t",
+                    "range": 434,
+                    "consum": "278 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "106 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "220 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "4.5 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Rivian R1T",
+                    "submodel": "Adventure Dual Large",
+                    "image": "rivianr1t",
+                    "range": 529,
+                    "consum": "308 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "131 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "220 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "3.4 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Rivian R1T",
+                    "submodel": "Adventure Dual Max",
+                    "image": "rivianr1t",
+                    "range": 675,
+                    "consum": "287 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "141 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "220 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "3.4 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Rivian R1T",
+                    "submodel": "Ascend Tri Max",
+                    "image": "rivianr1t",
+                    "range": 597,
+                    "consum": "332 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "141 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "220 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "2.9 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Rolls-Royce Spectre",
+            "image": "rollsroycespectre",
+            "submodels":
+            [
+                {
+                    "name": "Rolls-Royce Spectre",
+                    "submodel": "102 kWh",
+                    "image": "rollsroycespectre",
+                    "range": 530,
+                    "consum": "222 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "107 kWh",
+                    "maxac": "22 kW",
+                    "maxdc": "195 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "250 km/h",
+                    "time": "4.5 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Subaru Solterra",
+            "image": "subarusolterra",
+            "submodels":
+            [
+                {
+                    "name": "Subaru Solterra",
+                    "submodel": "64 kWh",
+                    "image": "subarusolterra",
+                    "range": 416,
+                    "consum": "179 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "71.4 kWh",
+                    "maxac": "6.6 kW",
+                    "maxdc": "147 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "160 km/h",
+                    "time": "6.9 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Tesla Model 3",
+            "image": "teslamodel3",
+            "submodels":
+            [
+                {
+                    "name": "Tesla Model 3",
+                    "submodel": "Standart Range",
+                    "image": "teslamodel3",
+                    "range": 513,
+                    "consum": "137 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "60 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "170 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "201 km/h",
+                    "time": "6.1 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Tesla Model 3",
+                    "submodel": "Long Range RWD",
+                    "image": "teslamodel3",
+                    "range": 640,
+                    "consum": "138 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "78.1 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "250 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "201 km/h",
+                    "time": "5.2 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Tesla Model 3",
+                    "submodel": "Long Range Dual Motor",
+                    "image": "teslamodel3",
+                    "range": 629,
+                    "consum": "143 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "78.1 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "250 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "201 km/h",
+                    "time": "4.4 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Tesla Model 3",
+                    "submodel": "Performance",
+                    "image": "teslamodel3",
+                    "range": 528,
+                    "consum": "167 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "78.1 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "250 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "262 km/h",
+                    "time": "3.2 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Tesla Model Y",
+            "image": "teslamodely",
+            "submodels":
+            [
+                {
+                    "name": "Tesla Model Y",
+                    "submodel": "Standart Range",
+                    "image": "teslamodely",
+                    "range": 455,
+                    "consum": "145 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "60 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "175 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "217 km/h",
+                    "time": "7.5 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Tesla Model Y",
+                    "submodel": "Long Range RWD",
+                    "image": "teslamodely",
+                    "range": 600,
+                    "consum": "155 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "78.1 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "250 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "217 km/h",
+                    "time": "5.9 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Tesla Model Y",
+                    "submodel": "Long Range Dual Motor",
+                    "image": "teslamodely",
+                    "range": 533,
+                    "consum": "169 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "78.1 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "250 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "217 km/h",
+                    "time": "5.0 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Tesla Model Y",
+                    "submodel": "Performance",
+                    "image": "teslamodely",
+                    "range": 514,
+                    "consum": "171 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "78.1 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "250 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "250 km/h",
+                    "time": "3.8 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Tesla Model S",
+            "image": "teslamodels",
+            "submodels":
+            [
+                {
+                    "name": "Tesla Model S",
+                    "submodel": "Long Range",
+                    "image": "teslamodels",
+                    "range": 634,
+                    "consum": "175 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "100 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "250 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "250 km/h",
+                    "time": "3.2 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Tesla Model S",
+                    "submodel": "Plaid",
+                    "image": "teslamodels",
+                    "range": 600,
+                    "consum": "187 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "100 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "250 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "282 km/h",
+                    "time": "1.9 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Tesla Model X",
+            "image": "teslamodelx",
+            "submodels":
+            [
+                {
+                    "name": "Tesla Model X",
+                    "submodel": "Long Range",
+                    "image": "teslamodelx",
+                    "range": 576,
+                    "consum": "191 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "100 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "250 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "250 km/h",
+                    "time": "3.9 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Tesla Model X",
+                    "submodel": "Plaid",
+                    "image": "teslamodelx",
+                    "range": 528,
+                    "consum": "214 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "100 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "250 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "262 km/h",
+                    "time": "2.7 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Togg T10X",
+            "image": "toggt10x",
+            "submodels":
+            [
+                {
+                    "name": "Togg T10X",
+                    "submodel": "V1 Standart Menzil",
+                    "image": "toggt10x",
+                    "range": 314,
+                    "consum": "195 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "52.4 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "180 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "185 km/h",
+                    "time": "7.4 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Togg T10X",
+                    "submodel": "V1 Uzun Menzil",
+                    "image": "toggt10x",
+                    "range": 523,
+                    "consum": "191 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "88.5 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "180 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "185 km/h",
+                    "time": "7.8 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Togg T10X",
+                    "submodel": "V2 Uzun Menzil",
+                    "image": "toggt10x",
+                    "range": 523,
+                    "consum": "191 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "88.5 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "180 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "185 km/h",
+                    "time": "7.8 saniye",
+                    "drive": "Arka"
+                }
+            ]
+        },
+        {
+            "name": "Toyota bZ4X",
+            "image": "toyotabz4x",
+            "submodels":
+            [
+                {
+                    "name": "Toyota bZ4X",
+                    "submodel": "64 kWh FWD",
+                    "image": "toyotabz4x",
+                    "range": 442,
+                    "consum": "167 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "71.4 kWh",
+                    "maxac": "6.6 kW",
+                    "maxdc": "147 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "160 km/h",
+                    "time": "7.5 saniye",
+                    "drive": "Ön"
+                },
+                {
+                    "name": "Toyota bZ4X",
+                    "submodel": "64 kWh AWD",
+                    "image": "toyotabz4x",
+                    "range": 415,
+                    "consum": "180 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "71.4 kWh",
+                    "maxac": "6.6 kW",
+                    "maxdc": "147 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "160 km/h",
+                    "time": "6.9 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Volvo EX30",
+            "image": "volvoex30",
+            "submodels":
+            [
+                {
+                    "name": "Volvo EX30",
+                    "submodel": "Single Motor",
+                    "image": "volvoex30",
+                    "range": 334,
+                    "consum": "172 Wh/km",
+                    "heatpump": "Yok",
+                    "capacity": "51 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "134 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "5.7 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Volvo EX30",
+                    "submodel": "Single Motor ER",
+                    "image": "volvoex30",
+                    "range": 471,
+                    "consum": "172 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "69 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "158 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "5.3 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Volvo EX30",
+                    "submodel": "Twin Motor Performance",
+                    "image": "volvoex30",
+                    "range": 448,
+                    "consum": "177 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "69 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "158 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "3.6 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Volvo EX40",
+            "image": "volvoex40",
+            "submodels":
+            [
+                {
+                    "name": "Volvo EX40",
+                    "submodel": "Single Motor",
+                    "image": "volvoex40",
+                    "range": 435,
+                    "consum": "187 Wh/km",
+                    "heatpump": "Opsiyonel",
+                    "capacity": "70 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "180 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "7.3 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Volvo EX40",
+                    "submodel": "Single Motor ER",
+                    "image": "volvoex40",
+                    "range": 520,
+                    "consum": "184 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "82 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "205 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "7.3 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Volvo EX40",
+                    "submodel": "Twin Motor",
+                    "image": "volvoex40",
+                    "range": 485,
+                    "consum": "194 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "82 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "205 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "4.8 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Volvo EX40",
+                    "submodel": "Twin Motor Performance",
+                    "image": "volvoex40",
+                    "range": 485,
+                    "consum": "194 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "82 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "205 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "180 km/h",
+                    "time": "4.6 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Volvo EX90",
+            "image": "volvoex90",
+            "submodels":
+            [
+                {
+                    "name": "Volvo EX90",
+                    "submodel": "Single Motor",
+                    "image": "volvoex90",
+                    "range": 580,
+                    "consum": "199 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "104 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "250 kW",
+                    "v2l": "Var",
+                    "maxspeed": "180 km/h",
+                    "time": "8.4 saniye",
+                    "drive": "Arka"
+                },
+                {
+                    "name": "Volvo EX90",
+                    "submodel": "Twin Motor",
+                    "image": "volvoex90",
+                    "range": 585,
+                    "consum": "209 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "111 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "250 kW",
+                    "v2l": "Var",
+                    "maxspeed": "180 km/h",
+                    "time": "5.9 saniye",
+                    "drive": "4 Çeker"
+                },
+                {
+                    "name": "Volvo EX90",
+                    "submodel": "Twin Motor Performance",
+                    "image": "volvoex90",
+                    "range": 580,
+                    "consum": "211 Wh/km",
+                    "heatpump": "Var",
+                    "capacity": "111 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "250 kW",
+                    "v2l": "Var",
+                    "maxspeed": "180 km/h",
+                    "time": "4.9 saniye",
+                    "drive": "4 Çeker"
+                }
+            ]
+        },
+        {
+            "name": "Voyah Free",
+            "image": "voyahfree",
+            "submodels":
+            [
+                {
+                    "name": "Voyah Free",
+                    "submodel": "106 kWh",
+                    "image": "voyahfree",
+                    "range": 500,
+                    "consum": "202 Wh/km",
+                    "heatpump": "Yok",
+                    "capacity": "106 kWh",
+                    "maxac": "11 kW",
+                    "maxdc": "100 kW",
+                    "v2l": "Yok",
+                    "maxspeed": "200 km/h",
+                    "time": "4.4 saniye",
+                    "drive": "4 Çeker"
                 }
             ]
         }

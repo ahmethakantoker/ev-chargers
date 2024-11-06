@@ -929,7 +929,7 @@
             "hotel": true 
         },
         {
-            "name": "E-Şarj - Armada AVM, Ankara",
+            "name": "E-Şarj - Armada AVM, Ankara 2",
             "isdc": false,
             "account": 1,
             "acspeed": 22,
@@ -945,7 +945,7 @@
             "hotel": true 
         },
         {
-            "name": "E-Şarj - Armada AVM, Ankara",
+            "name": "E-Şarj - Armada AVM, Ankara 3",
             "isdc": true,
             "account": 0,
             "acspeed": 0,
@@ -961,7 +961,7 @@
             "hotel": true 
         },
         {
-            "name": "E-Şarj - Armada AVM, Ankara",
+            "name": "E-Şarj - Armada AVM, Ankara 4",
             "isdc": true,
             "account": 1,
             "acspeed": 22,
@@ -977,7 +977,7 @@
             "hotel": true 
         },
         {
-            "name": "E-Şarj - Armada AVM, Ankara",
+            "name": "E-Şarj - Armada AVM, Ankara 5",
             "isdc": false,
             "account": 1,
             "acspeed": 22,
@@ -993,7 +993,7 @@
             "hotel": true 
         },
         {
-            "name": "E-Şarj - Armada AVM, Ankara",
+            "name": "E-Şarj - Armada AVM, Ankara 6",
             "isdc": true,
             "account": 0,
             "acspeed": 0,
@@ -1009,7 +1009,7 @@
             "hotel": true 
         },
         {
-            "name": "E-Şarj - Armada AVM, Ankara",
+            "name": "E-Şarj - Armada AVM, Ankara 7",
             "isdc": true,
             "account": 0,
             "acspeed": 0,

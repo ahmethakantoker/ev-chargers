@@ -318,7 +318,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Adana Zirai Üretim İşletmesi Tarımsal Yayım ve Hizmetiçi Eğitim Merkezi Müd.",
@@ -350,7 +350,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Ağaçlı Oto, Etimesgut",
@@ -382,7 +382,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Ahsaray Otel, Aksaray",
@@ -446,10 +446,10 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
-            "name": "E-Şarj - Akasya AVM, İstanbul",
+            "name": "E-Şarj - Akasya AVM 2, İstanbul",
             "isdc": true,
             "account": 3,
             "acspeed": 22,
@@ -462,10 +462,10 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
-            "name": "E-Şarj - Akasya AVM, İstanbul",
+            "name": "E-Şarj - Akasya AVM 3, İstanbul",
             "isdc": true,
             "account": 0,
             "acspeed": 0,
@@ -478,7 +478,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - BMW Türkiye, Akasya AVM",
@@ -510,10 +510,10 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
-            "name": "E-Şarj - Akbatı AVM, Esenyurt",
+            "name": "E-Şarj - Akbatı AVM 2, Esenyurt",
             "isdc": false,
             "account": 2,
             "acspeed": 22,
@@ -526,10 +526,10 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
-            "name": "E-Şarj - Akbatı AVM, Esenyurt",
+            "name": "E-Şarj - Akbatı AVM 3, Esenyurt",
             "isdc": true,
             "account": 0,
             "acspeed": 0,
@@ -542,10 +542,10 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
-            "name": "E-Şarj - Akbatı AVM, Esenyurt",
+            "name": "E-Şarj - Akbatı AVM 4, Esenyurt",
             "isdc": true,
             "account": 0,
             "acspeed": 0,
@@ -558,7 +558,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Akgün Petrol, Gaziantep",
@@ -573,8 +573,8 @@
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
-            "food": true,
-            "hotel": true 
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aksaray Organize Sanayi Bölge Müdürlüğü",
@@ -589,8 +589,8 @@
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
-            "food": true,
-            "hotel": true 
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aktıp Hastanesi, Bartın",
@@ -620,9 +620,9 @@
             "address": "Çavuşoğlu, Sanayi Cd. NO:19, Kartal, 34873 İstanbul / Türkiye",
             "opentime": "Pazartesi - Cuma : 08:00 - 18:00",
             "wc": true,
-            "shop": true,
-            "food": true,
-            "hotel": true 
+            "shop": false,
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Alibaba Fidanlık, Çatalca",
@@ -638,23 +638,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
-        },
-        {
-            "name": "E-Şarj - Altıbinaltı Motors, Eyüpsultan",
-            "isdc": false,
-            "account": 2,
-            "acspeed": 22,
-            "dccount": 0,
-            "dcspeed": 0,
-            "latitude": 41.043864,
-            "longitude": 28.93582,
-            "address": "Nişancı Mah. Zalpaşa Cad. No:52/1, Eyüpsultan, 34130 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "wc": true,
-            "shop": true,
-            "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Alva Donna Beach Resort, Antalya",
@@ -734,7 +718,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Anıl Otomotiv, Hatay",
@@ -751,6 +735,22 @@
             "shop": true,
             "food": true,
             "hotel": true 
+        },
+        {
+            "name": "E-Şarj - Anıl Otomotiv 2, Hatay",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 36.538056,
+            "longitude": 36.115722,
+            "address": "Karahüseyinli, Karaağaç Mah. 831 sok. 2/A, otoban kavşağı, Arsuz, 31490 Hatay / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - ANKAmall AVM, Ankara",
@@ -780,9 +780,9 @@
             "address": "Yenidoğan, Polatlı, 6900 Ankara / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
-            "shop": true,
-            "food": true,
-            "hotel": true 
+            "shop": false,
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aqua Fantasy Hotel & Spa, İzmir",
@@ -814,10 +814,10 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
-            "name": "E-Şarj - Aqua Florya AVM, Florya",
+            "name": "E-Şarj - Aqua Florya AVM 2, Florya",
             "isdc": true,
             "account": 1,
             "acspeed": 22,
@@ -830,10 +830,10 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
-            "name": "E-Şarj - Aqua Florya AVM, Florya",
+            "name": "E-Şarj - Aqua Florya AVM 3, Florya",
             "isdc": true,
             "account": 1,
             "acspeed": 22,
@@ -846,10 +846,10 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
-            "name": "E-Şarj - Aqua Florya AVM, Florya",
+            "name": "E-Şarj - Aqua Florya AVM 4, Florya",
             "isdc": true,
             "account": 1,
             "acspeed": 22,
@@ -862,10 +862,10 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
-            "name": "E-Şarj - Aqua Florya AVM, Florya",
+            "name": "E-Şarj - Aqua Florya AVM 5, Florya",
             "isdc": true,
             "account": 1,
             "acspeed": 22,
@@ -878,7 +878,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Arkas Otomotiv, Bursa",
@@ -892,9 +892,9 @@
             "address": "Bağlarbaşı, Sanayi Cd. No:368 A-B, Osmangazi, 16160 Bursa / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
-            "shop": true,
+            "shop": false,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Arkas Otomotiv, Zeytinburnu",
@@ -998,7 +998,7 @@
             "account": 0,
             "acspeed": 0,
             "dccount": 6,
-            "dcspeed": 120,
+            "dcspeed": 180,
             "latitude": 39.912472,
             "longitude": 32.808594,
             "address": "Eskişehir Yolu No:6, Söğütözü, 06560 Ankara / Türkiye",
@@ -1014,7 +1014,7 @@
             "account": 0,
             "acspeed": 0,
             "dccount": 6,
-            "dcspeed": 120,
+            "dcspeed": 180,
             "latitude": 39.912375,
             "longitude": 39.912375,
             "address": "Eskişehir Yolu No:6, Söğütözü, 06560 Ankara / Türkiye",
@@ -1036,9 +1036,9 @@
             "address": "Soğukpınar, Adnan Menderes Caddesi 40/A, Çekmeköy/İstanbul, 34788 İstanbul / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
-            "shop": true,
+            "shop": false,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Artan Suites Tatil Evler, Aydın",
@@ -1101,8 +1101,8 @@
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
-            "food": true,
-            "hotel": true 
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Atako Kürk Petrol, Nusratiye",
@@ -1118,7 +1118,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Atako Kürk Petrol, Yakaköy",
@@ -1133,8 +1133,8 @@
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
-            "food": true,
-            "hotel": true 
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - ATS Sevindik İş Merkezi, Denizli",
@@ -1150,7 +1150,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - AU Otomotiv, Etimesgut",
@@ -1166,7 +1166,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Auto Destek, Bahçelievler",
@@ -1228,9 +1228,9 @@
             "address": "Çınarlı Köyü, Armutlu Mevkii 12. Sk. No:16/1, Merkez, 17100 Çanakkale / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
-            "shop": true,
+            "shop": false,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Ayedaş OM, Kartal",
@@ -1261,8 +1261,8 @@
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
-            "food": true,
-            "hotel": true 
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz ,Yücesan Petrol, Kırşehir",
@@ -1278,7 +1278,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, Assos Ay-toklar Petrol, Çanakkale",
@@ -1293,8 +1293,8 @@
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
-            "food": true,
-            "hotel": true 
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, Ballı, Tekirdağ",
@@ -1309,8 +1309,24 @@
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
-            "food": true,
-            "hotel": true 
+            "food": false,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Aytemiz, Bilecik",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 90,
+            "latitude": 40.161694,
+            "longitude": 29.977944,
+            "address": "Hürriyet, Abdülhamithan Blv., No:64/A, Bilecik Merkez, 11100 Bilecik / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, Bozüyük Akaryakıt, Bilecik",
@@ -1325,8 +1341,8 @@
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
-            "food": true,
-            "hotel": true 
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, Cihan Petrol, Sakarya",
@@ -1342,7 +1358,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, Çakıroğlu Tur., Trabzon",
@@ -1358,7 +1374,23 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Aytemiz, Engin Petrol, Trabzon",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 90,
+            "latitude": 41.039389,
+            "longitude": 39.280222,
+            "address": "Kemaliye, Hacı Ziya Habiboğlu Cd. No:97, Vakfıkebir, 61400 Trabzon / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, Ercoş Enerji, Manisa",
@@ -1374,7 +1406,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, Ertaş, Nevşehir",
@@ -1389,8 +1421,8 @@
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
-            "food": true,
-            "hotel": true 
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, Esit Petrol, Bozcaada",
@@ -1409,20 +1441,20 @@
             "hotel": true 
         },
         {
-            "name": "E-Şarj - Aytemiz, Free Akaryakıt, Tekirdağ",
+            "name": "Aytemiz, Eşme Akaryakıt, Kocaeli",
             "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 1,
             "dcspeed": 30,
-            "latitude": 41.191,
-            "longitude": 27.820972,
-            "address": "Silahtarağa Mah. Hacışeremet Cad. 2. SOK. No:1/A, Çorlu, 59850 Tekirdağ / Türkiye",
+            "latitude": 40.731806,
+            "longitude": 30.192556,
+            "address": "Eşme, D100 No:746, Kartepe, 41320 Kocaeli / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, Gençerler, Kocaeli",
@@ -1438,7 +1470,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, Hamamcıoğlu Petrol, Bolu",
@@ -1454,7 +1486,39 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Aytemiz, Hamza Akaryakıt, Hatay",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 180,
+            "latitude": 36.506639,
+            "longitude": 36.374611,
+            "address": "Gazi, Çevreyolu Cd. No:30/1, Kırıkhan, 31440 Hatay / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": false,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Aytemiz, Hitit Ges, Yozgat",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 1,
+            "dcspeed": 30,
+            "latitude": 39.823944,
+            "longitude": 34.817778,
+            "address": "Karatepe, Belediye Cd. Belediye Terminali Yanı No:4/a, Yozgat Merkez, 66000 Yozgat / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, Hizmet Petrol, Kadıköy",
@@ -1470,7 +1534,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, Koşuyolu",
@@ -1486,7 +1550,39 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Aytemiz, Mapet, Kayseri",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 38.756917,
+            "longitude": 35.375361,
+            "address": "Anbar, Osman Kavuncu Blv. No:470, Melikgazi, 38070 Kayseri / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": false,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Aytemiz, Mıhçılar, Nevşehir",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 90,
+            "latitude": 38.630417,
+            "longitude": 34.726333,
+            "address": "Emek, Necip Fazıl Kısakürek Blv. No:1 D:1, Nevşehir Merkez, 50200 Nevşehir / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, Özbekoğlu Petrol, Bayburt",
@@ -1502,7 +1598,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, Özkan Tarım, Kayseri",
@@ -1518,7 +1614,23 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Aytemiz, Pelitli, Trabzon",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.9915,
+            "longitude": 39.790889,
+            "address": "Pelitli Mahallesi Pelitli İstiklal Cad. No: 1/1 No:1 Ortahisar , 61000 Trabzon / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, Polatcan, Keşan",
@@ -1534,10 +1646,10 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
-            "name": "E-Şarj - Aytemiz, Polatcan, Keşan",
+            "name": "E-Şarj - Aytemiz, Polatcan 2, Keşan",
             "isdc": true,
             "account": 0,
             "acspeed": 0,
@@ -1550,7 +1662,23 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Aytemiz, Serhat Zirai, Adana",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 180,
+            "latitude": 37.017022,
+            "longitude": 35.798669,
+            "address": "Büyükkırım, Dr. Devlet Bahçeli Blv. No:13, Ceyhan, 1920 Adana / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, Şar Petrol, Taşlıdere, Rize",
@@ -1566,7 +1694,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, Şişli",
@@ -1582,7 +1710,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, Tek Akaryakıt, Tekirdağ",
@@ -1597,8 +1725,8 @@
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
-            "food": true,
-            "hotel": true 
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, Tekpet, Kayseri",
@@ -1614,7 +1742,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, Tuğut Petrol, Sivas",
@@ -1633,6 +1761,22 @@
             "hotel": true 
         },
         {
+            "name": "E-Şarj - Aytemiz, Uzmanlar Petrol, Giresun",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.907889,
+            "longitude": 38.409194,
+            "address": "Gedikkaya mahhalesi, akaryakıt istasyonu, Gedikkaya Cd. no:81, Giresun Merkez, 28100 Giresun / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": false,
+            "hotel": false 
+        },
+        {
             "name": "E-Şarj - Aytemiz, Vadim, Kozyatağı",
             "isdc": true,
             "account": 1,
@@ -1646,7 +1790,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz, YKD Akaryakıt, Yenimahalle",
@@ -1662,7 +1806,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz,RMG Akaryakıt, Edirne",
@@ -1677,8 +1821,8 @@
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
-            "food": true,
-            "hotel": true 
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Aytemiz,Taybe Akaryakıt, Samsun",
@@ -1694,7 +1838,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Azim Otomotiv, Bartın",
@@ -1710,7 +1854,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Azim Otomotiv, Karabük",
@@ -1761,22 +1905,6 @@
             "hotel": true 
         },
         {
-            "name": "E-Şarj - Bandırma Basketbol Spor Salonu, Balıkesir",
-            "isdc": true,
-            "account": 0,
-            "acspeed": 0,
-            "dccount": 2,
-            "dcspeed": 120,
-            "latitude": 40.344306,
-            "longitude": 27.952417,
-            "address": "Paşakent, Şht. Cem Güçlü Cd., No:2, Bandırma, 10200 Balıkesir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "wc": true,
-            "shop": true,
-            "food": true,
-            "hotel": true 
-        },
-        {
             "name": "E-Şarj - Base Life Club, Ankara",
             "isdc": true,
             "account": 0,
@@ -1790,10 +1918,10 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
-            "name": "E-Şarj - Base Life Club, Ankara",
+            "name": "E-Şarj - Base Life Club 2, Ankara",
             "isdc": false,
             "account": 2,
             "acspeed": 22,
@@ -1806,7 +1934,23 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Base Life Club 3, Ankara",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 39.876694,
+            "longitude": 32.705056,
+            "address": "Angora Cad., No:209/10, Beysupark, Çayyolu, 06680 Ankara / Türkiye",
+            "opentime": "Pazartesi - Pazar : 06:00 - 23:00",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Baskent Edaş Bartın OM",
@@ -1822,7 +1966,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Başak Mağazacılık Siemens, Konya",
@@ -1837,6 +1981,22 @@
             "opentime": "Pazartesi - Pazar : 10:00 - 19:00",
             "wc": true,
             "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Başaran Otomotiv, Çanakkale",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 40.099167,
+            "longitude": 26.402778,
+            "address": "Boğazkent, İzmir Çanakkale Yolu Kamelya Sok 4. Km No:2/2, Kepez/Çanakkale Merkez, 17100 Çanakkale / Türkiye",
+            "opentime": "Pazartesi - Cuma : 08:30 - 18:30, Cumartesi : 08:30 - 18:00",
+            "wc": true,
+            "shop": false,
             "food": true,
             "hotel": true 
         },
@@ -1902,7 +2062,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Bayburt Otel Konaklama",
@@ -1934,10 +2094,10 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
-            "name": "E-Şarj - Baykoçlar Otomotiv (Nissan), Ankara",
+            "name": "E-Şarj - Baykoçlar Otomotiv (Jaecoo), Ankara",
             "isdc": true,
             "account": 1,
             "acspeed": 22,
@@ -1982,23 +2142,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
-        },
-        {
-            "name": "E-Şarj - Bayraktarlar Merkay Otomotiv, Kayseri",
-            "isdc": true,
-            "account": 0,
-            "acspeed": 0,
-            "dccount": 2,
-            "dcspeed": 120,
-            "latitude": 38.738939,
-            "longitude": 35.427447,
-            "address": "Şeker Mah. Osman Kavuncu Blv. No:274, Kocasinan, 38060 Kayseri / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "wc": true,
-            "shop": true,
-            "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Bayraktarlar Otomotiv, Aksaray",
@@ -2014,7 +2158,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Beceren Otel, Bursa",
@@ -2045,8 +2189,8 @@
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
-            "food": true,
-            "hotel": true 
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Best Garaj Eurorpar Car Servis, Trabzon",
@@ -2076,9 +2220,9 @@
             "address": "Kesirven Mah. İsmail Akçay Sk. No:311, Altıeylül, 10185 Balıkesir / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
-            "shop": true,
-            "food": true,
-            "hotel": true 
+            "shop": false,
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Beyazlı Otomotiv, Trabzon",
@@ -2110,7 +2254,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Bi Mola Fenertepe, Eyüp",
@@ -2158,7 +2302,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Bi Mola Reşadiye, Çekmeköy",
@@ -2174,7 +2318,39 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Bika Otomotiv, Büyükçekmece",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 41.0145,
+            "longitude": 28.549694,
+            "address": "Merkez Mh. D100 Karayolu Üzeri No:77, Büyükçekmece, 34535 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Bika Plaza, Esenyurt",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 41.01525,
+            "longitude": 28.681639,
+            "address": "Namık Kemal Mah. Haramidere Yolu, Bika Plaza No:26, Esenyurt, 34903 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Bilenler Un Fabrikası, Kayseri",
@@ -2190,23 +2366,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
-        },
-        {
-            "name": "E-Şarj - Bilkent Center, Ankara",
-            "isdc": false,
-            "account": 2,
-            "acspeed": 22,
-            "dccount": 0,
-            "dcspeed": 0,
-            "latitude": 39.88325,
-            "longitude": 32.75755,
-            "address": "Üniversiteler Mah., Bilkent Bulvarı, Bilkent, Çankaya, 06533 Ankara / Türkiye",
-            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
-            "wc": true,
-            "shop": true,
-            "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Bilkent Cyberpark, Ankara",
@@ -2222,10 +2382,10 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
-            "name": "E-Şarj - Bilkent Cyberpark, Ankara",
+            "name": "E-Şarj - Bilkent Cyberpark 2, Ankara",
             "isdc": false,
             "account": 2,
             "acspeed": 22,
@@ -2238,7 +2398,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Bilkent Otel ve Konferans Merkezi, Çan",
@@ -2254,7 +2414,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Binboğa Fıstık, Osmaniye",
@@ -2268,25 +2428,9 @@
             "address": "Kumarlı, Devlet Hastanesi Caddesi No:5/A, Akyar/Toprakkale, 80950 Osmaniye / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
-            "shop": true,
-            "food": true,
-            "hotel": true 
-        },
-        {
-            "name": "E-Şarj - Birlas, 4. Levent Sanayi Sitesi",
-            "isdc": true,
-            "account": 0,
-            "acspeed": 0,
-            "dccount": 2,
-            "dcspeed": 120,
-            "latitude": 41.09875,
-            "longitude": 29.006083,
-            "address": "4. Levent Sanayi Sitesi, Huzur Mah. Çamlıklar Cad. No:2/2, Sarıyer, 34396 İstanbul / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "wc": true,
-            "shop": true,
-            "food": true,
-            "hotel": true 
+            "shop": false,
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Birlik Organize Sanayi Bölgesi, Tuzla",
@@ -2302,7 +2446,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Birollar Oto, Eskişehir",
@@ -2334,7 +2478,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Bomonti Moda, Kadıköy",
@@ -2350,10 +2494,10 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
-            "name": "E-Şarj - Bomonti Moda, Kadıköy",
+            "name": "E-Şarj - Bomonti Moda 2, Kadıköy",
             "isdc": false,
             "account": 1,
             "acspeed": 22,
@@ -2366,10 +2510,10 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
-            "name": "E-Şarj - Bostancıoğlu Motorlu Araçlar, Kartal",
+            "name": "E-Şarj - Bostancıoğlu Jaecoo, Kartal",
             "isdc": true,
             "account": 0,
             "acspeed": 0,
@@ -2382,7 +2526,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Boyner Bağdat Caddesi, İstanbul",
@@ -2398,7 +2542,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Bozbey Dinlenme Tesisleri, Düzce",
@@ -2414,7 +2558,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Bridgestone, Doğan-Gü, Adana",
@@ -2429,8 +2573,8 @@
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
-            "food": true,
-            "hotel": true 
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Brisa (Altınlas), Kocaeli",
@@ -2444,9 +2588,9 @@
             "address": "Tavşanlı, Komürcüoğlu Cd., Gebze, 41400 Kocaeli / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
-            "shop": true,
-            "food": true,
-            "hotel": true 
+            "shop": false,
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - BS Benim Datçam, Muğla",
@@ -2476,6 +2620,22 @@
             "address": "Cumhuriyet, Sarayköy Asfaltı Cd., Buldan, 20410 Denizli / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
+            "shop": false,
+            "food": false,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Burç İstanbul Gökevler, Esenyurt",
+            "isdc": true,
+            "account": 6,
+            "acspeed": 22,
+            "dccount": 4,
+            "dcspeed": 120,
+            "latitude": 41.021278,
+            "longitude": 28.630972,
+            "address": "Gökevler, Hadımköy kavşağı, E-5 karayolu üzeri, 2312 Sk. 18. Blok, Esenyurt, 34522 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
             "shop": true,
             "food": true,
             "hotel": true 
@@ -2494,7 +2654,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Bül Otomotiv, Sakarya",
@@ -2513,6 +2673,22 @@
             "hotel": true 
         },
         {
+            "name": "E-Şarj - BYD Elpa Otomotiv, Elazığ",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 38.632741,
+            "longitude": 39.112913,
+            "address": "Hilalkent, Malatya Cd. 9.Km, Elâzığ Merkez, 23270 Elazığ / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": false,
+            "hotel": false 
+        },
+        {
             "name": "E-Şarj - Cadde Plus AVM, Çeşme",
             "isdc": true,
             "account": 0,
@@ -2529,7 +2705,7 @@
             "hotel": true 
         },
         {
-            "name": "E-Şarj - Cadde Plus AVM, Çeşme",
+            "name": "E-Şarj - Cadde Plus AVM 2, Çeşme",
             "isdc": true,
             "account": 0,
             "acspeed": 0,
@@ -2545,6 +2721,22 @@
             "hotel": true 
         },
         {
+            "name": "E-Şarj - Caner Otomotiv, Denizli",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.805361,
+            "longitude": 29.09525,
+            "address": "Sümer, 2290. Sk. No:96, Merkezefendi, 20020 Denizli / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": false,
+            "hotel": false 
+        },
+        {
             "name": "E-Şarj - Carrefoursa Bodrum, Muğla",
             "isdc": true,
             "account": 0,
@@ -2558,7 +2750,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Carrefoursa Gaziemir, İzmir",
@@ -2587,22 +2779,6 @@
             "longitude": 27.436806,
             "address": "Yokuşbaşı Mah. Kocadere Sk. No:34, Bodrum, 48400 Muğla / Türkiye",
             "opentime": "Pazartesi - Pazar : 08:00 - 22:00",
-            "wc": true,
-            "shop": true,
-            "food": true,
-            "hotel": true 
-        },
-        {
-            "name": "E-Şarj - Carrefoursa Yalıkavak 2, Muğla",
-            "isdc": true,
-            "account": 0,
-            "acspeed": 0,
-            "dccount": 2,
-            "dcspeed": 120,
-            "latitude": 37.102028,
-            "longitude": 27.31425,
-            "address": "Yalıkavak, İnönü Cd. No:56, Bodrum, 48990 Muğla / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
             "food": true,
@@ -2638,7 +2814,39 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Akçay, Balıkesir",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 39.589111,
+            "longitude": 26.92775,
+            "address": "Cumhuriyet Mah, Batı Sk. No:6, Edremit, 10300 Balıkesir / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Altayçeşme, Maltepe",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 40.932,
+            "longitude": 29.131361,
+            "address": "Altıntepe, Sanayi Çk. No:11/A, Maltepe, 34840 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Carrefoursa, Anadoluhisarı",
@@ -2654,10 +2862,10 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
-            "name": "E-Şarj - Carrefoursa, Anadoluhisarı",
+            "name": "E-Şarj - Carrefoursa, Anadoluhisarı 2",
             "isdc": true,
             "account": 0,
             "acspeed": 0,
@@ -2670,7 +2878,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Carrefoursa, Ataşehir",
@@ -2686,7 +2894,39 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Ayvalık, Balıkesir",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 39.333306,
+            "longitude": 26.709389,
+            "address": "Ali Çetinkaya, Onursal Cd. No:6, Ayvalık, 10400 Balıkesir / Türkiye",
+            "opentime": "Pazartesi - Pazar : 08:00 - 22:00",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Bağlıca, Etimesgut",
+            "isdc": false,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 0,
+            "dcspeed": 0,
+            "latitude": 39.887206,
+            "longitude": 32.631994,
+            "address": "Bağlıca, Mermeroğlu Cd. No:70, Etimesgut, 06790 Ankara / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Carrefoursa, Balıkesir",
@@ -2702,7 +2942,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Carrefoursa, Çekmeköy Şile Yolu, İstanbul",
@@ -2718,7 +2958,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Carrefoursa, Çorlu",
@@ -2734,7 +2974,39 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Çorum",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.564528,
+            "longitude": 34.962389,
+            "address": "Üçtutlar, Eşref Hoca Cd. No:48, Çorum Merkez, 19030 Çorum / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Çorum 2",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 3,
+            "dcspeed": 30,
+            "latitude": 40.5645,
+            "longitude": 34.962417,
+            "address": "Üçtutlar, Eşref Hoca Cd. No:48, Çorum Merkez, 19030 Çorum / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Carrefoursa, Dragos",
@@ -2750,7 +3022,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Carrefoursa, Düzce",
@@ -2782,26 +3054,74 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
-            "name": "E-Şarj - Carrefoursa, İstinye",
-            "isdc": false,
+            "name": "E-Şarj - Carrefoursa, Fuat Moral, Mersin",
+            "isdc": true,
             "account": 1,
             "acspeed": 22,
-            "dccount": 0,
-            "dcspeed": 0,
-            "latitude": 41.117741,
-            "longitude": 29.049364,
-            "address": "İstinye Mah, Çayır Cd. No: 1, İstinye, Sarıyer, 34460 İstanbul / Türkiye",
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 36.805444,
+            "longitude": 34.579083,
+            "address": "Fuatmorel, İsmet İnönü Blv. No:344/A, Yenişehir, 33120 Mersin / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
-            "name": "E-Şarj Carrefoursa, İstinye",
+            "name": "E-Şarj - Carrefoursa, Garaj, Kuşadası, Aydın",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 3,
+            "dcspeed": 30,
+            "latitude": 37.850556,
+            "longitude": 27.259306,
+            "address": "Hacıfeyzullah, Şht. Üst Tğmn. Cemalettin Yılmaz Cd. No:25, Kuşadası, 09400 Aydın / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Göçmen, Mersin",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 36.7765,
+            "longitude": 34.570306,
+            "address": "Eğriçam, Gazi Mustafa Kemal Blv. No:512, Yenişehir, 33160 Mersin / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Göçmen 2, Mersin",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 1,
+            "dcspeed": 30,
+            "latitude": 36.7765,
+            "longitude": 34.570333,
+            "address": "Eğriçam, Gazi Mustafa Kemal Blv. No:512, Yenişehir, 33160 Mersin / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, İstinye",
             "isdc": false,
             "account": 1,
             "acspeed": 22,
@@ -2829,8 +3149,24 @@
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
+            "food": false,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Kemer, Antalya",
+            "isdc": false,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 0,
+            "dcspeed": 0,
+            "latitude": 36.598417,
+            "longitude": 30.554194,
+            "address": "Yeni, Akdeniz Cd. No:18, Kemer, 07980 Antalya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Carrefoursa, Kurtuluş, Şişli",
@@ -2846,7 +3182,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Carrefoursa, Lara, Antalya",
@@ -2862,7 +3198,23 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Limonlu, Mersin",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 36.553472,
+            "longitude": 34.2415,
+            "address": "Limonlu, Limonlu Mah. Milli Egemenlik 3, Cad No:74, Erdemli, 33780 Mersin / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Carrefoursa, Marmara R., Pendik",
@@ -2877,8 +3229,24 @@
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
+            "food": false,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Mezitli Süper, Mersin",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 180,
+            "latitude": 36.750083,
+            "longitude": 34.541611,
+            "address": "Viranşehir, Şahin Rezidans, Cengiz Topel Cd. No:68, Mezitli, 33340 Mersin / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Carrefoursa, Millenium, Kurtköy",
@@ -2894,7 +3262,55 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Mutlukent, Ankara",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 30,
+            "latitude": 39.896419,
+            "longitude": 32.709428,
+            "address": "Mutlukent, 1960. Cd. No:19/1 D:1A, Çankaya, 06800 Ankara / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Nilüfer, Bursa",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 1,
+            "dcspeed": 30,
+            "latitude": 40.216745,
+            "longitude": 28.978652,
+            "address": "İhsaniye, Kanuni Cad. No:1/A, Nilüfer, 16130 Bursa / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Ordu",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.982,
+            "longitude": 37.888444,
+            "address": "Yeni, Atatürk Blv. No: 34, Altınordu, 52200 Ordu / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Carrefoursa, Ömerli",
@@ -2910,7 +3326,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Carrefoursa, Sapanca, Sakarya",
@@ -2942,23 +3358,55 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
-            "name": "E-Şarj - Carrefoursa, Urla",
+            "name": "E-Şarj - Carrefoursa, Ümitköy, Ankara",
             "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
-            "dcspeed": 90,
-            "latitude": 38.320361,
-            "longitude": 26.754361,
-            "address": "Altıntaş Mah. A.Besim Uyal Cad. No:75/77,Urla, 35260 İzmir / Türkiye",
+            "dcspeed": 120,
+            "latitude": 39.89545,
+            "longitude": 32.701839,
+            "address": "Ümit, 2494. Sk. No:1, Çankaya, 06810 Ankara / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Ümitköy 2, Ankara",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 1,
+            "dcspeed": 30,
+            "latitude": 39.895433,
+            "longitude": 32.701906,
+            "address": "Ümit, 2494. Sk. No:1, Çankaya, 06810 Ankara / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Carrefoursa, Yakacık, Kartal",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 30,
+            "latitude": 40.920417,
+            "longitude": 29.216917,
+            "address": "Gümüşpınar, Nisa Sk. No:2, Kartal, 34880 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Carrefoursa, Zekeriyaköy",
@@ -2974,7 +3422,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Cepa AVM, Ankara",
@@ -2990,10 +3438,10 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
-            "name": "E-Şarj - Cepa AVM, Ankara",
+            "name": "E-Şarj - Cepa AVM 2, Ankara",
             "isdc": true,
             "account": 1,
             "acspeed": 22,
@@ -3006,7 +3454,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Cepa Ofis, Çankaya",
@@ -3022,7 +3470,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Citroen Başdaş, Diyarbakır",
@@ -3036,9 +3484,9 @@
             "address": "Çölgüzeli, Diyarbakır-Şanlıurfa Yolu 12. Km No:302, Bağlar, 21070 Diyarbakır / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
-            "shop": true,
-            "food": true,
-            "hotel": true 
+            "shop": false,
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Citroen Vardallar, Trabzon",
@@ -3054,7 +3502,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Civil Mağazacılık, Beylikdüzü",
@@ -3070,7 +3518,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Civil Mağazacılık, Etimesgut",
@@ -3086,7 +3534,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Civil- Akdeniz, Mersin",
@@ -3102,7 +3550,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Civil- Seyhan Cadde, Adana",
@@ -3118,7 +3566,55 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Civil, Karesi, Balıkesir",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 30,
+            "latitude": 39.649722,
+            "longitude": 27.884861,
+            "address": "Yıldırım, Gazi Blv. No:8, Karesi, 10100 Balıkesir / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Civil, Muratpaşa, Antalya",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 1,
+            "dcspeed": 30,
+            "latitude": 36.86825,
+            "longitude": 30.735972,
+            "address": "Yeşilbahçe, Sinanoğlu Cd. No:16, Muratpaşa, 07160 Antalya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Civil, Nilüfer, Bursa",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 1,
+            "dcspeed": 30,
+            "latitude": 40.212667,
+            "longitude": 28.921111,
+            "address": "Alaaddinbey, İzmir Yolu Cd no:301/B, Ni̇lüfer, 16120 Bursa / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Cizre Motorlu Araçlar, Şırnak",
@@ -3134,7 +3630,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Club Çapa, Kaş",
@@ -3166,7 +3662,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Çağlayanlar Oto, Kırşehir",
@@ -3182,7 +3678,23 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Çakırlar Otomotiv, Trabzon",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.962556,
+            "longitude": 39.841667,
+            "address": "Kaşüstü Mevkii, Yomra, 61250 Trabzon / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Çakmak Market, Kocaeli",
@@ -3198,7 +3710,23 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Çanakkale OSB",
+            "isdc": true,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 4,
+            "dcspeed": 180,
+            "latitude": 40.156528,
+            "longitude": 26.461806,
+            "address": "Çanakkale - Bursa Karayolu 6. Km, Çanakkale Merkez, 17100 Çanakkale / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Çavdar2 Otomotiv, Ankara",
@@ -3214,7 +3742,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Çayan Otomotiv, Mersin",
@@ -3228,9 +3756,9 @@
             "address": "Yunusemre Mah. Nato Yolu Kavşağı, No:74, Yeni Hal Karşısı, Tarsus, 33440 Mersin / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
-            "shop": true,
-            "food": true,
-            "hotel": true 
+            "shop": false,
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Çeşmeliler Otomotiv, Denizli",
@@ -3249,6 +3777,22 @@
             "hotel": true 
         },
         {
+            "name": "E-Şarj - Çetaş İzmir Otomotiv, İzmir",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 38.456565,
+            "longitude": 27.253511,
+            "address": "Doğanlar Mahallesi, Ankara Cd. No:210/B, Bornova, 35050 İzmir / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": false,
+            "hotel": false 
+        },
+        {
             "name": "E-Şarj - Çetaş Otomotiv, Büyükçekmece",
             "isdc": true,
             "account": 0,
@@ -3262,7 +3806,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Çetaş Otomotiv, Çorlu",
@@ -3278,23 +3822,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
-        },
-        {
-            "name": "E-Şarj - Çetaş Otomotiv, İzmir",
-            "isdc": true,
-            "account": 0,
-            "acspeed": 0,
-            "dccount": 2,
-            "dcspeed": 120,
-            "latitude": 38.456565,
-            "longitude": 27.253511,
-            "address": "Doğanlar Mahallesi, Ankara Cd. No:210/B, Bornova, 35050 İzmir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "wc": true,
-            "shop": true,
-            "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Çetaş Otomotiv, İzmit",
@@ -3310,7 +3838,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Çetaş Otomotiv, Silivri",
@@ -3322,6 +3850,182 @@
             "latitude": 41.074722,
             "longitude": 28.260833,
             "address": "Yeni Mah. General Ali İhsan Türkkan Cd. No:31, Silivri, 34570 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": false,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Çetinkaya AVM, Gaziantep",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.073125,
+            "longitude": 37.367108,
+            "address": "Budak, Ali Fuat Cebesoy Bulvarı, Şht. Kamil Cd. No:40, Şehitkamil, 27200 Gaziantep / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Çetinkaya AVM 2, Gaziantep",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 3,
+            "dcspeed": 30,
+            "latitude": 37.073128,
+            "longitude": 37.367033,
+            "address": "Budak, Ali Fuat Cebesoy Bulvarı, Şht. Kamil Cd. No:40, Şehitkamil, 27200 Gaziantep / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Çetinkaya AVM, Mersin",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 90,
+            "latitude": 37.073128,
+            "longitude": 37.367033,
+            "address": "Budak, Ali Fuat Cebesoy Bulvarı, Şht. Kamil Cd. No:40, Şehitkamil, 27200 Gaziantep / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Çetinkaya AVM 2, Mersin",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 30,
+            "latitude": 36.79475,
+            "longitude": 34.613778,
+            "address": "Mustafa Kemal Bulvarı, İstiklal Cd., Akdeniz, 33010 Mersin / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Çetinkaya Dudullu, Ümraniye",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 41.018611,
+            "longitude": 29.174778,
+            "address": "Necip Fazıl, Alemdağ Cd. No:573, Ümraniye, 34773 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Çetinkaya Dudullu 2, Ümraniye",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 30,
+            "latitude": 41.018583,
+            "longitude": 29.174778,
+            "address": "Necip Fazıl, Alemdağ Cd. No:573, Ümraniye, 34773 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Çetinkaya Mavibulvar, Adana",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.031833,
+            "longitude": 35.299389,
+            "address": "Toros, Toros Mahallesi Ahmet Sapmaz Bulvarı, Mavi Blv. No:40, Çukurova, 01170 Adana / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Çetinkaya Mavibulvar 2, Adana",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 3,
+            "dcspeed": 30,
+            "latitude": 37.031833,
+            "longitude": 35.299306,
+            "address": "Toros, Toros Mahallesi Ahmet Sapmaz Bulvarı, Mavi Blv. No:40, Çukurova, 01170 Adana / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Çetinkaya, Ankara",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 39.876361,
+            "longitude": 32.863667,
+            "address": "Sancak, Yıldız Kavşağı, Turan Güneş Blv. No:5, Çankaya, 06550 Ankara / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Çetinkaya 2, Ankara",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 4,
+            "dcspeed": 30,
+            "latitude": 39.876639,
+            "longitude": 32.863472,
+            "address": "Sancak, Yıldız Kavşağı, Turan Güneş Blv. No:5, Çankaya, 06550 Ankara / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Çetmihan Hotel, Çanakkale",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 1,
+            "dcspeed": 30,
+            "latitude": 39.557917,
+            "longitude": 26.571111,
+            "address": "Ayvacık Yeşiyurt Köyü Kazdağları, Ayvacık, 17980 Çanakkale / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
@@ -3340,9 +4044,9 @@
             "address": "Yeni Mah. Emidağ Blv. No:442, Emirdağ, 3600 Afyonkarahisar / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
-            "shop": true,
-            "food": true,
-            "hotel": true 
+            "shop": false,
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Çimenler Otomotiv, Gümüşhane",
@@ -3358,7 +4062,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Çimenler Otomotiv, Lalapaşa, Erzurum",
@@ -3390,7 +4094,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Çukurova Teknoloji Geliştirme Bölgesi, Adana",
@@ -3404,9 +4108,9 @@
             "address": "Balcalı Mah. Güney Kampüs Bulv. Teknokent Sitesi Yönetim ve Kuluçka Merkezi, Sarıçam, 1330 Adana / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
-            "shop": true,
-            "food": true,
-            "hotel": true 
+            "shop": false,
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Daysil Silikon, İzmir",
@@ -3422,7 +4126,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - DB Garage, Ankara",
@@ -3438,7 +4142,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Değirmenburnu Residence, Bodrum",
@@ -3470,7 +4174,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Deniz Otomotiv, Kadıköy",
@@ -3486,7 +4190,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Denizli Honaz OSB",
@@ -3501,24 +4205,56 @@
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
-            "food": true,
-            "hotel": true 
+            "food": false,
+            "hotel": false 
         },
         {
-            "name": "E-Şarj - Derya Drc Otomotiv Suzuki, Mersin",
+            "name": "E-Şarj - Deşarj Noktası - Koyuncu Kia, Aydın",
             "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
             "dcspeed": 120,
-            "latitude": 36.758152,
-            "longitude": 34.544933,
-            "address": "Fatih, Gazi Mustafa Kemal Blv. Oktay Öner Sitesi D:A1 Blok No:1, Mezitli, 33200 Mersin / Türkiye",
+            "latitude": 37.769235,
+            "longitude": 27.425741,
+            "address": "Fevzipaşa, Aydın Cd. No: 181, Söke, 9200 Aydın / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Dilsizler Soğutma, İstanbul",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.907278,
+            "longitude": 29.3055,
+            "address": "Sanayi, Şht. Cevdet Çelenk Cd. NO:3, Pendik, 34906 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": false,
+            "hotel": false 
+        },
+        {
+            "name": "E-Şarj - Dilsizler Soğutma 2, İstanbul",
+            "isdc": true,
+            "account": 2,
+            "acspeed": 22,
+            "dccount": 3,
+            "dcspeed": 30,
+            "latitude": 40.907278,
+            "longitude": 29.305528,
+            "address": "Sanayi, Şht. Cevdet Çelenk Cd. NO:3, Pendik, 34906 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": false,
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Diplomat Otel, Muğla",
@@ -3585,15 +4321,15 @@
             "hotel": true 
         },
         {
-            "name": "E-Şarj - DoubleTree by Hilton Bodrum Marina Vista",
+            "name": "E-Şarj - DoubleTree by Hilton Sanliurfa",
             "isdc": true,
             "account": 0,
             "acspeed": 0,
             "dccount": 2,
             "dcspeed": 120,
-            "latitude": 37.035,
-            "longitude": 27.421083,
-            "address": "Eskiçeşme, Neyzen Tevfik Cd. No:168, Bodrum, 48400 Muğla / Türkiye",
+            "latitude": 37.181414,
+            "longitude": 38.807275,
+            "address": "Esentepe, Vatan Cd. No:6, Karaköprü, 63300 Şanlıurfa / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
@@ -3614,23 +4350,7 @@
             "wc": true,
             "shop": true,
             "food": true,
-            "hotel": true 
-        },
-        {
-            "name": "E-Şarj - Ege Perla, Konak",
-            "isdc": false,
-            "account": 2,
-            "acspeed": 22,
-            "dccount": 0,
-            "dcspeed": 0,
-            "latitude": 38.44684,
-            "longitude": 27.175578,
-            "address": "Çınarlı Mah. Ozan Abay Cad. No: 8, Konak, 35170 İzmir / Türkiye",
-            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
-            "wc": true,
-            "shop": true,
-            "food": true,
-            "hotel": true 
+            "hotel": false 
         },
         {
             "name": "E-Şarj - Ekcan Park, Kocaeli",
@@ -3642,22 +4362,6 @@
             "latitude": 40.760111,
             "longitude": 29.974667,
             "address": "Ovacık Mah. D-100 Karayolu Cad. No:20, İzmit, 41140 Kocaeli / Türkiye",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "wc": true,
-            "shop": true,
-            "food": true,
-            "hotel": true 
-        },
-        {
-            "name": "E-Şarj - Carrefoursa, Limonlu, Mersin",
-            "isdc": true,
-            "account": 0,
-            "acspeed": 0,
-            "dccount": 2,
-            "dcspeed": 60,
-            "latitude": 36.553472,
-            "longitude": 34.2415,
-            "address": "Limonlu, Limonlu Mah. Milli Egemenlik 3, Cad No:74, Erdemli, 33780 Mersin / Türkiye",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
@@ -3695,6 +4399,1798 @@
             "shop": true,
             "food": true,
             "hotel": true 
+        },
+        {
+            "name": "E-Şarj - İsa-Ufuk Otomotiv, Mersin",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 36.085389 ,
+            "longitude": 32.857694,
+            "address": "Bahçelievler Mah Alparslantürkeş Bul No:15/A Sanayi Sitesi Karşısı, Anamur, 33640 Mersin / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Royal Uzungöl Otel, Çaykara, Trabzon",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 4,
+            "dcspeed": 180,
+            "latitude": 40.617528 ,
+            "longitude": 40.310056,
+            "address": "Uzungöl Mahallesi Dursun Ali İnan Caddesi No:95, Çaykara, 61940 Trabzon / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - A Plus AVM, Bakırköy",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.978169,
+            "longitude": 28.850081,
+            "address": "Ataköy 2-5-6., Ataköy Plus AVM No:11 D:12a, Bakırköy, 34158 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - A Plus AVM 2, Bakırköy",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 40.978189,
+            "longitude": 28.850128,
+            "address": "Ataköy 2-5-6., Ataköy Plus AVM No:11 D:12a, Bakırköy, 34158 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Akkoç Butik Otel, Adana",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 37.003311,
+            "longitude": 35.324756,
+            "address": "Cemalpaşa, 63005. Sk. No: 22, Seyhan, 1120 Adana / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Alaplı OSB, Zonguldak",
+            "isdc": true,
+            "account": 2,
+            "acspeed": 22,
+            "dccount": 4,
+            "dcspeed": 120,
+            "latitude": 41.200274,
+            "longitude": 31.438603,
+            "address": "Gökhasan Köyü Merkez Mevkii 1 Nolu OSB Sok No:1, Ereğli, 67852 Zonguldak / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Altınsoy, Sivas",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 1,
+            "dcspeed": 30,
+            "latitude": 39.732492,
+            "longitude": 37.020589,
+            "address": "Yenişehir, Sultan Şehir Blv No:10, Merkez, 58010 Sivas / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Anka KLC Olive, Balıkesir",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 39.462611,
+            "longitude": 26.902778,
+            "address": "Pelitköy, Gazı Mustafa Kemal Paşa Caddesi No 159, Burhaniye, 10700 Balıkesir / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Ankara-Niğde Otoyolu 10. km (Ankara Yönü)",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 4,
+            "dcspeed": 180,
+            "latitude": 39.677361,
+            "longitude": 32.7445,
+            "address": "Gökçehüyük, Küme Evleri No:1079, Gölbaşı, 06830 Ankara / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Ankara-Niğde Otoyolu 10. km (Niğde Yönü)",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 4,
+            "dcspeed": 180,
+            "latitude": 39.676722,
+            "longitude": 32.742778,
+            "address": "Gökçehüyük, Ankara - Niğde Otoyolu No:1080, Gölbaşı, 06830 Ankara / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Ankara-Niğde Otoyolu 230. km (Ankara Yönü)",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 4,
+            "dcspeed": 180,
+            "latitude": 38.445083,
+            "longitude": 34.432444,
+            "address": "Pınarbaşı, Gülpınar/Gülağaç, 68902 Aksaray / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Ankara-Niğde Otoyolu 230. km (Niğde Yönü)",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 4,
+            "dcspeed": 180,
+            "latitude": 38.443861,
+            "longitude": 34.432417,
+            "address": "Pınarbaşı, Gülpınar/Gülağaç, 68902 Aksaray / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - ANS, Konya",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 180,
+            "latitude": 38.63125,
+            "longitude": 32.922444,
+            "address": "Karşıyaka, Ankara Konya Yolu No:1127, Cihanbeyli, 42850 Konya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - ANS, Konya 2",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 38.631361,
+            "longitude": 32.922333,
+            "address": "Karşıyaka, Ankara Konya Yolu No:1127, Cihanbeyli, 42850 Konya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Arat Petrol, Denizli",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 180,
+            "latitude": 37.839444,
+            "longitude": 29.134972,
+            "address": "Korucuk, Pamukkale Yolu 9. Km No: 116, Pamukkale, 20170 Denizli / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Arkas Otomotiv, İzmir",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 90,
+            "latitude": 38.359799,
+            "longitude": 27.136059,
+            "address": "Emrez Mh. Akçay Cad. No:16/A, Gaziemir, 35410 İzmir / Türkiye",
+            "opentime": "Pazartesi - Cumartesi : 09:00 - 18:00, Pazar : 11:00 - 17:00",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Asur Imperial Hotel",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 90,
+            "latitude": 37.425889,
+            "longitude": 41.339797,
+            "address": "Yeni, Seyfettin Güneş Cad. No:58/B, Midyat, 47500 Mardin / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Asur Imperial Hotel 2",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 1,
+            "dcspeed": 30,
+            "latitude": 37.4259,
+            "longitude": 41.3398,
+            "address": "Yeni, Seyfettin Güneş Cad. No:58/B, Midyat, 47500 Mardin / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Atalay Petrol, Ankara",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 90,
+            "latitude": 39.573167,
+            "longitude": 32.102889,
+            "address": "Üçpınar, Aşağı Sok No:36-1, Polatlı, 6900 Ankara / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Atlantis Alışveriş ve Eğlence Merkezi, Ankara",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 39.970806,
+            "longitude": 32.715222,
+            "address": "Kardelen Mah Başkent Bulvarı. No: 224 H, Yenimahalle, 6370 Ankara / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Atlantis Alışveriş ve Eğlence Merkezi 2, Ankara",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 39.970722,
+            "longitude": 32.715028,
+            "address": "Kardelen Mah Başkent Bulvarı. No: 224 H, Yenimahalle, 6370 Ankara / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Atlantis Alışveriş ve Eğlence Merkezi 3, Ankara",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 39.969611,
+            "longitude": 32.714028,
+            "address": "Kardelen Mah Başkent Bulvarı. No: 224 H, Yenimahalle, 6370 Ankara / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Ayan Enerji, Kayseri",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 38.663389,
+            "longitude": 36.14925,
+            "address": "Pazarören Mah. 305. Sk., Pınarbaşı, 38730 Kayseri / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Aydın Organize Sanayi Bölgesi",
+            "isdc": true,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.858667,
+            "longitude": 27.982,
+            "address": "Umurlu mah.organize san.böl, Aydın Merkez, 9630 Aydın / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Ayedaş OM, Sancaktepe",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.971556,
+            "longitude": 29.242333,
+            "address": "Veysel Karani, Çolakoğlu Sokağı No:2, Sancaktepe, 34885 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Aytemiz, Ardıçlar Akaryakıt, Yozgat",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 39.684833,
+            "longitude": 35.424861,
+            "address": "Yeni, ATATÜRK BULVARI No:13/1-2, Doğankent/Sorgun, 66702 Yozgat / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Ekin Otomotiv, Sakarya",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.73423,
+            "longitude": 30.380332,
+            "address": "Hanlı Merkez Mah. D-100 Karayolu Cad. No:312/1, Arifiye, 54580 Sakarya / Türkiye",
+            "opentime": "Pazartesi - Cumartesi : 08:30 - 18:00",
+            "wc": true,
+            "shop": false,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Elis Otomotiv, Kahramanmaraş",
+            "isdc": true,
+            "account": 2,
+            "acspeed": 22,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.564792,
+            "longitude": 36.900039,
+            "address": "Barbaros Mah. Kayseri Kara Yolu 2. Km., Onikişubat, 46040 Kahramanmaraş / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Enerjisa (Ayedaş) Erenköy OM",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.982361,
+            "longitude": 29.08775,
+            "address": "Sahrayı Cedit, Uçar Sk. No:7, Kadıköy, 34734 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Enerjisa (Toroslar) Kozan, Adana",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.449675,
+            "longitude": 35.809189,
+            "address": "Cumhuriyet Mah. Şehit Hakan Koçak Sok. 4, Kozan, 01520 Adana / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Enerjisa Başkent Elektrik Dağıtım O.M., Çankırı",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.59245,
+            "longitude": 33.608856,
+            "address": "Abdulhalik Renda, İstiklal Cd. Başkent Elektrik, Çankırı Merkez, 18200 Çankırı / Türkiye",
+            "opentime": "Pazartesi - Pazar : 07:00 - 00:00",
+            "wc": true,
+            "shop": false,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Enerjisa Başkent Elektrik Dağıtım O.M",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 39.831122,
+            "longitude": 33.495525,
+            "address": "Yenimahalle, Asude Sitesi No:1, Kırıkkale Merkez, 71100 Kırıkkale / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Enerjisa Başkent Elektrik Dağıtım O.M., Polatlı, Ankara",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 39.587522,
+            "longitude": 32.146253,
+            "address": "Cumhuriyet, İnönü Cd. No:4, Polatlı, 06900 Ankara / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Enerjisa Başkent Elektrik Dağıtım O.M., Sincan, Ankara",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 4,
+            "dcspeed": 90,
+            "latitude": 39.969536,
+            "longitude": 32.614603,
+            "address": "Eryaman, 2609. Sk., Etimesgut, 06824 Ankara / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Enerjisa Kilis",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 36.733108,
+            "longitude": 37.096725,
+            "address": "Mehmet Sanlı, Erdoğan Bayraktar Cd, Kilis Merkez, 79000 Kilis / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Enerjisa Toroslar BM,Adana",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 4,
+            "dcspeed": 120,
+            "latitude": 36.9907,
+            "longitude": 35.3779,
+            "address": "Yenidoğan, Yaşar Doğu Cad. No:203, Yüreğir, 01310 Adana / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Enerjisa Toroslar GM, Adana",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.005864,
+            "longitude": 35.331878,
+            "address": "Cemalpaşa, Cevat Yurdakul Cad. 4 A, Seyhan, 01120 Adana / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Enerjisa, Kastamonu Lojistik Hizmet Merkezi",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 180,
+            "latitude": 41.408666,
+            "longitude": 33.794552,
+            "address": "İnönü Mh. Halil Rıfat Paşa Cd. No:9 Kastamonu/Merkez, 37150 Kastamonu / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Enerjisa, Osmaniye",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.044883,
+            "longitude": 36.227031,
+            "address": "Fakıuşağı Mah. 45006 Sok, No:8 Fatih Sitesi A Blok , Osmaniye Merkez, 80010 Osmaniye / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Enerjisa, Zonguldak OM",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 41.291542,
+            "longitude": 31.404878,
+            "address": "Süleymanlar, Ereğli, 67320 Zonguldak / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Erasta AVM, Edirne",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 41.666861,
+            "longitude": 26.571278,
+            "address": "Talatpaşa Cad. No: 59, Merkez, 22100 Edirne / Türkiye",
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Erasta AVM, Fethiye",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 36.622333,
+            "longitude": 29.131694,
+            "address": "Taşyaka Mah. Ölüdeniz Cad. No: 14, Fethiye, 48420 Muğla / Türkiye",
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Erçağ Dinlenme Tesisi, Mersin",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 90,
+            "latitude": 36.122833,
+            "longitude": 33.105083,
+            "address": "Tekmen, Mersin Antalya Yolu, Bozyazı, 33836 Mersin / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Erdem Oto (Propratik), Çorum",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.510997,
+            "longitude": 34.912044,
+            "address": "Mimar Sinan, Çevre Yolu Blv. 3. Km No:43, Çorum Merkez, 19100 Çorum / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Erenler Otomotiv, Gaziantep",
+            "isdc": false,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 0,
+            "dcspeed": 0,
+            "latitude": 37.09213,
+            "longitude": 37.399922,
+            "address": "Merveşehir Mah. Şehit Ömer Halis Demir Bulvarı No: 107, Şehitkamil, 27080 Gaziantep / Türkiye",
+            "opentime": "Pazartesi - Cuma : 08:30 - 18:00, Cumartesi - Pazar : 08:30 - 15:00",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Erik Nissan, Şanlıurfa",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 37.161939,
+            "longitude": 38.834044,
+            "address": "Sırrın, 16010 sokak no 1/ a, Haliliye, 63040 Şanlıurfa / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Erka Group, İnegöl",
+            "isdc": true,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 2,
+            "dcspeed": 180,
+            "latitude": 40.103444,
+            "longitude": 29.470694,
+            "address": "Akhisar Mh., Bursa Karayolu Cd. No:2/1, İnegöl, 16400 Bursa / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Erya Otomotiv, Kadıköy",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 40.982944,
+            "longitude": 29.076028,
+            "address": "Sahrayı Cedit, İmam Ramiz Sokağı No: 35-37, Kadıköy, 34732 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Erya Otomotiv 2, Kadıköy",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 1,
+            "dcspeed": 30,
+            "latitude": 40.982972,
+            "longitude": 29.076,
+            "address": "Sahrayı Cedit, İmam Ramiz Sokağı No: 35-37, Kadıköy, 34732 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Esen Grup, Antalya",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 36.343806,
+            "longitude": 29.3345,
+            "address": "Kınık Mah İnönü bulvarı no:14a, Kaş, 7000 Antalya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Esen Grup 2, Antalya",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 36.34375,
+            "longitude": 29.3345,
+            "address": "Kınık Mah İnönü bulvarı no:14a, Kaş, 7000 Antalya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Espark AVM, Eskişehir",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 39.783093,
+            "longitude": 30.510943,
+            "address": "Eskibağlar Mah. Prof. Dr. Yılmaz Büyükerşen Blv. No:21, Tepebaşı , 26170 Eskişehir / Türkiye",
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Espark AVM 2, Eskişehir",
+            "isdc": true,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 39.782945,
+            "longitude": 30.510891,
+            "address": "Eskibağlar Mah. Prof. Dr. Yılmaz Büyükerşen Blv. No:21, Tepebaşı , 26170 Eskişehir / Türkiye",
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Eurorepar STM Motorlu Araçlar, Ankara",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 39.940539,
+            "longitude": 32.709478,
+            "address": "Bahçekapı MAH 2472.Cad. Şaşmaz Blv. NO:13/14, Etimesgut, 6105 Ankara / Türkiye",
+            "opentime": "Pazartesi - Cumartesi : 08:30 - 18:00",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Eurorepar Üstün Oto, Manisa",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 38.620389,
+            "longitude": 27.381389,
+            "address": "75. Yıl Mah. Kenan Evren Sanayi Sit. 5337. Sk No:2, Yunusemre, 45030 Manisa / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Eurorepar, Arıner Otomotıv, Lüleburgaz",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 1,
+            "dcspeed": 30,
+            "latitude": 41.397194,
+            "longitude": 27.380417,
+            "address": "Atatürk Mh, Yeni Sanayi 6. Sk. No:1, Lüleburgaz, 39750 Kırklareli / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Event Chef by Beceren, Bursa",
+            "isdc": false,
+            "account": 2,
+            "acspeed": 22,
+            "dccount": 0,
+            "dcspeed": 0,
+            "latitude": 40.218611,
+            "longitude": 29.040972,
+            "address": "Soğanlı Botanik Parkı, Yakın Çevre Yolu, Osmangazi, 16190 Bursa / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Eypark Akaryakıt, Kırıkkale",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 180,
+            "latitude": 39.870278,
+            "longitude": 33.448444,
+            "address": "Doğanlık, Kıdemli Başçavuş Ömer Halis, Demir Cd No:5/1, Yahşihan, 71450 Kırıkkale / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Flyinn AVM, Florya",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 4,
+            "dcspeed": 120,
+            "latitude": 40.972778,
+            "longitude": 28.804278,
+            "address": "Şenlikköy Mah. Harman Sok. No:48, Florya, 34153 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - FOCA-Q-BEACH",
+            "isdc": false,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 0,
+            "dcspeed": 0,
+            "latitude": 38.684261,
+            "longitude": 26.740381,
+            "address": "İsmetpaşa, Mersinaki Caddesi, 362. Sk. No:4, 35680 İzmir / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Ford Çetinkayalar, Elazığ",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 38.641142,
+            "longitude": 39.119617,
+            "address": "Hilalkent Mah, Malatya Cd. No:1, Merkez, 23040 Elazığ / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Four Points by Sheraton, Kağıthane",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 1,
+            "dcspeed": 30,
+            "latitude": 41.08857,
+            "longitude": 28.982897,
+            "address": "Hamidiye Mah. Cendere Cad. No:15, Kağıthane, 34408 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Gapel Otomotiv, Şanlıurfa",
+            "isdc": true,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.108358,
+            "longitude": 38.825567,
+            "address": "Asya Mah. Akcakale Cad. No:544 Gapel Plaza, Eyyübiye, 63200 Şanlıurfa / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Gebze Center AVM, Kocaeli",
+            "isdc": true,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.795472,
+            "longitude": 29.442583,
+            "address": "Tatlıkuyu Mahallesi, Gebze Center AVM, Gebze, 41400 Kocaeli / Türkiye",
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Gebze Center AVM 2, Kocaeli",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 4,
+            "dcspeed": 120,
+            "latitude": 40.796417,
+            "longitude": 29.442806,
+            "address": "Tatlıkuyu Mahallesi, Gebze Center AVM, Gebze, 41400 Kocaeli / Türkiye",
+            "opentime": "Pazartesi - Pazar : 10:00 - 22:00",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Gebze Center AVM 3, Kocaeli",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 4,
+            "dcspeed": 120,
+            "latitude": 40.796417,
+            "longitude": 29.442167,
+            "address": "Tatlıkuyu Mahallesi, Gebze Center AVM, Gebze, 41400 Kocaeli / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Gelecek Otomotiv, Diyarbakır",
+            "isdc": true,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 2,
+            "dcspeed": 50,
+            "latitude": 37.925892,
+            "longitude": 40.166961,
+            "address": "Bağcılar mah, Şanlıurfa Blv. No:175, Kayapınar, 050 Diyarbakır / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Gelecek Otomotiv, Kağıthane",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 150,
+            "latitude": 41.102556,
+            "longitude": 28.972806,
+            "address": "Hamidiye Mah. Selçuklu Caddesi No:10 D:H, Kağıthane, 34408 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Cumartesi : 08:30 - 18:00, Pazar : 11:00 - 17:00",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Gelibolu Otoyol Servis Alanı (Batı), Çanakkale",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 180,
+            "latitude": 40.397938,
+            "longitude": 26.614998,
+            "address": "Gelibolu Otoyol Servis Alanı, Cevizli Köyü Gelibolu Çanakkale , 17800 Çanakkale / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Gelibolu Otoyol Servis Alanı (Doğu), Ça",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 180,
+            "latitude": 40.399563,
+            "longitude": 26.617138,
+            "address": "Gelibolu Otoyol Servis Alanı, Cevizli Köyü Gelibolu Çanakkale , 17800 Çanakkale / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - General Oto, Ayazağa",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 150,
+            "latitude": 41.109585,
+            "longitude": 28.989071,
+            "address": "Ayazağa Mah. Kemerburgaz Cad. No: 2/1, Sarıyer, 34396 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - GGG OTOMOTİV TAŞIMACILIK SANAYİ VE TİCARET ANONİM ŞİRKETİ, Gaziantep",
+            "isdc": false,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 0,
+            "dcspeed": 0,
+            "latitude": 37.091167,
+            "longitude": 37.417258,
+            "address": "Aydınlar, 3050. Cd. Cad No:15, Şehitkamil, 27580 Gaziantep / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - GGG OTOMOTİV TAŞIMACILIK SANAYİ VE TİCARET ANONİM ŞİRKETİ, Hatay",
+            "isdc": false,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 0,
+            "dcspeed": 0,
+            "latitude": 36.952728,
+            "longitude": 36.127508,
+            "address": "Hürriyet Mah. Hürriyet Küme Evleri No:282, Erzin, 31960 Hatay / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - GGG OTOMOTİV TAŞIMACILIK SANAYİ VE TİCARET ANONİM ŞİRKETİ, Kayseri",
+            "isdc": true,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 38.749667,
+            "longitude": 35.398917,
+            "address": "Şeker, Osman Kavuncu Blv. No:362, Kocasinan, 38080 Kayseri / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Gizerler AVM, Adana",
+            "isdc": true,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 2,
+            "dcspeed": 90,
+            "latitude": 36.992797,
+            "longitude": 35.324203,
+            "address": "Çınarlı, T, Turhan Cemal Beriker Blv. No:52, Seyhan, 1060 Adana / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Gloria Golf Resort Antalya",
+            "isdc": true,
+            "account": 2,
+            "acspeed": 22,
+            "dccount": 4,
+            "dcspeed": 120,
+            "latitude": 36.842083,
+            "longitude": 31.110917,
+            "address": "Belek Mah. Turizm Cad. No: 12A/A, Serik, 07506 Antalya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Gloria Sports Arena, Antalya",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 6,
+            "dcspeed": 120,
+            "latitude": 36.864056,
+            "longitude": 31.052222,
+            "address": "Belek, Turizm Cd. No:1 No: 4B, Serik, 07506 Antalya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Gloria Verde Resort, Antalya",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 36.846306,
+            "longitude": 31.088889,
+            "address": "Belek Mah. Kongre Cad. No: 14A/A, Serik, 07500 Antalya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Goca Dükgan, Marmaris, Muğla",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 36.860167,
+            "longitude": 28.254639,
+            "address": "Camiavlu, 517. Sk., Armutalan/Marmaris, 48706 Muğla / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Golden Age Bodrum Hotel, Muğla",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 37.114944,
+            "longitude": 27.306472,
+            "address": "Yalıkavak, Tilkicik Cd. No:85, Bodrum, 48990 Muğla / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Gönül Parke, Manisa",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 180,
+            "latitude": 38.6185,
+            "longitude": 27.378194,
+            "address": "75. Yıl, 5327. Sk. No:1/A, Yunusemre, 45010 Manisa / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Gör-Tan Otomotiv, Kocaeli",
+            "isdc": true,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 1,
+            "dcspeed": 30,
+            "latitude": 40.791083,
+            "longitude": 29.406306,
+            "address": "Köşklü Çeşme, İstanbul Cd. No:91, Gebze, 41400 Kocaeli / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Gören Otomotiv, Muğla",
+            "isdc": true,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.255306,
+            "longitude": 28.229972,
+            "address": "Bayır, Aydın Karayolu 11.Km, Muğla Merkez, 48000 Muğla / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Grand Altuntaş Otel, Aksaray",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 38.401789,
+            "longitude": 34.029419,
+            "address": "Zafer Mah. Muhsin Yazıcıoğlu Blv. No:150, Merkez, 68100 Aksaray / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Grand Çaykaram Hotel, Trabzon",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.742459,
+            "longitude": 40.241255,
+            "address": "Şahinkaya Mahallesi, Hurmalık 1 Küme Evleri, No 2/2, Çaykara, 61940 Trabzon / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Grand Karaman Otel, Karaman",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 4,
+            "dcspeed": 120,
+            "latitude": 37.187758,
+            "longitude": 33.179047,
+            "address": "Ataturk Mah. 15 Temmuz, Şehitler Blv No:34, Merkez, 70110 Karaman / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Grand Keskin Hotel, Denizli",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.785694,
+            "longitude": 29.089806,
+            "address": "Topraklık, Gazi Mustafa Kemal Blv. No:11, Denizli Merkez, 20150 Denizli / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Guzel İnşaat, Ankara",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 4,
+            "dcspeed": 120,
+            "latitude": 39.9528,
+            "longitude": 32.862108,
+            "address": "Ziraat, Altındağ Cd. No:31, 6110 Ankara / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Gülsoy Oto, Tuzla",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 4,
+            "dcspeed": 120,
+            "latitude": 40.918083,
+            "longitude": 29.347972,
+            "address": "Fatih, Katip Çelebi Caddesi No:47, Tuzla, 34956 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Gülsoy Otomotiv, Florya",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.986806,
+            "longitude": 28.790917,
+            "address": "İstanbul-Edirne Asfaltı Şenlikköy Mah. Akasya Sokak No:22, Florya, 34153 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Gülsoy Otomotiv 2, Florya",
+            "isdc": true,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 2,
+            "dcspeed": 50,
+            "latitude": 40.986603,
+            "longitude": 28.790953,
+            "address": "İstanbul-Edirne Asfaltı Şenlikköy Mah. Akasya Sokak No:22, Florya, 34153 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Gündoğdu Gıda, Üsküdar",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 90,
+            "latitude": 41.057556,
+            "longitude": 29.065667,
+            "address": "Küçüksu Mah. No:17/1-2 Üsküdar İstanbul, Kaldırım Cd., Üsküdar, 34684 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Gürsoy Otomotiv, Mersin",
+            "isdc": false,
+            "account": 2,
+            "acspeed": 22,
+            "dccount": 0,
+            "dcspeed": 0,
+            "latitude": 36.739414,
+            "longitude": 34.517583,
+            "address": "Merkez Mah. Gazi Mustafa Kemal Blv. No:872, Mezitli, 33200 Mersin / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Gürteks, Denizli",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.841361,
+            "longitude": 29.035944,
+            "address": "Hacıeyüplü, 3154. Sk. No:3, Denizli Merkez/Denizli, 20050 Denizli / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Hacı İbrahimoğulları, Kırıkkale",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 180,
+            "latitude": 39.878,
+            "longitude": 33.440314,
+            "address": "Doğanlık, Tahsin Durlu Caddesi No:33, Yahşihan, 71200 Kırıkkale / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Hacıoğlu Otomotiv (Ford), Denizli",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 37.803694,
+            "longitude": 29.089722,
+            "address": "Zafer Mah. 8020. Sk. No:32/A, Merkezefendi, 20020 Denizli / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Halilin Yeri, Muğla",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 1,
+            "dcspeed": 30,
+            "latitude": 37.055806,
+            "longitude": 28.337111,
+            "address": "Akyaka Mah, İnişdibi Cd. No:48 Ula, 48650 Muğla / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Hampton by Hilton 2, Samsun",
+            "isdc": true,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 41.225281,
+            "longitude": 36.430656,
+            "address": "Kerimbey Mah. Işık Sk. No:2, Tekkeköy, 55330 Samsun / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Hampton by Hilton Istanbul Zeytinbur",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.993361,
+            "longitude": 28.918861,
+            "address": "Kazlıçeşme, Prof. Muammer Aksoy Cad. No:3, Zeytinburnu, 34020 İstanbul / Türkiye",
+            "opentime": "Pazartesi - Cumartesi : 10:00 - 18:00, Pazar - Tatil Günleri : 10:00 - 13:00",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Hampton by Hilton Ordu",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.983194,
+            "longitude": 37.914611,
+            "address": "Akyazı, Yavuz Sultan Selim Cd. 35-59, Altınordu, 52200 Ordu / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Hampton by Hilton, Gelibolu",
+            "isdc": false,
+            "account": 2,
+            "acspeed": 22,
+            "dccount": 0,
+            "dcspeed": 0,
+            "latitude": 40.413509,
+            "longitude": 26.678825,
+            "address": "",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Hampton by Hilton, Samsun",
+            "isdc": false,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 0,
+            "dcspeed": 0,
+            "latitude": 41.22538,
+            "longitude": 36.430801,
+            "address": "Kerimbey Mah. Işık Sk. No:2, Tekkeköy, 55330 Samsun / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Hapimag Resort Sea Garden, Bodrum",
+            "isdc": false,
+            "account": 2,
+            "acspeed": 22,
+            "dccount": 0,
+            "dcspeed": 0,
+            "latitude": 36.988056,
+            "longitude": 27.553333,
+            "address": "Çiftlik Mahallesi, Yalıdağ Cd No 40, Bodrum, 48400 Muğla / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Hasanbaşoğlu Oto, Trabzon",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 4,
+            "dcspeed": 120,
+            "latitude": 40.990389,
+            "longitude": 39.799306,
+            "address": "Pelitli Mah. Rize Cad. No:38, Ortahisar , 61100 Trabzon / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Haseller Çelik, Kocaeli",
+            "isdc": true,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 2,
+            "dcspeed": 120,
+            "latitude": 40.749861,
+            "longitude": 29.952556,
+            "address": "Sanayi, Kuzey Sk. No:10, İzmit, 41050 Kocaeli / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Hasmer Oto, Bursa",
+            "isdc": true,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 2,
+            "dcspeed": 60,
+            "latitude": 40.289238,
+            "longitude": 28.936497,
+            "address": "Çağrışan Mh. 2000. Sk. No: 1A, Mudanya, 16940 Bursa / Türkiye",
+            "opentime": "Pazartesi - Cumartesi : 08:30 - 18:30, Pazar : 11:00 - 16:00",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Hasmer Otomotiv, Konya",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 180,
+            "latitude": 37.884472,
+            "longitude": 32.544167,
+            "address": "Fevzi Çakmak Mahallesi, Adana Çevre Yolu Cd. No: 95, Karatay, 42210 Konya / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": false,
+            "food": false,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Hasmer Şaşmaz Plaza, Ankara",
+            "isdc": true,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 2,
+            "dcspeed": 50,
+            "latitude": 39.938099,
+            "longitude": 32.713081,
+            "address": "Hasmer Şaşmaz Plaza Bahçekapı Mah. Sanayi Bulvarı No: 22 Şaşmaz, 06797 Ankara / Türkiye",
+            "opentime": "Pazartesi - Cumartesi : 08:30 - 18:00",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": false
+        },
+        {
+            "name": "E-Şarj - Hassoy, Trabzon",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 2,
+            "dcspeed": 90,
+            "latitude": 41.012833,
+            "longitude": 39.609694,
+            "address": "Orta, Adnan Kahveci Blv. No: 75/A, Akçaabat, 61300 Trabzon / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Hastalya Otomotiv, Antalya",
+            "isdc": true,
+            "account": 1,
+            "acspeed": 22,
+            "dccount": 2,
+            "dcspeed": 50,
+            "latitude": 36.905548,
+            "longitude": 30.753563,
+            "address": "Göksu Mah. Gazi Bulvarı 92. Sokak No: 465/2 Çevreyolu Üzeri Kepez, 07260 Antalya / Türkiye",
+            "opentime": "Pazartesi - Cumartesi : 08:45 - 18:00, Pazar : 10:00 - 16:00",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Hatton Suites, Ankara",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 4,
+            "dcspeed": 180,
+            "latitude": 40.064333,
+            "longitude": 32.92133,
+            "address": "Saray Osmangazi, Özal Bulvarı No:124, Pursaklar, 6145 Ankara / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
+        },
+        {
+            "name": "E-Şarj - Hatton Suites 2, Ankara",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 6,
+            "dcspeed": 180,
+            "latitude": 40.064722,
+            "longitude": 32.921556,
+            "address": "Saray Osmangazi, Özal Bulvarı No:124, Pursaklar, 6145 Ankara / Türkiye",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food": true,
+            "hotel": true
         }
     ]
 }

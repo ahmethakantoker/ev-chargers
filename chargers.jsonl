@@ -3703,14 +3703,14 @@
             "acspeed": 0,
             "dccount": 3,
             "dcspeed": 180,
-            "latitude": 41.0559394, 
+            "latitude": 41.0559394,
             "longitude": 28.997885,
             "address": "Teşvikiye, Hakkı Yeten Cd., 34365 Şişli/İstanbul",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
             "food:": false,
-            "hotel": true
+            "hotel": false
         }
     ]
 }

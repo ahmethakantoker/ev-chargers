@@ -3695,22 +3695,6 @@
             "shop": true,
             "food": true,
             "hotel": true 
-        },
-        {
-            "name": "E-Şarj - Shell Ihlamur",
-            "isdc": true,
-            "account": 0,
-            "acspeed": 0,
-            "dccount": 3,
-            "dcspeed": 180,
-            "latitude": 41.055939,
-            "longitude": 28.997885,
-            "address": "Teşvikiye Hakkı Yeten Cd. 34365 Şişli/İstanbul",
-            "opentime": "Pazartesi - Pazar : 24 Saat",
-            "wc": true,
-            "shop": true,
-            "food:": false,
-            "hotel": true
         }
     ]
 }

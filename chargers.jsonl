@@ -3696,5 +3696,21 @@
             "food": true,
             "hotel": true 
         },
+        {
+            "name": "Trugo - Shell Ihlamur",
+            "isdc": true,
+            "account": 0,
+            "acspeed": 0,
+            "dccount": 3,
+            "dcspeed": 180,
+            "latitude": 41.055939489920625, 
+            "longitude": 28.99788555382232,
+            "address": "Teşvikiye, Hakkı Yeten Cd., 34365 Şişli/İstanbul",
+            "opentime": "Pazartesi - Pazar : 24 Saat",
+            "wc": true,
+            "shop": true,
+            "food:": false,
+            "hotel": true
+        },
     ]
 }

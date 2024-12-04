@@ -3697,20 +3697,20 @@
             "hotel": true 
         },
         {
-            "name": "Trugo - Rize Çay Bardağı Çarşısı",
+            "name": "Trugo - Shell Ihlamur",
             "isdc": true,
             "account": 0,
             "acspeed": 0,
-            "dccount": 2,
+            "dccount": 3,
             "dcspeed": 180,
-            "latitude": 41.02859, 
-            "longitude": 40.51735,
-            "address": "Eminettin, 53020 Rize Merkez/Rize",
+            "latitude": 41.055939, 
+            "longitude": 28.997885,
+            "address": "Teşvikiye, Hakkı Yeten Cd., 34365 Şişli/İstanbul",
             "opentime": "Pazartesi - Pazar : 24 Saat",
             "wc": true,
             "shop": true,
-            "food:": true,
-            "hotel": false
-        },
+            "food:": false,
+            "hotel": true
+        }
     ]
 }

@@ -3711,6 +3711,6 @@
             "shop": true,
             "food:": false,
             "hotel": true
-        },
+        }
     ]
 }

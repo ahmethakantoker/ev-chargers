@@ -19,7 +19,7 @@
             "price3": "9.60"
         },
         {
-            "name": "Tesla Supercharger",
+            "name": "Tesla",
             "price1": "8.80",
             "price2": "8.80",
             "price3": "8.80"
@@ -29,6 +29,12 @@
             "price1": "9.80",
             "price2": "9.80",
             "price3": "9.80"
+        },
+        {
+            "name": "Oncharge",
+            "price1": "7.50",
+            "price2": "9.50",
+            "price3": "9.50"
         }
     ]
 }

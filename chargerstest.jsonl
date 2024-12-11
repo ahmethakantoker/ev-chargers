@@ -1,5 +1,5 @@
 {
-    
+    "request": [
         {
             "name": "E-Şarj - M1 Konya AVM",
             "isdc": true,
@@ -31264,5 +31264,5 @@
             "food": true,
             "hotel": false
         }
-    
+    ]
 }

@@ -2,39 +2,39 @@
     "request": [
         {
             "name": "E-Şarj",
-            "price1": "8.90",
-            "price2": "9.90",
-            "price3": "11.90"
+            "price1": "9.40",
+            "price2": "13.50 - 15.80",
+            "price3": "15.80"
         },
         {
             "name": "ZES",
-            "price1": "9.49",
-            "price2": "10.99",
-            "price3": "10.99"
+            "price1": "8.99",
+            "price2": "9.99 - 12.99",
+            "price3": "12.99"
         },
         {
             "name": "Trugo",
-            "price1": "6.96",
-            "price2": "9.60",
-            "price3": "9.60"
+            "price1": "8.49",
+            "price2": "10.60 - 11.82",
+            "price3": "11.82"
         },
         {
             "name": "Tesla",
-            "price1": "8.80",
-            "price2": "8.80",
-            "price3": "8.80"
+            "price1": "",
+            "price2": "8.90 - 11.10",
+            "price3": 11.10"
         },
         {
             "name": "EnYakıt",
-            "price1": "9.80",
-            "price2": "9.80",
-            "price3": "9.80"
+            "price1": "11.80",
+            "price2": "11.80",
+            "price3": "11.80"
         },
         {
             "name": "Oncharge",
-            "price1": "7.50",
-            "price2": "9.50",
-            "price3": "9.50"
+            "price1": "8.99",
+            "price2": "12.00",
+            "price3": "12.00"
         }
     ]
 }

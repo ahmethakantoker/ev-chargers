@@ -14,7 +14,7 @@
                         "name": "Alfa Romeo Junior Elettrica",
                         "submodel": "Junior Elettrica",
                         "image": "alfaromeojunioreletttrica.png",
-                        "nominalcapacity": 54.0,
+                        "nominalcapacity": 54,
                         "usablecapacity": 50.8,
                         "batterytype": "Lithium-ion",
                         "cathodematerial": "NCM811",

@@ -11753,7 +11753,7 @@
                         "height": 1650,
                         "roofload": 0,
                         "wheelbase": 2850,
-                        "towhitchpossible": 750,
+                        "towhitchpossible": "Veri Yok",
                         "weightunladen": 2085,
                         "towunbraked": 750,
                         "gvwr": 2550,

@@ -2,7 +2,7 @@
     {
         "id": "brand_alfaromeo",
         "brand": "Alfa Romeo",
-        "brandimage": "alfaromeologo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/alfaromeologo.png",
         "models": [
             {
                 "id": "model_alfaromeojunioreletttrica",
@@ -95,7 +95,7 @@
     {
         "id": "brand_audi",
         "brand": "Audi",
-        "brandimage": "audilogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/audilogo.png",
         "models": [
             {
                 "id": "model_audiq4etron",
@@ -755,7 +755,7 @@
     {
         "id": "brand_bmw",
         "brand": "BMW",
-        "brandimage": "bmwlogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/bmwlogo.png",
         "models": [
             {
                 "id": "model_bmwi4",
@@ -2233,7 +2233,7 @@
     {
         "id": "brand_byd",
         "brand": "BYD",
-        "brandimage": "bydlogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/bydlogo.png",
         "models": [
             {
                 "id": "model_bydatto3",
@@ -2491,7 +2491,7 @@
     {
         "id": "brand_citroen",
         "brand": "Citroën",
-        "brandimage": "citroenlogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/citroenlogo.png",
         "models": [
             {
                 "id": "model_citroenec4",
@@ -2828,7 +2828,7 @@
     {
         "id": "brand_fiat",
         "brand": "Fiat",
-        "brandimage": "fiatlogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/fiatlogo.png",
         "models": [
             {
                 "id": "model_fiat500e",
@@ -3086,7 +3086,7 @@
     {
         "id": "brand_ford",
         "brand": "Ford",
-        "brandimage": "fordlogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/fordlogo.png",
         "models": [
             {
                 "id": "model_fordmustangmache",
@@ -3495,7 +3495,7 @@
     {
         "id": "brand_hongqi",
         "brand": "Hongqi",
-        "brandimage": "hongqilogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/hongqilogo.png",
         "models": [
             {
                 "id": "model_hongqiehs9",
@@ -3746,7 +3746,7 @@
     {
         "id": "brand_hyundai",
         "brand": "Hyundai",
-        "brandimage": "hyundailogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/hyundailogo.png",
         "models": [
             {
                 "id": "model_hyundaikonaelectric",
@@ -4485,7 +4485,7 @@
     {
         "id": "brand_jaguar",
         "brand": "Jaguar",
-        "brandimage": "jaguarlogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/jaguarlogo.png",
         "models": [
             {
                 "id": "model_jaguaripace",
@@ -4578,7 +4578,7 @@
     {
         "id": "brand_jeep",
         "brand": "Jeep",
-        "brandimage": "jeeplogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/jeeplogo.png",
         "models": [
             {
                 "id": "model_jeepavengerelectric",
@@ -4671,7 +4671,7 @@
     {
         "id": "brand_kgm",
         "brand": "KGM",
-        "brandimage": "kgmlogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/kgmlogo.png",
         "models": [
             {
                 "id": "model_kgmtorresevx",
@@ -4764,7 +4764,7 @@
     {
         "id": "brand_kia",
         "brand": "Kia",
-        "brandimage": "kialogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/kialogo.png",
         "models": [
             {
                 "id": "model_kianiroev",
@@ -5668,7 +5668,7 @@
     {
         "id": "brand_leapmotor",
         "brand": "Leapmotor",
-        "brandimage": "leapmotorloggo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/leapmotorloggo.png",
         "models": [
             {
                 "id": "model_leapmotort03",
@@ -5761,7 +5761,7 @@
     {
         "id": "brand_lexus",
         "brand": "Lexus",
-        "brandimage": "lexuslogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/lexuslogo.png",
         "models": [
             {
                 "id": "model_lexusrz",
@@ -5933,7 +5933,7 @@
     {
         "id": "brand_lucid",
         "brand": "Lucid",
-        "brandimage": "lucidlogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/lucidlogo.png",
         "models": [
             {
                 "id": "model_lucidair",
@@ -6184,7 +6184,7 @@
     {
         "id": "brand_mercedesbenz",
         "brand": "Mercedes-Benz",
-        "brandimage": "mercedeslogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/mercedeslogo.png",
         "models": [
             {
                 "id": "model_mercedeseqa",
@@ -7906,7 +7906,7 @@
     {
         "id": "brand_mg",
         "brand": "MG",
-        "brandimage": "mglogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/mglogo.png",
         "models": [
             {
                 "id": "model_mgzsev",
@@ -8487,7 +8487,7 @@
     {
         "id": "brand_mini",
         "brand": "Mini",
-        "brandimage": "minilogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/minilogo.png",
         "models": [
             {
                 "id": "model_minicountrymane",
@@ -8659,7 +8659,7 @@
     {
         "id": "brand_opel",
         "brand": "Opel",
-        "brandimage": "opellogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/opellogo.png",
         "models": [
             {
                 "id": "model_opelcorsaelectric",
@@ -8924,7 +8924,7 @@
     {
         "id": "brand_peugeot",
         "brand": "Peugeot",
-        "brandimage": "peugeotlogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/peugeotlogo.png",
         "models": [
             {
                 "id": "model_peugeote208",
@@ -9354,7 +9354,7 @@
     {
         "id": "brand_polestar",
         "brand": "Polestar",
-        "brandimage": "polestarlogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/polestarlogo.png",
         "models": [
             {
                 "id": "model_polestar2",
@@ -10093,7 +10093,7 @@
     {
         "id": "brand_porsche",
         "brand": "Porsche",
-        "brandimage": "porschelogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/porschelogo.png",
         "models": [
             {
                 "id": "model_porschemacanelectric",
@@ -10588,7 +10588,7 @@
     {
         "id": "brand_renault",
         "brand": "Renault",
-        "brandimage": "renaultlogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/renaultlogo.png",
         "models": [
             {
                 "id": "model_renaultkangooetech",
@@ -11262,7 +11262,7 @@
     {
         "id": "brand_rivian",
         "brand": "Rivian",
-        "brandimage": "rivianlogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/rivianlogo.png",
         "models": [
             {
                 "id": "model_rivianr1t",
@@ -11592,7 +11592,7 @@
     {
         "id": "brand_rollsroyce",
         "brand": "Rolls-Royce",
-        "brandimage": "rollsroycelogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/rollsroycelogo.png",
         "models": [
             {
                 "id": "model_rollsroycespectre",
@@ -11685,7 +11685,7 @@
     {
         "id": "brand_subaru",
         "brand": "Subaru",
-        "brandimage": "subarulogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/subarulogo.png",
         "models": [
             {
                 "id": "model_subarusolterra",
@@ -11778,7 +11778,7 @@
     {
         "id": "brand_tesla",
         "brand": "Tesla",
-        "brandimage": "teslalogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/teslalogo.png",
         "models": [
             {
                 "id": "model_teslamodel3",
@@ -12761,7 +12761,7 @@
     {
         "id": "brand_togg",
         "brand": "Togg",
-        "brandimage": "togglogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/togglogo.png",
         "models": [
             {
                 "id": "model_toggt10x",
@@ -13009,7 +13009,7 @@
     {
         "id": "brand_toyota",
         "brand": "Toyota",
-        "brandimage": "toyotalogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/toyotalogo.png",
         "models": [
             {
                 "id": "model_toyotabz4x",
@@ -13181,7 +13181,7 @@
     {
         "id": "brand_volvo",
         "brand": "Volvo",
-        "brandimage": "volvologo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/volvologo.png",
         "models": [
             {
                 "id": "model_volvoex30",
@@ -13999,7 +13999,7 @@
     {
         "id": "brand_voyah",
         "brand": "Voyah",
-        "brandimage": "voyahlogo.png",
+        "brandimage": "https://raw.githubusercontent.com/ahmethakantoker/ev-chargers/main/vehicle-img/voyahlogo.png",
         "models": [
             {
                 "id": "model_voyahfree",
